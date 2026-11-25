@@ -1,0 +1,2546 @@
+{
+  "passed": true,
+  "checks": 558,
+  "catalogue_id": "oobb_part_holder_motor_servo_micro_4_width_3_height_14d2_depth_bearing_6704_version2",
+  "dimensions": {
+    "face": 7.6,
+    "seat": 10,
+    "holder_top": 9,
+    "retainer_bottom": 9,
+    "bearing_roof": 14.1,
+    "assembly_top": 16,
+    "bearing_lip_thickness": 1.9,
+    "retainer_thickness": 7,
+    "servo_screw_length": 30,
+    "cover_screw_head": -9.8,
+    "cover_screw_length": 25,
+    "nut_bottom": 16,
+    "split": 19.4,
+    "output_top": 21.6,
+    "lid_thickness": 2.2,
+    "output_screw_length": 10,
+    "output_join_nut_top": 14.2,
+    "output_join_radius": 6.35,
+    "top_tip_relief_bottom": 6.9,
+    "shell_top": 7,
+    "top": 14.2,
+    "bearing_support_depth": 1,
+    "holder_plate_bottom": 7,
+    "servo_nut_bottom": -10.9,
+    "shell_bottom": -28,
+    "shell_floor": -25,
+    "nut_pocket_depth": 3.4,
+    "servo_nut_pocket_depth": 3.4,
+    "servo_deck_top": 7,
+    "servo_head_top": 16,
+    "nut_block_top": -4.5,
+    "driver_access_radius": 2.5,
+    "driver_shaft_radius": 2,
+    "clamp_head_relief_bottom": -7.7
+  },
+  "results": [
+    {
+      "test": "holder_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "holder_bed",
+      "passed": true
+    },
+    {
+      "test": "holder_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "bearing_retainer_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "bearing_retainer_bed",
+      "passed": true
+    },
+    {
+      "test": "bearing_retainer_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "female_rotor_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "female_rotor_bed",
+      "passed": true
+    },
+    {
+      "test": "female_rotor_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "output_lid_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "output_lid_bed",
+      "passed": true
+    },
+    {
+      "test": "output_lid_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "clamshell_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "clamshell_bed",
+      "passed": true
+    },
+    {
+      "test": "clamshell_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "clamp_left_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "clamp_left_bed",
+      "passed": true
+    },
+    {
+      "test": "clamp_left_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "clamp_right_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "clamp_right_bed",
+      "passed": true
+    },
+    {
+      "test": "clamp_right_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "bearing_support_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "bearing_support_bed",
+      "passed": true
+    },
+    {
+      "test": "bearing_support_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "nut_block_left_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "nut_block_left_bed",
+      "passed": true
+    },
+    {
+      "test": "nut_block_left_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "nut_block_right_watertight_single_solid",
+      "passed": true
+    },
+    {
+      "test": "nut_block_right_bed",
+      "passed": true
+    },
+    {
+      "test": "nut_block_right_actual_depth",
+      "passed": true
+    },
+    {
+      "test": "ten_printable_solids",
+      "passed": true
+    },
+    {
+      "test": "59_by_44_footprint",
+      "passed": true
+    },
+    {
+      "test": "bearing_on_oobb_centre",
+      "passed": true
+    },
+    {
+      "test": "shared_mechanics_class",
+      "passed": true
+    },
+    {
+      "test": "shared_implementation_draw_rotor",
+      "passed": true
+    },
+    {
+      "test": "shared_implementation_draw_retainer",
+      "passed": true
+    },
+    {
+      "test": "shared_implementation_draw_output_lid",
+      "passed": true
+    },
+    {
+      "test": "shared_implementation_output_positions",
+      "passed": true
+    },
+    {
+      "test": "shared_implementation_output_joins",
+      "passed": true
+    },
+    {
+      "test": "shared_runner_cross",
+      "passed": true
+    },
+    {
+      "test": "shared_diagonal_M3",
+      "passed": true
+    },
+    {
+      "test": "main_plate_full_flat_bed_contact",
+      "passed": true,
+      "contact_area_mm2": 1920.552554233669
+    },
+    {
+      "test": "main_plate_has_no_bearing_projection",
+      "passed": true
+    },
+    {
+      "test": "main_plate_corner_on_bed_-34_-19",
+      "passed": true
+    },
+    {
+      "test": "main_plate_corner_on_bed_-34_19",
+      "passed": true
+    },
+    {
+      "test": "main_plate_corner_on_bed_19_-19",
+      "passed": true
+    },
+    {
+      "test": "main_plate_corner_on_bed_19_19",
+      "passed": true
+    },
+    {
+      "test": "whole_bearing_inside_upper_plate_Z",
+      "passed": true,
+      "bearing_Z_mm": [
+        10.0,
+        14.0
+      ],
+      "upper_plate_Z_mm": [
+        9.0,
+        16.0
+      ]
+    },
+    {
+      "test": "rounded_plate_depths",
+      "passed": true,
+      "main_mm": 9,
+      "upper_mm": 7,
+      "shell_mm": 35
+    },
+    {
+      "test": "whole_mm_fixed_top",
+      "passed": true
+    },
+    {
+      "test": "retaining_lip_at_least_1d5mm",
+      "passed": true
+    },
+    {
+      "test": "full_upper_bearing_seat_10.3",
+      "passed": true
+    },
+    {
+      "test": "full_upper_bearing_seat_12",
+      "passed": true
+    },
+    {
+      "test": "full_upper_bearing_seat_14.0",
+      "passed": true
+    },
+    {
+      "test": "main_plate_shaft_bore_only",
+      "passed": true
+    },
+    {
+      "test": "bearing_wholly_above_main_plate",
+      "passed": true
+    },
+    {
+      "test": "M3_stack_passage_-22.5_-15",
+      "passed": true
+    },
+    {
+      "test": "M3_stack_passage_-22.5_15",
+      "passed": true
+    },
+    {
+      "test": "M3_stack_passage_7.5_-15",
+      "passed": true
+    },
+    {
+      "test": "M3_stack_passage_7.5_15",
+      "passed": true
+    },
+    {
+      "test": "holder_corner_M6_preserved_-30_-15",
+      "passed": true
+    },
+    {
+      "test": "holder_corner_M6_preserved_-30_15",
+      "passed": true
+    },
+    {
+      "test": "holder_corner_M6_preserved_15_-15",
+      "passed": true
+    },
+    {
+      "test": "holder_corner_M6_preserved_15_15",
+      "passed": true
+    },
+    {
+      "test": "retainer_corner_M6_preserved_-30_-15",
+      "passed": true
+    },
+    {
+      "test": "retainer_corner_M6_preserved_-30_15",
+      "passed": true
+    },
+    {
+      "test": "retainer_corner_M6_preserved_15_-15",
+      "passed": true
+    },
+    {
+      "test": "retainer_corner_M6_preserved_15_15",
+      "passed": true
+    },
+    {
+      "test": "bottom_corner_M6_preserved_-30_-15",
+      "passed": true
+    },
+    {
+      "test": "bottom_corner_M6_preserved_-30_15",
+      "passed": true
+    },
+    {
+      "test": "bottom_corner_M6_preserved_15_-15",
+      "passed": true
+    },
+    {
+      "test": "bottom_corner_M6_preserved_15_15",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-30.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-30.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-22.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-22.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_-7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "holder_grid_open_15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-30.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-30.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-22.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-22.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "top_captive_M3_-15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "top_nut_tip_relief_-15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "top_captive_M3_-15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "top_nut_tip_relief_-15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "top_captive_M3_-7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "top_nut_tip_relief_-7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_-7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "top_captive_M3_-7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "top_nut_tip_relief_-7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_open_15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_open_-30.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-30.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-30.0_0.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-30.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_open_-30.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-22.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-22.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-22.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_open_-15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-15.0_0.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_open_-15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_open_-7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-7.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-7.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_-7.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_open_-7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_0.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_0.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_0.0_0.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_0.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_0.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_7.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_7.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_7.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_open_15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_15.0_0.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_bottom_solid_15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_open_15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "nut_block_opening_and_roof_-24_-5.2",
+      "passed": true
+    },
+    {
+      "test": "flush_servo_countersink_-24_-5.2",
+      "passed": true
+    },
+    {
+      "test": "plain_mount_shaft_in_main_plate_-24_-5.2",
+      "passed": true
+    },
+    {
+      "test": "nut_block_opening_and_roof_-24_5.2",
+      "passed": true
+    },
+    {
+      "test": "flush_servo_countersink_-24_5.2",
+      "passed": true
+    },
+    {
+      "test": "plain_mount_shaft_in_main_plate_-24_5.2",
+      "passed": true
+    },
+    {
+      "test": "nut_block_opening_and_roof_14.5_-5.2",
+      "passed": true
+    },
+    {
+      "test": "flush_servo_countersink_14.5_-5.2",
+      "passed": true
+    },
+    {
+      "test": "plain_mount_shaft_in_main_plate_14.5_-5.2",
+      "passed": true
+    },
+    {
+      "test": "nut_block_opening_and_roof_14.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "flush_servo_countersink_14.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "plain_mount_shaft_in_main_plate_14.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "all_micro_nut_pockets_3d4mm",
+      "passed": true
+    },
+    {
+      "test": "runner_nut_roof_captures_taller_pockets",
+      "passed": true
+    },
+    {
+      "test": "positive_control_bearing_hits_flat_main_plate",
+      "passed": true,
+      "volume_mm3": 119.31723835321765
+    },
+    {
+      "test": "straight_main_bore_without_annular_overhang",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "outer_race_ring_inside_upper_plate",
+      "passed": true
+    },
+    {
+      "test": "ring_vs_main",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "ring_vs_upper",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "top_driver_access_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "top_driver_access_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "top_driver_access_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "top_driver_access_vs_reference_bearing",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "top_driver_access_vs_reference_cover_fasteners",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "cover_fasteners_fit_clamshell",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "sg90_nose_case_gap",
+      "passed": true
+    },
+    {
+      "test": "sg90_spline_engagement",
+      "passed": true,
+      "engagement_mm": 3.0
+    },
+    {
+      "test": "sg90_factory_screw_engagement",
+      "passed": true,
+      "engagement_mm": 3.45
+    },
+    {
+      "test": "sg90_centre_shaft_bore",
+      "passed": true
+    },
+    {
+      "test": "sg90_short_screw_head_seat",
+      "passed": true
+    },
+    {
+      "test": "sg90_socket_roof_1d2",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_-7.5_0_6.8",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_-7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_-7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "sg90_journal_wall_-7.5_0",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_7.5_0_6.8",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "sg90_journal_wall_7.5_0",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_0_-7.5_6.8",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_0_-7.5_12",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_0_-7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "sg90_journal_wall_0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_0_7.5_6.8",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_0_7.5_12",
+      "passed": true
+    },
+    {
+      "test": "sg90_cross_M3_through_0_7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "sg90_journal_wall_0_7.5",
+      "passed": true
+    },
+    {
+      "test": "sg90_case_vs_frame",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "sg90_case_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_runner_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_retention_screw_vs_runner",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "sg90_retention_screw_vs_lid",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_retention_vs_diagonal_hardware",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_bearing_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_ear_clamps_vs_case",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "sg90_ear_clamps_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_ear_clamps_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_driver_access_vs_reference_case_sg90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_driver_access_vs_installed_rotor_sg90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_driver_access_vs_clamp_bars",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_complete_clamp_screws_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_complete_clamp_screws_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_complete_clamp_screws_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_complete_clamp_screws_vs_reference_case_sg90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_complete_clamp_screws_vs_installed_rotor_sg90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_complete_clamp_screws_vs_reference_cover_fasteners",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_positive_control_clamps_contact_ears",
+      "passed": true,
+      "volume_mm3": 15.56767339370523
+    },
+    {
+      "test": "sg90_servo_insertion_from_bottom",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "sg90_top_M3_30_full_nut_engagement",
+      "passed": true,
+      "tip_Z_mm": -14,
+      "nut_bottom_Z_mm": -9.9
+    },
+    {
+      "test": "sg90_nuts_fit_blocks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_clamp_nuts_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_clamp_nuts_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_clamp_nuts_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_clamp_nuts_vs_reference_bearing",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "sg90_front_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 0.9796439870241898
+    },
+    {
+      "test": "sg90_rear_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 3.7189541839689846
+    },
+    {
+      "test": "mg90s_nose_case_gap",
+      "passed": true
+    },
+    {
+      "test": "mg90s_spline_engagement",
+      "passed": true,
+      "engagement_mm": 3.5
+    },
+    {
+      "test": "mg90s_factory_screw_engagement",
+      "passed": true,
+      "engagement_mm": 3.45
+    },
+    {
+      "test": "mg90s_centre_shaft_bore",
+      "passed": true
+    },
+    {
+      "test": "mg90s_short_screw_head_seat",
+      "passed": true
+    },
+    {
+      "test": "mg90s_socket_roof_1d2",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_-7.5_0_7.8",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_-7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_-7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "mg90s_journal_wall_-7.5_0",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_7.5_0_7.8",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "mg90s_journal_wall_7.5_0",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_0_-7.5_7.8",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_0_-7.5_12",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_0_-7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "mg90s_journal_wall_0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_0_7.5_7.8",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_0_7.5_12",
+      "passed": true
+    },
+    {
+      "test": "mg90s_cross_M3_through_0_7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "mg90s_journal_wall_0_7.5",
+      "passed": true
+    },
+    {
+      "test": "mg90s_case_vs_frame",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "mg90s_case_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_runner_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_retention_screw_vs_runner",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "mg90s_retention_screw_vs_lid",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_retention_vs_diagonal_hardware",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_bearing_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_ear_clamps_vs_case",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "mg90s_ear_clamps_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_ear_clamps_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_driver_access_vs_reference_case_mg90s",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_driver_access_vs_installed_rotor_mg90s",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_driver_access_vs_clamp_bars",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_complete_clamp_screws_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_complete_clamp_screws_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_complete_clamp_screws_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_complete_clamp_screws_vs_reference_case_mg90s",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_complete_clamp_screws_vs_installed_rotor_mg90s",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_complete_clamp_screws_vs_reference_cover_fasteners",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_positive_control_clamps_contact_ears",
+      "passed": true,
+      "volume_mm3": 16.45065275900521
+    },
+    {
+      "test": "mg90s_servo_insertion_from_bottom",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "mg90s_top_M3_30_full_nut_engagement",
+      "passed": true,
+      "tip_Z_mm": -14,
+      "nut_bottom_Z_mm": -10.4
+    },
+    {
+      "test": "mg90s_nuts_fit_blocks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_clamp_nuts_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_clamp_nuts_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_clamp_nuts_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_clamp_nuts_vs_reference_bearing",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_front_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 1.767571736145119
+    },
+    {
+      "test": "mg90s_rear_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 3.3724063750943762
+    },
+    {
+      "test": "fs90_nose_case_gap",
+      "passed": true
+    },
+    {
+      "test": "fs90_spline_engagement",
+      "passed": true,
+      "engagement_mm": 3.7
+    },
+    {
+      "test": "fs90_factory_screw_engagement",
+      "passed": true,
+      "engagement_mm": 3.45
+    },
+    {
+      "test": "fs90_centre_shaft_bore",
+      "passed": true
+    },
+    {
+      "test": "fs90_short_screw_head_seat",
+      "passed": true
+    },
+    {
+      "test": "fs90_socket_roof_1d2",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_-7.5_0_5.0",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_-7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_-7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "fs90_journal_wall_-7.5_0",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_7.5_0_5.0",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "fs90_journal_wall_7.5_0",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_0_-7.5_5.0",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_0_-7.5_12",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_0_-7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "fs90_journal_wall_0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_0_7.5_5.0",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_0_7.5_12",
+      "passed": true
+    },
+    {
+      "test": "fs90_cross_M3_through_0_7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "fs90_journal_wall_0_7.5",
+      "passed": true
+    },
+    {
+      "test": "fs90_case_vs_frame",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "fs90_case_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_runner_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_retention_screw_vs_runner",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "fs90_retention_screw_vs_lid",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_retention_vs_diagonal_hardware",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_bearing_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_ear_clamps_vs_case",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "fs90_ear_clamps_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_ear_clamps_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_driver_access_vs_reference_case_fs90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_driver_access_vs_installed_rotor_fs90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_driver_access_vs_clamp_bars",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_complete_clamp_screws_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_complete_clamp_screws_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_complete_clamp_screws_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_complete_clamp_screws_vs_reference_case_fs90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_complete_clamp_screws_vs_installed_rotor_fs90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_complete_clamp_screws_vs_reference_cover_fasteners",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_positive_control_clamps_contact_ears",
+      "passed": true,
+      "volume_mm3": 16.829253156147264
+    },
+    {
+      "test": "fs90_servo_insertion_from_bottom",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "fs90_top_M3_30_full_nut_engagement",
+      "passed": true,
+      "tip_Z_mm": -14,
+      "nut_bottom_Z_mm": -10.8
+    },
+    {
+      "test": "fs90_nuts_fit_blocks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_clamp_nuts_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_clamp_nuts_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_clamp_nuts_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_clamp_nuts_vs_reference_bearing",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_front_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 1.2336560646650583
+    },
+    {
+      "test": "fs90_rear_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 4.042793655421953
+    },
+    {
+      "test": "fs90r_nose_case_gap",
+      "passed": true
+    },
+    {
+      "test": "fs90r_spline_engagement",
+      "passed": true,
+      "engagement_mm": 3.0
+    },
+    {
+      "test": "fs90r_factory_screw_engagement",
+      "passed": true,
+      "engagement_mm": 3.45
+    },
+    {
+      "test": "fs90r_centre_shaft_bore",
+      "passed": true
+    },
+    {
+      "test": "fs90r_short_screw_head_seat",
+      "passed": true
+    },
+    {
+      "test": "fs90r_socket_roof_1d2",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_-7.5_0_5.2",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_-7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_-7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "fs90r_journal_wall_-7.5_0",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_7.5_0_5.2",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "fs90r_journal_wall_7.5_0",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_0_-7.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_0_-7.5_12",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_0_-7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "fs90r_journal_wall_0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_0_7.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_0_7.5_12",
+      "passed": true
+    },
+    {
+      "test": "fs90r_cross_M3_through_0_7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "fs90r_journal_wall_0_7.5",
+      "passed": true
+    },
+    {
+      "test": "fs90r_case_vs_frame",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "fs90r_case_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_runner_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_retention_screw_vs_runner",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "fs90r_retention_screw_vs_lid",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_retention_vs_diagonal_hardware",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_bearing_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_ear_clamps_vs_case",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "fs90r_ear_clamps_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_ear_clamps_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_driver_access_vs_reference_case_fs90r",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_driver_access_vs_installed_rotor_fs90r",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_driver_access_vs_clamp_bars",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_complete_clamp_screws_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_complete_clamp_screws_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_complete_clamp_screws_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_complete_clamp_screws_vs_reference_case_fs90r",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_complete_clamp_screws_vs_installed_rotor_fs90r",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_complete_clamp_screws_vs_reference_cover_fasteners",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_positive_control_clamps_contact_ears",
+      "passed": true,
+      "volume_mm3": 15.51732124777989
+    },
+    {
+      "test": "fs90r_servo_insertion_from_bottom",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "fs90r_top_M3_30_full_nut_engagement",
+      "passed": true,
+      "tip_Z_mm": -14,
+      "nut_bottom_Z_mm": -10.7
+    },
+    {
+      "test": "fs90r_nuts_fit_blocks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_clamp_nuts_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_clamp_nuts_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_clamp_nuts_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_clamp_nuts_vs_reference_bearing",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_front_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 1.6238002285071882
+    },
+    {
+      "test": "fs90r_rear_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 3.0924949802717756
+    },
+    {
+      "test": "hs55_nose_case_gap",
+      "passed": true
+    },
+    {
+      "test": "hs55_spline_engagement",
+      "passed": true,
+      "engagement_mm": 2.6999999999999993
+    },
+    {
+      "test": "hs55_factory_screw_engagement",
+      "passed": true,
+      "engagement_mm": 2.45
+    },
+    {
+      "test": "hs55_centre_shaft_bore",
+      "passed": true
+    },
+    {
+      "test": "hs55_short_screw_head_seat",
+      "passed": true
+    },
+    {
+      "test": "hs55_socket_roof_1d2",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_-7.5_0_3.9000000000000004",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_-7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_-7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "hs55_journal_wall_-7.5_0",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_7.5_0_3.9000000000000004",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "hs55_journal_wall_7.5_0",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_0_-7.5_3.9000000000000004",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_0_-7.5_12",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_0_-7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "hs55_journal_wall_0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_0_7.5_3.9000000000000004",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_0_7.5_12",
+      "passed": true
+    },
+    {
+      "test": "hs55_cross_M3_through_0_7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "hs55_journal_wall_0_7.5",
+      "passed": true
+    },
+    {
+      "test": "hs55_case_vs_frame",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "hs55_case_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_runner_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_retention_screw_vs_runner",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "hs55_retention_screw_vs_lid",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_retention_vs_diagonal_hardware",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_bearing_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_ear_clamps_vs_case",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "hs55_ear_clamps_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_ear_clamps_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_driver_access_vs_reference_case_hs55",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_driver_access_vs_installed_rotor_hs55",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_driver_access_vs_clamp_bars",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_complete_clamp_screws_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_complete_clamp_screws_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_complete_clamp_screws_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_complete_clamp_screws_vs_reference_case_hs55",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_complete_clamp_screws_vs_installed_rotor_hs55",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_complete_clamp_screws_vs_reference_cover_fasteners",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_positive_control_clamps_contact_ears",
+      "passed": true,
+      "volume_mm3": 15.682667664356993
+    },
+    {
+      "test": "hs55_servo_insertion_from_bottom",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "hs55_top_M3_30_full_nut_engagement",
+      "passed": true,
+      "tip_Z_mm": -14,
+      "nut_bottom_Z_mm": -9.4
+    },
+    {
+      "test": "hs55_nuts_fit_blocks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_clamp_nuts_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_clamp_nuts_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_clamp_nuts_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_clamp_nuts_vs_reference_bearing",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_front_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 1.4945432436299093
+    },
+    {
+      "test": "hs55_rear_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 3.282666916089236
+    },
+    {
+      "test": "hs65hb_nose_case_gap",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_spline_engagement",
+      "passed": true,
+      "engagement_mm": 3.0999999999999996
+    },
+    {
+      "test": "hs65hb_factory_screw_engagement",
+      "passed": true,
+      "engagement_mm": 3.45
+    },
+    {
+      "test": "hs65hb_centre_shaft_bore",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_short_screw_head_seat",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_socket_roof_1d2",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_-7.5_0_7.8",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_-7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_-7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_journal_wall_-7.5_0",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_7.5_0_7.8",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_7.5_0_12",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_7.5_0_15.6",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_journal_wall_7.5_0",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_0_-7.5_7.8",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_0_-7.5_12",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_0_-7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_journal_wall_0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_0_7.5_7.8",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_0_7.5_12",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_cross_M3_through_0_7.5_15.6",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_journal_wall_0_7.5",
+      "passed": true
+    },
+    {
+      "test": "hs65hb_case_vs_frame",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "hs65hb_case_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_runner_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_retention_screw_vs_runner",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "hs65hb_retention_screw_vs_lid",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_retention_vs_diagonal_hardware",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_bearing_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_ear_clamps_vs_case",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "hs65hb_ear_clamps_vs_frame",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_ear_clamps_vs_runner",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_driver_access_vs_reference_case_hs65hb",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_driver_access_vs_installed_rotor_hs65hb",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_driver_access_vs_clamp_bars",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_complete_clamp_screws_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_complete_clamp_screws_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_complete_clamp_screws_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_complete_clamp_screws_vs_reference_case_hs65hb",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_complete_clamp_screws_vs_installed_rotor_hs65hb",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_complete_clamp_screws_vs_reference_cover_fasteners",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_positive_control_clamps_contact_ears",
+      "passed": true,
+      "volume_mm3": 14.053083155692642
+    },
+    {
+      "test": "hs65hb_servo_insertion_from_bottom",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "hs65hb_top_M3_30_full_nut_engagement",
+      "passed": true,
+      "tip_Z_mm": -14,
+      "nut_bottom_Z_mm": -10.4
+    },
+    {
+      "test": "hs65hb_nuts_fit_blocks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_clamp_nuts_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_clamp_nuts_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_clamp_nuts_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_clamp_nuts_vs_reference_bearing",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_front_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 0.914543243629911
+    },
+    {
+      "test": "hs65hb_rear_ear_has_upper_support",
+      "passed": true,
+      "volume_mm3": 3.3760208043913402
+    },
+    {
+      "test": "holder_vs_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "holder_vs_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "bearing_retainer_vs_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "bearing_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "bearing_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "bearing_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "bearing_vs_installed_output_lid",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "bearing_vs_installed_bearing_support",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "sg90_bearing_slides_over_female_end",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mg90s_bearing_slides_over_female_end",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90_bearing_slides_over_female_end",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "fs90r_bearing_slides_over_female_end",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs55_bearing_slides_over_female_end",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "hs65hb_bearing_slides_over_female_end",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_output_rotation",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_installed_holder",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_installed_bearing_retainer",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_installed_clamshell",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_installed_clamp_left",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_installed_clamp_right",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_installed_nut_block_left",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_installed_nut_block_right",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_sg90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_clamp_heads_sg90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_mg90s",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_clamp_heads_mg90s",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_fs90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_clamp_heads_fs90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_fs90r",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_clamp_heads_fs90r",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_hs55",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_clamp_heads_hs55",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_hs65hb",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "full_bottom_bolts_vs_clamp_heads_hs65hb",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "diagonal_M3_hardware_vs_installed_female_rotor",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "diagonal_M3_hardware_vs_installed_output_lid",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "diagonal_M3_hardware_vs_reference_bearing",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "draw_holder_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "main_plate_has_no_nut_pockets",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_retainer_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_retainer_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_retainer_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_retainer_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_retainer_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_retainer_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_retainer_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_rotor_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_rotor_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_rotor_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_rotor_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_rotor_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_rotor_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_output_lid_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_clamshell_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_clamp_left_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_clamp_right_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_bearing_support_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_nut_block_left_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_nut_block_left_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_nut_block_left_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_nut_block_left_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_nut_block_left_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_nut_block_right_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_nut_block_right_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_nut_block_right_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "draw_nut_block_right_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_nut_block_right_nut_Z_allowance",
+      "passed": true,
+      "depth_mm": 3.4
+    },
+    {
+      "test": "V1_outputs_unchanged",
+      "passed": true
+    },
+    {
+      "test": "standard_servo_outputs_preserved",
+      "passed": true,
+      "files_checked": 360
+    },
+    {
+      "test": "catalogue_parts",
+      "passed": true
+    },
+    {
+      "test": "catalogue_parts_source",
+      "passed": true
+    }
+  ],
+  "limitation": "Digital clearance for modelled envelopes. Approximate servo dimensions and factory screw threads require measurement. Friction fits and loaded performance require print trials."
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "file": "fs90r.pdf",
+    "url": "https://www.pololu.com/file/0J1867/FS90R.pdf",
+    "bytes": 149073,
+    "sha256": "4c77c42a709d23a3013e8bf3e1dc376325bc57598b26e03417f2a6ae3cd01ce1",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "hs55.pdf",
+    "url": "https://www.hiteccs.com/public/uploads/data_sheet/HCS_HS-55_Specsheetv2.2_1026-1729887855.pdf",
+    "bytes": 318151,
+    "sha256": "4a9c142cb260844e99aa39b7f3ea34a529ad7b76c0b12d6ddcc2513d2f3b0654",
+    "downloaded_on": "2026-10-20",
+    "request_headers": "browser User-Agent and manufacturer Referer"
+  },
+  {
+    "file": "hs65hb.pdf",
+    "url": "https://www.hiteccs.com/public/uploads/data_sheet/HCS_HS-65HB_Specsheetv2.2_10-1729887930.pdf",
+    "bytes": 480786,
+    "sha256": "75e08540af6edbba20bcfa557b36d3df73554f7892c783a543489a1ad528aa00",
+    "downloaded_on": "2026-10-20",
+    "request_headers": "browser User-Agent and manufacturer Referer"
+  },
+  {
+    "file": "hs65hb_legacy.pdf",
+    "url": "https://hitecrcd.co.jp/material/spec_sheet/servo/33065.pdf",
+    "bytes": 74065,
+    "sha256": "96a34d8b1fabef7cafb3f3aade42f34dd6f29141aa54afb548e3c12ae8025cc6",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "hs65hb.stp",
+    "url": "https://www.hiteccs.com/public/uploads/cad_files/HS-65HB-1642817976.stp",
+    "error": "406 Client Error: Not Acceptable for url: https://www.hiteccs.com/public/uploads/cad_files/HS-65HB-1642817976.stp"
+  },
+  {
+    "file": "sg90.html",
+    "url": "https://towerpro.com.tw/product/sg90-7/",
+    "bytes": 67803,
+    "sha256": "cab21609480530842b679c795ef5806a514a7d36b5691336a4ae3c7cbb9800f7",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "mg90s.html",
+    "url": "https://towerpro.com.tw/product/mg90s-3/",
+    "bytes": 61285,
+    "sha256": "b032a77f9773bc3c2a4f5b80ce2c0c6e609a61e61a3ba786b369ed0a22b8d348",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "hitec_screws.html",
+    "url": "https://hitecrcd.com/servos/servos-parts-and-accessories/screws/",
+    "bytes": 247984,
+    "sha256": "13c4158140b6d45d76f3403f863abff85536bdb3ebf087126d43b7ce18936c48",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "futaba_screws.html",
+    "url": "https://futabausa.com/product-category/accessories/servo-parts/screws/",
+    "bytes": 267700,
+    "sha256": "5b50967132a5938fe7bfaa441304dbf5bffdb1ff40d57ca13cb7eb0de5ef11ef",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "hs55_product.html",
+    "url": "https://www.hiteccs.com/actuators/product-details/HS-55",
+    "error": "406 Client Error: Not Acceptable for url: https://www.hiteccs.com/actuators/product-details/HS-55"
+  },
+  {
+    "file": "hs65hb_product.html",
+    "url": "https://www.hiteccs.com/actuators/product-details/HS-65HB",
+    "error": "406 Client Error: Not Acceptable for url: https://www.hiteccs.com/actuators/product-details/HS-65HB"
+  },
+  {
+    "file": "hs55_legacy.pdf",
+    "url": "https://hitecrcd.co.jp/material/spec_sheet/servo/31055.pdf",
+    "bytes": 170789,
+    "sha256": "242b04da89f1caa66b28983fd4346e7cb76b55198c28b065a452026749a3cffd",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "sg90_legacy.pdf",
+    "url": "https://www.mikroprinc.com/uploads/store/products/pdf/SG90Servo_pdf5b57081c57730.pdf",
+    "bytes": 69346,
+    "sha256": "a59e87e443db9e1e4f06b758173676c46cccc2c98532fc63aeab82906d0f9af9",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "mg90s_legacy.pdf",
+    "url": "https://electronilab.co/wp-content/uploads/2015/06/MG90S_Tower-Pro.pdf",
+    "bytes": 123604,
+    "sha256": "f9ab7305ef5400bf13cebf12dbccefc918fb397c9e7d134b2f97578bcf37d283",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "hs55_screw.html",
+    "url": "https://hitecrcd.com/hs-55-hs-45-hdwr-t1-7-l4-typ/",
+    "bytes": 184671,
+    "sha256": "b847f041e31e1cd7a04102711a66058c3bea71281760af4758ce66e100d70a40",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "fs90.pdf",
+    "url": "https://www.pololu.com/file/0J1435/FS90-specs.pdf",
+    "bytes": 68526,
+    "sha256": "35410b5c4c28f5e4a766ed73465127f523fa057903a43d43562eb5656d2dd282",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "hitec_resin_screw.html",
+    "url": "https://hitecrcd.com/resin-gear-servo-horn-screw-pack-10pcs/",
+    "bytes": 199757,
+    "sha256": "40fb8138687d063025afeab211ad978e7f2f61e40a4a9e5f6654ef4b2ebaa7c0",
+    "downloaded_on": "2026-10-20"
+  },
+  {
+    "file": "hitec_metal_screw.html",
+    "url": "https://hitecrcd.com/metal-gear-servo-horn-screw-pack-10pcs/",
+    "bytes": 195474,
+    "sha256": "daace91c22f170bfbd9fbdb71e0b5b428608537cb2f43a6a8093b93df92edb48",
+    "downloaded_on": "2026-10-20"
+  }
+]

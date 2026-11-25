@@ -1,0 +1,6043 @@
+{
+  "holder": [
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -45.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -37.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 37.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 45.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "output": [
+    {
+      "face": "raised_square_base",
+      "x": -30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner",
+        "flange countersunk joiner",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner",
+        "flange countersunk joiner",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner",
+        "flange countersunk joiner",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner",
+        "flange countersunk joiner",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "bearing_housing": [
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -45.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -37.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 37.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 45.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "bearing_cap": [
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -45.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -37.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": -45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 37.5,
+      "y": 45.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": -45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": -37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": 37.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "perimeter M6 pocket",
+        "perimeter M6 pocket"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 45.0,
+      "y": 45.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "coupler_nut_lid": [],
+  "output_lid": [
+    {
+      "face": "raised_square_lid",
+      "x": -30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner",
+        "flange countersunk joiner",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner",
+        "flange countersunk joiner",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner",
+        "flange countersunk joiner",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner",
+        "flange countersunk joiner",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "flange countersunk joiner"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket",
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 22.5,
+      "y": -30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 22.5,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "central 3x3 M6 nut pocket"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 22.5,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 22.5,
+      "y": 30.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 30.0,
+      "y": -30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 30.0,
+      "y": -22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 30.0,
+      "y": 22.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 30.0,
+      "y": 30.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ]
+}

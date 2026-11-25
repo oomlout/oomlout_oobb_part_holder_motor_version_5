@@ -1,0 +1,385 @@
+adapter_fit_selection:
+  coupon: D0/Z0
+  roof_style: native_two_layer_overhang
+  selected_on: '2026-11-01'
+  socket_depth_adjustment_mm: 0
+  socket_diameter_adjustment_mm: 0
+  status: user_selected
+bearing_size: '6704'
+depth: 15
+depth_note: 15 mm catalogue declaration retained during design iteration. Lower holder
+  10.6 mm, upper plate 5.6 mm, clamshell 45.4 mm, nut bars 6.5 mm, default spacers
+  1 mm, output lid 2.2 mm. Bearing Z=10.6..14.6; block Z=-38..16.2; servo countersunk
+  heads Z=14.5..16.2, flush; output Z=21.6.
+family: assembly
+fit_note: MG996R, HS-311, FS5106R and provisional S3004 envelopes; user-specified
+  4.5 mm ear holes permit the shifted M3 axes. Select the female runner matching both
+  servo and spacer thickness; default 1 mm. Printed friction fits require calibration.
+  See SERVO_V2.md for sourced versus estimated dimensions. Production adapter locked
+  to user-selected centre coupon D0/Z0, with the native two-layer socket-roof bridge.
+geometry_note: Flush top-access M3 x 30 countersunk servo screws, plain holder shafts,
+  two floating two-nut bars at 10.4 mm pitch; 0.5/1/2/3 mm shims, default 1 mm. Grid-centred
+  6704, 1.5 mm lip, inset M3 stack screws, twelve free captive M3 grid nuts, unobstructed
+  bottom passages, four M3 cross nuts and diagonal M3 countersunk runner connectors.
+geometry_reference: source_file/servo_v2_reference/mechanical.json
+grid_pitch_mm: 15
+height: 3
+motor_style: standard
+motor_type: servo
+oobb_details:
+  bearing_size: '6704'
+  depth: 15
+  grid_pitch_mm: 15
+  height: 3
+  motor_style: standard
+  motor_type: servo
+  oobb_name: holder_motor_servo_standard_v2
+  pieces:
+    bearing_retainer:
+      depth: 5.6
+      exploded_pos:
+      - 0
+      - 0
+      - 28
+      print_offset:
+      - 0
+      - 0
+      - 16.2
+      print_pos:
+      - 80
+      - 0
+      - 0
+      print_rot:
+      - 180
+      - 0
+      - 0
+    clamp_left:
+      depth: 6.5
+      exploded_pos:
+      - 0
+      - 0
+      - -12
+      print_offset:
+      - 34.5
+      - 0
+      - -3.65
+      print_pos:
+      - 80
+      - 65
+      - 0
+      print_rot:
+      - 180
+      - 0
+      - 0
+    clamp_right:
+      depth: 6.5
+      exploded_pos:
+      - 0
+      - 0
+      - -12
+      print_offset:
+      - -14.5
+      - 0
+      - -3.65
+      print_pos:
+      - 95
+      - 65
+      - 0
+      print_rot:
+      - 180
+      - 0
+      - 0
+    clamshell:
+      depth: 45.4
+      exploded_pos:
+      - 0
+      - 0
+      - -50
+      print_offset:
+      - 0
+      - 0
+      - 38.0
+      print_pos:
+      - 0
+      - 65
+      - 0
+      print_rot:
+      - 0
+      - 0
+      - 0
+    female_rotor:
+      depth: 10.799999999999999
+      exploded_pos:
+      - 0
+      - 0
+      - 14
+      print_offset:
+      - 0
+      - 0
+      - -8.6
+      print_pos:
+      - 127
+      - 0
+      - 0
+      print_rot:
+      - 0
+      - 0
+      - 0
+    holder:
+      depth: 10.6
+      exploded_pos:
+      - 0
+      - 0
+      - 0
+      print_offset:
+      - 0
+      - 0
+      - 10.6
+      print_pos:
+      - 0
+      - 0
+      - 0
+      print_rot:
+      - 180
+      - 0
+      - 0
+    output_lid:
+      depth: 2.2
+      exploded_pos:
+      - 0
+      - 0
+      - 38
+      print_offset:
+      - 0
+      - 0
+      - 21.6
+      print_pos:
+      - 158
+      - 0
+      - 0
+      print_rot:
+      - 180
+      - 0
+      - 0
+    spacer_left:
+      depth: 1
+      exploded_pos:
+      - 0
+      - 0
+      - -5
+      print_offset:
+      - 34.5
+      - 0
+      - 1
+      print_pos:
+      - 110
+      - 65
+      - 0
+      print_rot:
+      - 0
+      - 0
+      - 0
+    spacer_right:
+      depth: 1
+      exploded_pos:
+      - 0
+      - 0
+      - -5
+      print_offset:
+      - -14.5
+      - 0
+      - 1
+      print_pos:
+      - 125
+      - 65
+      - 0
+      print_rot:
+      - 0
+      - 0
+      - 0
+  socket_depth_adjustment_mm: 0
+  socket_diameter_adjustment_mm: 0
+  socket_profile: mg996r
+  variant: version2
+  width: 5
+oobb_name: holder_motor_servo_standard_v2
+pieces:
+  bearing_retainer:
+    depth: 5.6
+    exploded_pos:
+    - 0
+    - 0
+    - 28
+    print_offset:
+    - 0
+    - 0
+    - 16.2
+    print_pos:
+    - 80
+    - 0
+    - 0
+    print_rot:
+    - 180
+    - 0
+    - 0
+  clamp_left:
+    depth: 6.5
+    exploded_pos:
+    - 0
+    - 0
+    - -12
+    print_offset:
+    - 34.5
+    - 0
+    - -3.65
+    print_pos:
+    - 80
+    - 65
+    - 0
+    print_rot:
+    - 180
+    - 0
+    - 0
+  clamp_right:
+    depth: 6.5
+    exploded_pos:
+    - 0
+    - 0
+    - -12
+    print_offset:
+    - -14.5
+    - 0
+    - -3.65
+    print_pos:
+    - 95
+    - 65
+    - 0
+    print_rot:
+    - 180
+    - 0
+    - 0
+  clamshell:
+    depth: 45.4
+    exploded_pos:
+    - 0
+    - 0
+    - -50
+    print_offset:
+    - 0
+    - 0
+    - 38.0
+    print_pos:
+    - 0
+    - 65
+    - 0
+    print_rot:
+    - 0
+    - 0
+    - 0
+  female_rotor:
+    depth: 10.799999999999999
+    exploded_pos:
+    - 0
+    - 0
+    - 14
+    print_offset:
+    - 0
+    - 0
+    - -8.6
+    print_pos:
+    - 127
+    - 0
+    - 0
+    print_rot:
+    - 0
+    - 0
+    - 0
+  holder:
+    depth: 10.6
+    exploded_pos:
+    - 0
+    - 0
+    - 0
+    print_offset:
+    - 0
+    - 0
+    - 10.6
+    print_pos:
+    - 0
+    - 0
+    - 0
+    print_rot:
+    - 180
+    - 0
+    - 0
+  output_lid:
+    depth: 2.2
+    exploded_pos:
+    - 0
+    - 0
+    - 38
+    print_offset:
+    - 0
+    - 0
+    - 21.6
+    print_pos:
+    - 158
+    - 0
+    - 0
+    print_rot:
+    - 180
+    - 0
+    - 0
+  spacer_left:
+    depth: 1
+    exploded_pos:
+    - 0
+    - 0
+    - -5
+    print_offset:
+    - 34.5
+    - 0
+    - 1
+    print_pos:
+    - 110
+    - 65
+    - 0
+    print_rot:
+    - 0
+    - 0
+    - 0
+  spacer_right:
+    depth: 1
+    exploded_pos:
+    - 0
+    - 0
+    - -5
+    print_offset:
+    - -14.5
+    - 0
+    - 1
+    print_pos:
+    - 125
+    - 65
+    - 0
+    print_rot:
+    - 0
+    - 0
+    - 0
+taxonomy_1: oobb
+taxonomy_10: bearing
+taxonomy_11: '6704'
+taxonomy_12: version2
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: holder
+taxonomy_4: motor
+taxonomy_5: servo
+taxonomy_6: standard
+taxonomy_7: 5_width
+taxonomy_8: 3_height
+taxonomy_9: 15_depth
+variant: version2
+width: 5

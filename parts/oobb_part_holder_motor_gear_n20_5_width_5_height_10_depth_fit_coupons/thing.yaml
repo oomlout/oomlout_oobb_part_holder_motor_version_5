@@ -1,0 +1,6260 @@
+bip_39_2_word_array:
+- unfair
+- little
+bip_39_2_word_no_space: unfairlittle
+bip_39_2_word_space: unfair little
+bip_39_2_word_underscore: unfair_little
+bip_39_3_word_array:
+- unfair
+- little
+- output
+bip_39_3_word_no_space: unfairlittleoutput
+bip_39_3_word_space: unfair little output
+bip_39_3_word_underscore: unfair_little_output
+bip_39_full_array:
+- unfair
+- little
+- output
+- warm
+- finger
+- face
+- jelly
+- blur
+- olive
+- race
+- olympic
+- 'off'
+bip_39_full_no_space: unfairlittleoutputwarmfingerfacejellybluroliveraceolympicoff
+bip_39_full_space: unfair little output warm finger face jelly blur olive race olympic
+  off
+bip_39_full_underscore: unfair_little_output_warm_finger_face_jelly_blur_olive_race_olympic_off
+depth: 10
+depth_note: Maximum individual print-piece Z extent; installed motor/output bounds
+  are recorded with the rendered assembly.
+directory: parts/oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+family: fit_test
+filter: holder_motor_gear_n20
+fit_note: Pololu no-encoder 25.6 mm body reference. Print the motor, single-D and
+  M3/M6 fit coupons first; physical fit and load capacity are untested. Rear-shaft
+  and terminal windows are open.
+geometry_note: Local N20 drawings use native OOBB plates, cubes, cylinders, holes,
+  screws, nuts and overhang relief; hardware is excluded from print layouts.
+geometry_reference: source_file/n20_reference/dimensions.yaml
+grid_pitch_mm: 15
+height: 5
+id: oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+id_no_class: oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+id_no_size: oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+id_no_type: oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+id_oobb: oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+kwargs:
+  bearing_axial_clearance_mm: 0.2
+  bearing_bottom_mm: 10
+  bearing_id_mm: 20
+  bearing_od_mm: 27
+  bearing_seat_diameter_clearance_mm: 0.3
+  bearing_width_mm: 4
+  body_clearance_mm: 0.25
+  boss_diameter_mm: 4
+  boss_height_mm: 0.7
+  collet_cap_travel_mm: 0.5
+  collet_radial_clearance_mm: 0.05
+  cradle_axis_height_mm: 22.5
+  depth: 10
+  filter: holder_motor_gear_n20
+  gearbox_length_mm: 9
+  grid_pitch_mm: 15
+  grip_bottom_mm: 1.5
+  height: 5
+  journal_diameter_clearance_mm: 0.2
+  metal_hub_depth_mm: 5
+  metal_hub_diameter_mm: 17.5
+  metal_hub_pcd_mm: 12.7
+  modes:
+  - 3dpr
+  motor_body_length_mm: 25.6
+  motor_height_mm: 10
+  motor_pocket_fit_values_mm:
+  - 0.15
+  - 0.25
+  - 0.35
+  motor_style: n20
+  motor_type: gear
+  motor_width_mm: 12
+  navigation: false
+  oobb_name: holder_motor_gear_n20_fit_test
+  oomp_description_extra: 10_depth
+  oomp_description_main: holder_motor_gear_n20_fit_test_5_width_5_height
+  oomp_mode: project
+  oomp_run: false
+  output_bottom_mm: 18
+  output_thickness_mm: 8
+  overwrite: true
+  press_fit_profile_offset_mm: 0
+  shaft_diameter_mm: 3
+  shaft_extension_mm: 10
+  shaft_fit_values_mm:
+  - 0
+  - 0.05
+  - 0.1
+  - 0.15
+  shaft_flat_mm: 2.5
+  shaft_profile_offset_mm: 0.08
+  type: oomlout_oobb_part_holder_motor_version_5_holder_motor_gear_n20_fit_test
+  variant: fit_coupons
+  width: 5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+md5: ed105275fb956ea31df0c39a360e694c
+md5_10: ed105275fb
+md5_10_upper: ED105275FB
+md5_5: ed105
+md5_5_upper: ED105
+md5_6: ed1052
+md5_6_alpha: 98zte
+md5_6_alpha_upper: 98ZTE
+md5_6_upper: ED1052
+motor_style: n20
+motor_type: gear
+name: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+name_no_class: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+name_no_size: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+name_no_type: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+name_proper: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+name_space: oobb part holder motor gear n20 5 width 5 height 10 depth fit coupons
+name_upper: OOBB PART HOLDER MOTOR GEAR N20 5 WIDTH 5 HEIGHT 10 DEPTH FIT COUPONS
+navigation: false
+oobb_details:
+  bearing_axial_clearance_mm: 0.2
+  bearing_bottom_mm: 10
+  bearing_id_mm: 20
+  bearing_od_mm: 27
+  bearing_seat_diameter_clearance_mm: 0.3
+  bearing_width_mm: 4
+  body_clearance_mm: 0.25
+  boss_diameter_mm: 4
+  boss_height_mm: 0.7
+  collet_cap_travel_mm: 0.5
+  collet_radial_clearance_mm: 0.05
+  cradle_axis_height_mm: 22.5
+  depth: 10
+  gearbox_length_mm: 9
+  grid_pitch_mm: 15
+  grip_bottom_mm: 1.5
+  height: 5
+  journal_diameter_clearance_mm: 0.2
+  metal_hub_depth_mm: 5
+  metal_hub_diameter_mm: 17.5
+  metal_hub_pcd_mm: 12.7
+  motor_body_length_mm: 25.6
+  motor_height_mm: 10
+  motor_pocket_fit_values_mm:
+  - 0.15
+  - 0.25
+  - 0.35
+  motor_style: n20
+  motor_type: gear
+  motor_width_mm: 12
+  oobb_name: holder_motor_gear_n20_fit_test
+  output_bottom_mm: 18
+  output_thickness_mm: 8
+  press_fit_profile_offset_mm: 0
+  shaft_diameter_mm: 3
+  shaft_extension_mm: 10
+  shaft_fit_values_mm:
+  - 0
+  - 0.05
+  - 0.1
+  - 0.15
+  shaft_flat_mm: 2.5
+  shaft_profile_offset_mm: 0.08
+  variant: fit_coupons
+  width: 5
+oobb_name: holder_motor_gear_n20_fit_test
+oomp_key: oomp_oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+project_name: C:\gh\oomlout_oobb_part_holder_motor_version_5
+taxonomy_1: oobb
+taxonomy_10: fit_coupons
+taxonomy_10_capital: Fit Coupons
+taxonomy_10_first_letter: f
+taxonomy_10_first_letter_upper: F
+taxonomy_10_length_1: f
+taxonomy_10_length_2: fi
+taxonomy_10_length_3: fit
+taxonomy_10_length_4: fit_
+taxonomy_10_length_5: fit_c
+taxonomy_10_upper: FIT_COUPONS
+taxonomy_10_upper_length_1: F
+taxonomy_10_upper_length_2: FI
+taxonomy_10_upper_length_3: FIT
+taxonomy_10_upper_length_4: FIT_
+taxonomy_10_upper_length_5: FIT_C
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: holder
+taxonomy_3_capital: Holder
+taxonomy_3_first_letter: h
+taxonomy_3_first_letter_upper: H
+taxonomy_3_length_1: h
+taxonomy_3_length_2: ho
+taxonomy_3_length_3: hol
+taxonomy_3_length_4: hold
+taxonomy_3_length_5: holde
+taxonomy_3_upper: HOLDER
+taxonomy_3_upper_length_1: H
+taxonomy_3_upper_length_2: HO
+taxonomy_3_upper_length_3: HOL
+taxonomy_3_upper_length_4: HOLD
+taxonomy_3_upper_length_5: HOLDE
+taxonomy_4: motor
+taxonomy_4_capital: Motor
+taxonomy_4_first_letter: m
+taxonomy_4_first_letter_upper: M
+taxonomy_4_length_1: m
+taxonomy_4_length_2: mo
+taxonomy_4_length_3: mot
+taxonomy_4_length_4: moto
+taxonomy_4_length_5: motor
+taxonomy_4_upper: MOTOR
+taxonomy_4_upper_length_1: M
+taxonomy_4_upper_length_2: MO
+taxonomy_4_upper_length_3: MOT
+taxonomy_4_upper_length_4: MOTO
+taxonomy_4_upper_length_5: MOTOR
+taxonomy_5: gear
+taxonomy_5_capital: Gear
+taxonomy_5_first_letter: g
+taxonomy_5_first_letter_upper: G
+taxonomy_5_length_1: g
+taxonomy_5_length_2: ge
+taxonomy_5_length_3: gea
+taxonomy_5_length_4: gear
+taxonomy_5_length_5: gear
+taxonomy_5_upper: GEAR
+taxonomy_5_upper_length_1: G
+taxonomy_5_upper_length_2: GE
+taxonomy_5_upper_length_3: GEA
+taxonomy_5_upper_length_4: GEAR
+taxonomy_5_upper_length_5: GEAR
+taxonomy_6: n20
+taxonomy_6_capital: N20
+taxonomy_6_first_letter: n
+taxonomy_6_first_letter_upper: N
+taxonomy_6_length_1: n
+taxonomy_6_length_2: n2
+taxonomy_6_length_3: n20
+taxonomy_6_length_4: n20
+taxonomy_6_length_5: n20
+taxonomy_6_upper: N20
+taxonomy_6_upper_length_1: N
+taxonomy_6_upper_length_2: N2
+taxonomy_6_upper_length_3: N20
+taxonomy_6_upper_length_4: N20
+taxonomy_6_upper_length_5: N20
+taxonomy_7: 5_width
+taxonomy_7_capital: 5 Width
+taxonomy_7_first_letter: '5'
+taxonomy_7_first_letter_upper: '5'
+taxonomy_7_length_1: '5'
+taxonomy_7_length_2: '5_'
+taxonomy_7_length_3: 5_w
+taxonomy_7_length_4: 5_wi
+taxonomy_7_length_5: 5_wid
+taxonomy_7_upper: 5_WIDTH
+taxonomy_7_upper_length_1: '5'
+taxonomy_7_upper_length_2: '5_'
+taxonomy_7_upper_length_3: 5_W
+taxonomy_7_upper_length_4: 5_WI
+taxonomy_7_upper_length_5: 5_WID
+taxonomy_8: 5_height
+taxonomy_8_capital: 5 Height
+taxonomy_8_first_letter: '5'
+taxonomy_8_first_letter_upper: '5'
+taxonomy_8_length_1: '5'
+taxonomy_8_length_2: '5_'
+taxonomy_8_length_3: 5_h
+taxonomy_8_length_4: 5_he
+taxonomy_8_length_5: 5_hei
+taxonomy_8_upper: 5_HEIGHT
+taxonomy_8_upper_length_1: '5'
+taxonomy_8_upper_length_2: '5_'
+taxonomy_8_upper_length_3: 5_H
+taxonomy_8_upper_length_4: 5_HE
+taxonomy_8_upper_length_5: 5_HEI
+taxonomy_9: 10_depth
+taxonomy_9_capital: 10 Depth
+taxonomy_9_first_letter: '1'
+taxonomy_9_first_letter_upper: '1'
+taxonomy_9_length_1: '1'
+taxonomy_9_length_2: '10'
+taxonomy_9_length_3: '10_'
+taxonomy_9_length_4: 10_d
+taxonomy_9_length_5: 10_de
+taxonomy_9_upper: 10_DEPTH
+taxonomy_9_upper_length_1: '1'
+taxonomy_9_upper_length_2: '10'
+taxonomy_9_upper_length_3: '10_'
+taxonomy_9_upper_length_4: 10_D
+taxonomy_9_upper_length_5: 10_DE
+thing:
+  additional_outputs:
+    m3_screw_nut:
+    - - - pos:
+          - -10.0
+          - -10.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 20
+          - 10
+          type: positive
+    - - objects:
+        - - - clearance: top
+              depth: 16
+              h: 3
+              inclusion: laser
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            radius: 1.5
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            radius: 1.5
+            shape: cylinder
+            type: positive
+        - - - clearance: top
+              depth: 16
+              h: 253.2
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 3.0
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.8
+            radius: 1.8
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.8
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.8
+            radius: 1.8
+            shape: cylinder
+            type: positive
+        - - - - - clearance: top
+                  depth: 16
+                  inclusion: 3dpr
+                  pos:
+                  - -1.75
+                  - -3.25
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 3.5
+                  - 6.5
+                  - 0.3
+                  type: positive
+          - - - - clearance: top
+                  depth: 16
+                  inclusion: 3dpr
+                  pos:
+                  - -1.75
+                  - -1.75
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 3.5
+                  - 3.5
+                  - 0.3
+                  type: positive
+        - - - clearance: top
+              depth: 16
+              h: 3
+              inclusion: 'true'
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            radius: 1.5
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            radius: 1.5
+            shape: cylinder
+            type: positive
+        pos:
+        - 0
+        - 0
+        - 10
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+    - - objects:
+        - clearance: ''
+          depth: 3
+          height: 3
+          inclusion: laser
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 3.1734999999999998
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - 3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - 3.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - clearance: ''
+          depth: 3
+          height: 3
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 3.4619999999999997
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - 3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - 3.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - clearance: ''
+          depth: 3
+          height: 3
+          inclusion: 'true'
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 3.1734999999999998
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - 3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - 3.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+    - - - pos:
+          - -10.0
+          - -14.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -11.5
+        - 1.1
+        shape: text
+        size: 2.5
+        text: M3
+        type: positive
+        valign: center
+    m6_screw_nut:
+    - - - pos:
+          - -10.0
+          - -10.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 20
+          - 10
+          type: positive
+    - - objects:
+        - - - clearance: top
+              depth: 16
+              h: 6
+              inclusion: laser
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 5.0
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            radius: 3.0
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            radius: 3.0
+            shape: cylinder
+            type: positive
+        - - - clearance: top
+              depth: 16
+              h: 256.2
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 5.5
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.25
+            radius: 3.25
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.25
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.25
+            radius: 3.25
+            shape: cylinder
+            type: positive
+        - - - - - clearance: top
+                  depth: 16
+                  inclusion: 3dpr
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+          - - - - clearance: top
+                  depth: 16
+                  inclusion: 3dpr
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+        - - - clearance: top
+              depth: 16
+              h: 6
+              inclusion: 'true'
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 5.0
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            radius: 3.0
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            radius: 3.0
+            shape: cylinder
+            type: positive
+        pos:
+        - 0
+        - 0
+        - 10
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+    - - objects:
+        - clearance: ''
+          depth: 5.5
+          height: 5.5
+          inclusion: laser
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 5.77
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5.5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - clearance: ''
+          depth: 5.5
+          height: 5.5
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 5.914249999999999
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5.5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - clearance: ''
+          depth: 5.5
+          height: 5.5
+          inclusion: 'true'
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 5.77
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5.5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+    - - - pos:
+          - -10.0
+          - -14.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -11.5
+        - 1.1
+        shape: text
+        size: 2.5
+        text: M6
+        type: positive
+        valign: center
+    motor_per_side_0d15:
+    - - - pos:
+          - -10.0
+          - -9.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 18
+          - 7
+          type: positive
+    - - - pos:
+          - -6.15
+          - -5.15
+          - -0.1
+          shape: cube
+          size:
+          - 12.3
+          - 10.3
+          - 7.2
+          type: negative
+    - - - pos:
+          - -10.0
+          - -13.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -10.5
+        - 1.1
+        shape: text
+        size: 2
+        text: 0.15/side
+        type: positive
+        valign: center
+    motor_per_side_0d25:
+    - - - pos:
+          - -10.0
+          - -9.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 18
+          - 7
+          type: positive
+    - - - pos:
+          - -6.25
+          - -5.25
+          - -0.1
+          shape: cube
+          size:
+          - 12.5
+          - 10.5
+          - 7.2
+          type: negative
+    - - - pos:
+          - -10.0
+          - -13.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -10.5
+        - 1.1
+        shape: text
+        size: 2
+        text: 0.25/side
+        type: positive
+        valign: center
+    motor_per_side_0d35:
+    - - - pos:
+          - -10.0
+          - -9.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 18
+          - 7
+          type: positive
+    - - - pos:
+          - -6.35
+          - -5.35
+          - -0.1
+          shape: cube
+          size:
+          - 12.7
+          - 10.7
+          - 7.2
+          type: negative
+    - - - pos:
+          - -10.0
+          - -13.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -10.5
+        - 1.1
+        shape: text
+        size: 2
+        text: 0.35/side
+        type: positive
+        valign: center
+    shaft_offset_0d00:
+    - - depth: 7
+        h: 7
+        inclusion: laser
+        pos: &id001
+        - 0
+        - 0
+        - 0.0
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 3dpr
+        pos: *id001
+        r: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 'true'
+        pos: *id001
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+    - objects:
+      - - depth: 7.2
+          h: 7.2
+          inclusion: laser
+          pos: &id002
+          - 0
+          - 0
+          - 0.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 3dpr
+          pos: *id002
+          r: 1.5
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 'true'
+          pos: *id002
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+      - - - pos:
+            - -6.0
+            - 1.0
+            - -1
+            shape: cube
+            size:
+            - 12
+            - 12
+            - 9.2
+            type: negative
+      pos:
+      - 0
+      - 0
+      - -0.1
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: negative
+    - - - pos:
+          - -6.0
+          - -10.5
+          - 0
+          shape: cube
+          size:
+          - 12
+          - 7
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -7.5
+        - 1.1
+        shape: text
+        size: 2.2
+        text: '0.00'
+        type: positive
+        valign: center
+    shaft_offset_0d05:
+    - - depth: 7
+        h: 7
+        inclusion: laser
+        pos: &id003
+        - 0
+        - 0
+        - 0.0
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 3dpr
+        pos: *id003
+        r: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 'true'
+        pos: *id003
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+    - objects:
+      - - depth: 7.2
+          h: 7.2
+          inclusion: laser
+          pos: &id004
+          - 0
+          - 0
+          - 0.0
+          r: 1.55
+          radius: 1.55
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 3dpr
+          pos: *id004
+          r: 1.55
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 'true'
+          pos: *id004
+          r: 1.55
+          radius: 1.55
+          shape: cylinder
+          type: positive
+      - - - pos:
+            - -6.0
+            - 1.0499999999999998
+            - -1
+            shape: cube
+            size:
+            - 12
+            - 12
+            - 9.2
+            type: negative
+      pos:
+      - 0
+      - 0
+      - -0.1
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: negative
+    - - - pos:
+          - -6.0
+          - -10.5
+          - 0
+          shape: cube
+          size:
+          - 12
+          - 7
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -7.5
+        - 1.1
+        shape: text
+        size: 2.2
+        text: '0.05'
+        type: positive
+        valign: center
+    shaft_offset_0d10:
+    - - depth: 7
+        h: 7
+        inclusion: laser
+        pos: &id005
+        - 0
+        - 0
+        - 0.0
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 3dpr
+        pos: *id005
+        r: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 'true'
+        pos: *id005
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+    - objects:
+      - - depth: 7.2
+          h: 7.2
+          inclusion: laser
+          pos: &id006
+          - 0
+          - 0
+          - 0.0
+          r: 1.6
+          radius: 1.6
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 3dpr
+          pos: *id006
+          r: 1.6
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 'true'
+          pos: *id006
+          r: 1.6
+          radius: 1.6
+          shape: cylinder
+          type: positive
+      - - - pos:
+            - -6.0
+            - 1.0999999999999996
+            - -1
+            shape: cube
+            size:
+            - 12
+            - 12
+            - 9.2
+            type: negative
+      pos:
+      - 0
+      - 0
+      - -0.1
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: negative
+    - - - pos:
+          - -6.0
+          - -10.5
+          - 0
+          shape: cube
+          size:
+          - 12
+          - 7
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -7.5
+        - 1.1
+        shape: text
+        size: 2.2
+        text: '0.10'
+        type: positive
+        valign: center
+    shaft_offset_0d15:
+    - - depth: 7
+        h: 7
+        inclusion: laser
+        pos: &id007
+        - 0
+        - 0
+        - 0.0
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 3dpr
+        pos: *id007
+        r: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 'true'
+        pos: *id007
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+    - objects:
+      - - depth: 7.2
+          h: 7.2
+          inclusion: laser
+          pos: &id008
+          - 0
+          - 0
+          - 0.0
+          r: 1.65
+          radius: 1.65
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 3dpr
+          pos: *id008
+          r: 1.65
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 'true'
+          pos: *id008
+          r: 1.65
+          radius: 1.65
+          shape: cylinder
+          type: positive
+      - - - pos:
+            - -6.0
+            - 1.1500000000000004
+            - -1
+            shape: cube
+            size:
+            - 12
+            - 12
+            - 9.2
+            type: negative
+      pos:
+      - 0
+      - 0
+      - -0.1
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: negative
+    - - - pos:
+          - -6.0
+          - -10.5
+          - 0
+          shape: cube
+          size:
+          - 12
+          - 7
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -7.5
+        - 1.1
+        shape: text
+        size: 2.2
+        text: '0.15'
+        type: positive
+        valign: center
+  bip_39_2_word_array:
+  - unfair
+  - little
+  bip_39_2_word_no_space: unfairlittle
+  bip_39_2_word_space: unfair little
+  bip_39_2_word_underscore: unfair_little
+  bip_39_3_word_array:
+  - unfair
+  - little
+  - output
+  bip_39_3_word_no_space: unfairlittleoutput
+  bip_39_3_word_space: unfair little output
+  bip_39_3_word_underscore: unfair_little_output
+  bip_39_full_array:
+  - unfair
+  - little
+  - output
+  - warm
+  - finger
+  - face
+  - jelly
+  - blur
+  - olive
+  - race
+  - olympic
+  - 'off'
+  bip_39_full_no_space: unfairlittleoutputwarmfingerfacejellybluroliveraceolympicoff
+  bip_39_full_space: unfair little output warm finger face jelly blur olive race olympic
+    off
+  bip_39_full_underscore: unfair_little_output_warm_finger_face_jelly_blur_olive_race_olympic_off
+  classification: oobb
+  color: ''
+  components:
+  - objects:
+    - - depth: 7
+        h: 7
+        inclusion: laser
+        pos: &id009
+        - 0
+        - 0
+        - 0.0
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 3dpr
+        pos: *id009
+        r: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 'true'
+        pos: *id009
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+    - objects:
+      - - depth: 7.2
+          h: 7.2
+          inclusion: laser
+          pos: &id010
+          - 0
+          - 0
+          - 0.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 3dpr
+          pos: *id010
+          r: 1.5
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 'true'
+          pos: *id010
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+      - - - pos:
+            - -6.0
+            - 1.0
+            - -1
+            shape: cube
+            size:
+            - 12
+            - 12
+            - 9.2
+            type: negative
+      pos:
+      - 0
+      - 0
+      - -0.1
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: negative
+    - - - pos:
+          - -6.0
+          - -10.5
+          - 0
+          shape: cube
+          size:
+          - 12
+          - 7
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -7.5
+        - 1.1
+        shape: text
+        size: 2.2
+        text: '0.00'
+        type: positive
+        valign: center
+    pos:
+    - 0
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 7
+        h: 7
+        inclusion: laser
+        pos: &id011
+        - 0
+        - 0
+        - 0.0
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 3dpr
+        pos: *id011
+        r: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 'true'
+        pos: *id011
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+    - objects:
+      - - depth: 7.2
+          h: 7.2
+          inclusion: laser
+          pos: &id012
+          - 0
+          - 0
+          - 0.0
+          r: 1.55
+          radius: 1.55
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 3dpr
+          pos: *id012
+          r: 1.55
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 'true'
+          pos: *id012
+          r: 1.55
+          radius: 1.55
+          shape: cylinder
+          type: positive
+      - - - pos:
+            - -6.0
+            - 1.0499999999999998
+            - -1
+            shape: cube
+            size:
+            - 12
+            - 12
+            - 9.2
+            type: negative
+      pos:
+      - 0
+      - 0
+      - -0.1
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: negative
+    - - - pos:
+          - -6.0
+          - -10.5
+          - 0
+          shape: cube
+          size:
+          - 12
+          - 7
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -7.5
+        - 1.1
+        shape: text
+        size: 2.2
+        text: '0.05'
+        type: positive
+        valign: center
+    pos:
+    - 18
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 7
+        h: 7
+        inclusion: laser
+        pos: &id013
+        - 0
+        - 0
+        - 0.0
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 3dpr
+        pos: *id013
+        r: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 'true'
+        pos: *id013
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+    - objects:
+      - - depth: 7.2
+          h: 7.2
+          inclusion: laser
+          pos: &id014
+          - 0
+          - 0
+          - 0.0
+          r: 1.6
+          radius: 1.6
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 3dpr
+          pos: *id014
+          r: 1.6
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 'true'
+          pos: *id014
+          r: 1.6
+          radius: 1.6
+          shape: cylinder
+          type: positive
+      - - - pos:
+            - -6.0
+            - 1.0999999999999996
+            - -1
+            shape: cube
+            size:
+            - 12
+            - 12
+            - 9.2
+            type: negative
+      pos:
+      - 0
+      - 0
+      - -0.1
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: negative
+    - - - pos:
+          - -6.0
+          - -10.5
+          - 0
+          shape: cube
+          size:
+          - 12
+          - 7
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -7.5
+        - 1.1
+        shape: text
+        size: 2.2
+        text: '0.10'
+        type: positive
+        valign: center
+    pos:
+    - 36
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 7
+        h: 7
+        inclusion: laser
+        pos: &id015
+        - 0
+        - 0
+        - 0.0
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 3dpr
+        pos: *id015
+        r: 6
+        shape: cylinder
+        type: positive
+      - depth: 7
+        h: 7
+        inclusion: 'true'
+        pos: *id015
+        r: 6
+        radius: 6
+        shape: cylinder
+        type: positive
+    - objects:
+      - - depth: 7.2
+          h: 7.2
+          inclusion: laser
+          pos: &id016
+          - 0
+          - 0
+          - 0.0
+          r: 1.65
+          radius: 1.65
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 3dpr
+          pos: *id016
+          r: 1.65
+          shape: cylinder
+          type: positive
+        - depth: 7.2
+          h: 7.2
+          inclusion: 'true'
+          pos: *id016
+          r: 1.65
+          radius: 1.65
+          shape: cylinder
+          type: positive
+      - - - pos:
+            - -6.0
+            - 1.1500000000000004
+            - -1
+            shape: cube
+            size:
+            - 12
+            - 12
+            - 9.2
+            type: negative
+      pos:
+      - 0
+      - 0
+      - -0.1
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: negative
+    - - - pos:
+          - -6.0
+          - -10.5
+          - 0
+          shape: cube
+          size:
+          - 12
+          - 7
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -7.5
+        - 1.1
+        shape: text
+        size: 2.2
+        text: '0.15'
+        type: positive
+        valign: center
+    pos:
+    - 54
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - - pos:
+          - -10.0
+          - -9.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 18
+          - 7
+          type: positive
+    - - - pos:
+          - -6.15
+          - -5.15
+          - -0.1
+          shape: cube
+          size:
+          - 12.3
+          - 10.3
+          - 7.2
+          type: negative
+    - - - pos:
+          - -10.0
+          - -13.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -10.5
+        - 1.1
+        shape: text
+        size: 2
+        text: 0.15/side
+        type: positive
+        valign: center
+    pos:
+    - 0
+    - 27
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - - pos:
+          - -10.0
+          - -9.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 18
+          - 7
+          type: positive
+    - - - pos:
+          - -6.25
+          - -5.25
+          - -0.1
+          shape: cube
+          size:
+          - 12.5
+          - 10.5
+          - 7.2
+          type: negative
+    - - - pos:
+          - -10.0
+          - -13.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -10.5
+        - 1.1
+        shape: text
+        size: 2
+        text: 0.25/side
+        type: positive
+        valign: center
+    pos:
+    - 25
+    - 27
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - - pos:
+          - -10.0
+          - -9.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 18
+          - 7
+          type: positive
+    - - - pos:
+          - -6.35
+          - -5.35
+          - -0.1
+          shape: cube
+          size:
+          - 12.7
+          - 10.7
+          - 7.2
+          type: negative
+    - - - pos:
+          - -10.0
+          - -13.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -10.5
+        - 1.1
+        shape: text
+        size: 2
+        text: 0.35/side
+        type: positive
+        valign: center
+    pos:
+    - 50
+    - 27
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - - pos:
+          - -10.0
+          - -10.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 20
+          - 10
+          type: positive
+    - - objects:
+        - - - clearance: top
+              depth: 16
+              h: 3
+              inclusion: laser
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            radius: 1.5
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            radius: 1.5
+            shape: cylinder
+            type: positive
+        - - - clearance: top
+              depth: 16
+              h: 253.2
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 3.0
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.8
+            radius: 1.8
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.8
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.8
+            radius: 1.8
+            shape: cylinder
+            type: positive
+        - - - - - clearance: top
+                  depth: 16
+                  inclusion: 3dpr
+                  pos:
+                  - -1.75
+                  - -3.25
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 3.5
+                  - 6.5
+                  - 0.3
+                  type: positive
+          - - - - clearance: top
+                  depth: 16
+                  inclusion: 3dpr
+                  pos:
+                  - -1.75
+                  - -1.75
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 3.5
+                  - 3.5
+                  - 0.3
+                  type: positive
+        - - - clearance: top
+              depth: 16
+              h: 3
+              inclusion: 'true'
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            radius: 1.5
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 1.5
+            radius: 1.5
+            shape: cylinder
+            type: positive
+        pos:
+        - 0
+        - 0
+        - 10
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+    - - objects:
+        - clearance: ''
+          depth: 3
+          height: 3
+          inclusion: laser
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 3.1734999999999998
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - 3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - 3.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - clearance: ''
+          depth: 3
+          height: 3
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 3.4619999999999997
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - 3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - 3.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - clearance: ''
+          depth: 3
+          height: 3
+          inclusion: 'true'
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 3.1734999999999998
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -3.25
+                    - 3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 6.5
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 3
+                    inclusion: 3dpr
+                    pos:
+                    - -1.75
+                    - -1.75
+                    - 3.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 3.5
+                    - 3.5
+                    - 0.3
+                    type: positive
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+    - - - pos:
+          - -10.0
+          - -14.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -11.5
+        - 1.1
+        shape: text
+        size: 2.5
+        text: M3
+        type: positive
+        valign: center
+    pos:
+    - 0
+    - 55
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - - pos:
+          - -10.0
+          - -10.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 20
+          - 10
+          type: positive
+    - - objects:
+        - - - clearance: top
+              depth: 16
+              h: 6
+              inclusion: laser
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 5.0
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            radius: 3.0
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            radius: 3.0
+            shape: cylinder
+            type: positive
+        - - - clearance: top
+              depth: 16
+              h: 256.2
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 5.5
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.25
+            radius: 3.25
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.25
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.25
+            radius: 3.25
+            shape: cylinder
+            type: positive
+        - - - - - clearance: top
+                  depth: 16
+                  inclusion: 3dpr
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+          - - - - clearance: top
+                  depth: 16
+                  inclusion: 3dpr
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+        - - - clearance: top
+              depth: 16
+              h: 6
+              inclusion: 'true'
+              pos:
+              - 0
+              - 0
+              - 0
+              r: 5.0
+              shape: cylinder
+              type: positive
+        - - clearance: top
+            depth: 16
+            h: 16
+            inclusion: laser
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            radius: 3.0
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 3dpr
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            shape: cylinder
+            type: positive
+          - clearance: top
+            depth: 16
+            h: 16
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -16.0
+            r: 3.0
+            radius: 3.0
+            shape: cylinder
+            type: positive
+        pos:
+        - 0
+        - 0
+        - 10
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+    - - objects:
+        - clearance: ''
+          depth: 5.5
+          height: 5.5
+          inclusion: laser
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 5.77
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5.5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - clearance: ''
+          depth: 5.5
+          height: 5.5
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 5.914249999999999
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5.5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - clearance: ''
+          depth: 5.5
+          height: 5.5
+          inclusion: 'true'
+          pos:
+          - 0
+          - 0
+          - 0
+          r: 5.77
+          shape: polyg
+          sides: 6
+          type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        - - - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5.5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+            - - - - clearance: ''
+                    depth: 5.5
+                    inclusion: 3dpr
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+    - - - pos:
+          - -10.0
+          - -14.0
+          - 0
+          shape: cube
+          size:
+          - 20
+          - 6
+          - 1.2
+          type: positive
+    - - depth: 0.4
+        font: Liberation Sans
+        halign: center
+        height: 0.4
+        pos:
+        - 0
+        - -11.5
+        - 1.1
+        shape: text
+        size: 2.5
+        text: M6
+        type: positive
+        valign: center
+    pos:
+    - 25
+    - 55
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  components_objects:
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 7
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius: 6
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cylinder
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 7.2
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius: 1.5
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cylinder
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 7.0
+    - -1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12
+    - 12
+    - 9.2
+    type: negative
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -7
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12
+    - 7
+    - 1.2
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 0.4
+    filter: holder_motor_gear_n20
+    font: Liberation Sans
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    halign: center
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -7.5
+    - 1.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_text
+    size: 2.2
+    text: '0.00'
+    type: positive
+    valign: center
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 7
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius: 6
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cylinder
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 7.2
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius: 1.55
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cylinder
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 7.05
+    - -1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12
+    - 12
+    - 9.2
+    type: negative
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -7
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12
+    - 7
+    - 1.2
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 0.4
+    filter: holder_motor_gear_n20
+    font: Liberation Sans
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    halign: center
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -7.5
+    - 1.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_text
+    size: 2.2
+    text: '0.05'
+    type: positive
+    valign: center
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 7
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius: 6
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cylinder
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 7.2
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius: 1.6
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cylinder
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 7.1
+    - -1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12
+    - 12
+    - 9.2
+    type: negative
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -7
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12
+    - 7
+    - 1.2
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 0.4
+    filter: holder_motor_gear_n20
+    font: Liberation Sans
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    halign: center
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -7.5
+    - 1.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_text
+    size: 2.2
+    text: '0.10'
+    type: positive
+    valign: center
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 7
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius: 6
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cylinder
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 7.2
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius: 1.65
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cylinder
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 7.15
+    - -1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12
+    - 12
+    - 9.2
+    type: negative
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -7
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12
+    - 7
+    - 1.2
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 0.4
+    filter: holder_motor_gear_n20
+    font: Liberation Sans
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    halign: center
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -7.5
+    - 1.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_text
+    size: 2.2
+    text: '0.15'
+    type: positive
+    valign: center
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 18
+    - 7
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - -0.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12.3
+    - 10.3
+    - 7.2
+    type: negative
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -10
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 6
+    - 1.2
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 0.4
+    filter: holder_motor_gear_n20
+    font: Liberation Sans
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    halign: center
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -10.5
+    - 1.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_text
+    size: 2
+    text: 0.15/side
+    type: positive
+    valign: center
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 18
+    - 7
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - -0.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12.5
+    - 10.5
+    - 7.2
+    type: negative
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -10
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 6
+    - 1.2
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 0.4
+    filter: holder_motor_gear_n20
+    font: Liberation Sans
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    halign: center
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -10.5
+    - 1.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_text
+    size: 2
+    text: 0.25/side
+    type: positive
+    valign: center
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 18
+    - 7
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - -0.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 12.7
+    - 10.7
+    - 7.2
+    type: negative
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -10
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 6
+    - 1.2
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 0.4
+    filter: holder_motor_gear_n20
+    font: Liberation Sans
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    halign: center
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -10.5
+    - 1.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_text
+    size: 2
+    text: 0.35/side
+    type: positive
+    valign: center
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 20
+    - 10
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    clearance: top
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 16
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    nut_include: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overhang: true
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 10
+    press_fit_profile_offset_mm: 0
+    radius_name: m3
+    rot:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_screw_socket_cap
+    type: negative
+    variant: fit_coupons
+    zz: none
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    clearance: ''
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 3
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overhang: true
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius_name: m3
+    rot:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_nut
+    type: negative
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -11
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 6
+    - 1.2
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 0.4
+    filter: holder_motor_gear_n20
+    font: Liberation Sans
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    halign: center
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -11.5
+    - 1.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_text
+    size: 2.5
+    text: M3
+    type: positive
+    valign: center
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 20
+    - 10
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    clearance: top
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 16
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    nut_include: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overhang: true
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 10
+    press_fit_profile_offset_mm: 0
+    radius_name: m6
+    rot:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_screw_socket_cap
+    type: negative
+    variant: fit_coupons
+    zz: none
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    clearance: ''
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 5.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overhang: true
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    press_fit_profile_offset_mm: 0
+    radius_name: m6
+    rot:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_nut
+    type: negative
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -11
+    - 0
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_cube
+    size:
+    - 20
+    - 6
+    - 1.2
+    type: positive
+    variant: fit_coupons
+    zz: bottom
+  - bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 0.4
+    filter: holder_motor_gear_n20
+    font: Liberation Sans
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    halign: center
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    pos:
+    - 0
+    - -11.5
+    - 1.1
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    shape: oobb_text
+    size: 2.5
+    text: M6
+    type: positive
+    valign: center
+    variant: fit_coupons
+    zz: bottom
+  components_string: []
+  coupon_labels:
+  - name: shaft_offset_0d00
+    offset_mm: 0
+    xy:
+    - 0
+    - 0
+  - name: shaft_offset_0d05
+    offset_mm: 0.05
+    xy:
+    - 18
+    - 0
+  - name: shaft_offset_0d10
+    offset_mm: 0.1
+    xy:
+    - 36
+    - 0
+  - name: shaft_offset_0d15
+    offset_mm: 0.15
+    xy:
+    - 54
+    - 0
+  - clearance_per_side_mm: 0.15
+    name: motor_per_side_0d15
+    xy:
+    - 0
+    - 27
+  - clearance_per_side_mm: 0.25
+    name: motor_per_side_0d25
+    xy:
+    - 25
+    - 27
+  - clearance_per_side_mm: 0.35
+    name: motor_per_side_0d35
+    xy:
+    - 50
+    - 27
+  - name: m3_screw_nut
+    xy:
+    - 0
+    - 55
+  - name: m6_screw_nut
+    xy:
+    - 25
+    - 55
+  depth: 10
+  depth_mm: 10
+  depth_note: Maximum individual print-piece Z extent; installed motor/output bounds
+    are recorded with the rendered assembly.
+  description: oomlout oobb part holder motor version 5 holder motor gear n20 fit
+    test 5x5x0
+  description_extra: 10_depth
+  description_main: 5_width_5_height
+  directory: parts/oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+  family: fit_test
+  filter: holder_motor_gear_n20
+  fit_note: Pololu no-encoder 25.6 mm body reference. Print the motor, single-D and
+    M3/M6 fit coupons first; physical fit and load capacity are untested. Rear-shaft
+    and terminal windows are open.
+  geometry_note: Local N20 drawings use native OOBB plates, cubes, cylinders, holes,
+    screws, nuts and overhang relief; hardware is excluded from print layouts.
+  geometry_reference: source_file/n20_reference/dimensions.yaml
+  grid_pitch_mm: 15
+  height: 5
+  height_mm: 74
+  id: oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+  id_no_class: oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+  id_no_size: oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+  id_no_type: oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+  kwargs:
+    bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 10
+    filter: holder_motor_gear_n20
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    height: 5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    modes:
+    - 3dpr
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    navigation: false
+    oobb_name: holder_motor_gear_n20_fit_test
+    oomp_description_extra: 10_depth
+    oomp_description_main: holder_motor_gear_n20_fit_test_5_width_5_height
+    oomp_mode: project
+    oomp_run: false
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    overwrite: true
+    press_fit_profile_offset_mm: 0
+    save_type: none
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    type: oomlout_oobb_part_holder_motor_version_5_holder_motor_gear_n20_fit_test
+    variant: fit_coupons
+    width: 5
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+  manufacturer: ''
+  md5: ed105275fb956ea31df0c39a360e694c
+  md5_10: ed105275fb
+  md5_10_upper: ED105275FB
+  md5_5: ed105
+  md5_5_upper: ED105
+  md5_6: ed1052
+  md5_6_alpha: 98zte
+  md5_6_alpha_upper: 98ZTE
+  md5_6_upper: ED1052
+  motor_style: n20
+  motor_type: gear
+  name: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+  name_no_class: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+  name_no_size: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+  name_no_type: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+  name_proper: Oobb Part Holder Motor Gear N20 5 Width 5 Height 10 Depth Fit Coupons
+  name_short: Oomlout Holder Motor Version 5 Holder
+  name_space: oobb part holder motor gear n20 5 width 5 height 10 depth fit coupons
+  name_text: Oobb Part Oomlout Oobb Part Holder Motor Version 5 Holder Motor Gear
+    N20 Fit Test 5 Width 5 Height 10 Depth
+  name_upper: OOBB PART HOLDER MOTOR GEAR N20 5 WIDTH 5 HEIGHT 10 DEPTH FIT COUPONS
+  navigation: false
+  oobb_details:
+    bearing_axial_clearance_mm: 0.2
+    bearing_bottom_mm: 10
+    bearing_id_mm: 20
+    bearing_od_mm: 27
+    bearing_seat_diameter_clearance_mm: 0.3
+    bearing_width_mm: 4
+    body_clearance_mm: 0.25
+    boss_diameter_mm: 4
+    boss_height_mm: 0.7
+    collet_cap_travel_mm: 0.5
+    collet_radial_clearance_mm: 0.05
+    cradle_axis_height_mm: 22.5
+    depth: 10
+    gearbox_length_mm: 9
+    grid_pitch_mm: 15
+    grip_bottom_mm: 1.5
+    height: 5
+    journal_diameter_clearance_mm: 0.2
+    metal_hub_depth_mm: 5
+    metal_hub_diameter_mm: 17.5
+    metal_hub_pcd_mm: 12.7
+    motor_body_length_mm: 25.6
+    motor_height_mm: 10
+    motor_pocket_fit_values_mm:
+    - 0.15
+    - 0.25
+    - 0.35
+    motor_style: n20
+    motor_type: gear
+    motor_width_mm: 12
+    oobb_name: holder_motor_gear_n20_fit_test
+    output_bottom_mm: 18
+    output_thickness_mm: 8
+    press_fit_profile_offset_mm: 0
+    shaft_diameter_mm: 3
+    shaft_extension_mm: 10
+    shaft_fit_values_mm:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    shaft_flat_mm: 2.5
+    shaft_profile_offset_mm: 0.08
+    variant: fit_coupons
+    width: 5
+  oobb_name: holder_motor_gear_n20_fit_test
+  oomp_key: oomp_oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons
+  part_number: ''
+  project_name: oomlout_oobb_part_holder_motor_version_5
+  short_name: ''
+  size: oomlout_oobb_part_holder_motor_version_5_holder_motor_gear_n20_fit_test
+  taxonomy_1: oobb
+  taxonomy_10: fit_coupons
+  taxonomy_10_capital: Fit Coupons
+  taxonomy_10_first_letter: f
+  taxonomy_10_first_letter_upper: F
+  taxonomy_10_length_1: f
+  taxonomy_10_length_2: fi
+  taxonomy_10_length_3: fit
+  taxonomy_10_length_4: fit_
+  taxonomy_10_length_5: fit_c
+  taxonomy_10_upper: FIT_COUPONS
+  taxonomy_10_upper_length_1: F
+  taxonomy_10_upper_length_2: FI
+  taxonomy_10_upper_length_3: FIT
+  taxonomy_10_upper_length_4: FIT_
+  taxonomy_10_upper_length_5: FIT_C
+  taxonomy_11: ''
+  taxonomy_12: ''
+  taxonomy_13: ''
+  taxonomy_14: ''
+  taxonomy_15: ''
+  taxonomy_1_capital: Oobb
+  taxonomy_1_first_letter: o
+  taxonomy_1_first_letter_upper: O
+  taxonomy_1_length_1: o
+  taxonomy_1_length_2: oo
+  taxonomy_1_length_3: oob
+  taxonomy_1_length_4: oobb
+  taxonomy_1_length_5: oobb
+  taxonomy_1_upper: OOBB
+  taxonomy_1_upper_length_1: O
+  taxonomy_1_upper_length_2: OO
+  taxonomy_1_upper_length_3: OOB
+  taxonomy_1_upper_length_4: OOBB
+  taxonomy_1_upper_length_5: OOBB
+  taxonomy_2: part
+  taxonomy_2_capital: Part
+  taxonomy_2_first_letter: p
+  taxonomy_2_first_letter_upper: P
+  taxonomy_2_length_1: p
+  taxonomy_2_length_2: pa
+  taxonomy_2_length_3: par
+  taxonomy_2_length_4: part
+  taxonomy_2_length_5: part
+  taxonomy_2_upper: PART
+  taxonomy_2_upper_length_1: P
+  taxonomy_2_upper_length_2: PA
+  taxonomy_2_upper_length_3: PAR
+  taxonomy_2_upper_length_4: PART
+  taxonomy_2_upper_length_5: PART
+  taxonomy_3: holder
+  taxonomy_3_capital: Holder
+  taxonomy_3_first_letter: h
+  taxonomy_3_first_letter_upper: H
+  taxonomy_3_length_1: h
+  taxonomy_3_length_2: ho
+  taxonomy_3_length_3: hol
+  taxonomy_3_length_4: hold
+  taxonomy_3_length_5: holde
+  taxonomy_3_upper: HOLDER
+  taxonomy_3_upper_length_1: H
+  taxonomy_3_upper_length_2: HO
+  taxonomy_3_upper_length_3: HOL
+  taxonomy_3_upper_length_4: HOLD
+  taxonomy_3_upper_length_5: HOLDE
+  taxonomy_4: motor
+  taxonomy_4_capital: Motor
+  taxonomy_4_first_letter: m
+  taxonomy_4_first_letter_upper: M
+  taxonomy_4_length_1: m
+  taxonomy_4_length_2: mo
+  taxonomy_4_length_3: mot
+  taxonomy_4_length_4: moto
+  taxonomy_4_length_5: motor
+  taxonomy_4_upper: MOTOR
+  taxonomy_4_upper_length_1: M
+  taxonomy_4_upper_length_2: MO
+  taxonomy_4_upper_length_3: MOT
+  taxonomy_4_upper_length_4: MOTO
+  taxonomy_4_upper_length_5: MOTOR
+  taxonomy_5: gear
+  taxonomy_5_capital: Gear
+  taxonomy_5_first_letter: g
+  taxonomy_5_first_letter_upper: G
+  taxonomy_5_length_1: g
+  taxonomy_5_length_2: ge
+  taxonomy_5_length_3: gea
+  taxonomy_5_length_4: gear
+  taxonomy_5_length_5: gear
+  taxonomy_5_upper: GEAR
+  taxonomy_5_upper_length_1: G
+  taxonomy_5_upper_length_2: GE
+  taxonomy_5_upper_length_3: GEA
+  taxonomy_5_upper_length_4: GEAR
+  taxonomy_5_upper_length_5: GEAR
+  taxonomy_6: n20
+  taxonomy_6_capital: N20
+  taxonomy_6_first_letter: n
+  taxonomy_6_first_letter_upper: N
+  taxonomy_6_length_1: n
+  taxonomy_6_length_2: n2
+  taxonomy_6_length_3: n20
+  taxonomy_6_length_4: n20
+  taxonomy_6_length_5: n20
+  taxonomy_6_upper: N20
+  taxonomy_6_upper_length_1: N
+  taxonomy_6_upper_length_2: N2
+  taxonomy_6_upper_length_3: N20
+  taxonomy_6_upper_length_4: N20
+  taxonomy_6_upper_length_5: N20
+  taxonomy_7: 5_width
+  taxonomy_7_capital: 5 Width
+  taxonomy_7_first_letter: '5'
+  taxonomy_7_first_letter_upper: '5'
+  taxonomy_7_length_1: '5'
+  taxonomy_7_length_2: '5_'
+  taxonomy_7_length_3: 5_w
+  taxonomy_7_length_4: 5_wi
+  taxonomy_7_length_5: 5_wid
+  taxonomy_7_upper: 5_WIDTH
+  taxonomy_7_upper_length_1: '5'
+  taxonomy_7_upper_length_2: '5_'
+  taxonomy_7_upper_length_3: 5_W
+  taxonomy_7_upper_length_4: 5_WI
+  taxonomy_7_upper_length_5: 5_WID
+  taxonomy_8: 5_height
+  taxonomy_8_capital: 5 Height
+  taxonomy_8_first_letter: '5'
+  taxonomy_8_first_letter_upper: '5'
+  taxonomy_8_length_1: '5'
+  taxonomy_8_length_2: '5_'
+  taxonomy_8_length_3: 5_h
+  taxonomy_8_length_4: 5_he
+  taxonomy_8_length_5: 5_hei
+  taxonomy_8_upper: 5_HEIGHT
+  taxonomy_8_upper_length_1: '5'
+  taxonomy_8_upper_length_2: '5_'
+  taxonomy_8_upper_length_3: 5_H
+  taxonomy_8_upper_length_4: 5_HE
+  taxonomy_8_upper_length_5: 5_HEI
+  taxonomy_9: 10_depth
+  taxonomy_9_capital: 10 Depth
+  taxonomy_9_first_letter: '1'
+  taxonomy_9_first_letter_upper: '1'
+  taxonomy_9_length_1: '1'
+  taxonomy_9_length_2: '10'
+  taxonomy_9_length_3: '10_'
+  taxonomy_9_length_4: 10_d
+  taxonomy_9_length_5: 10_de
+  taxonomy_9_upper: 10_DEPTH
+  taxonomy_9_upper_length_1: '1'
+  taxonomy_9_upper_length_2: '10'
+  taxonomy_9_upper_length_3: '10_'
+  taxonomy_9_upper_length_4: 10_D
+  taxonomy_9_upper_length_5: 10_DE
+  type: part
+  variant: fit_coupons
+  width: 5
+  width_mm: 74
+variant: fit_coupons
+width: 5

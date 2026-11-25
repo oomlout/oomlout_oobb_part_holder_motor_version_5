@@ -1,0 +1,24 @@
+profile: Adafruit 3777 TT motor
+source: https://github.com/adafruit/Adafruit_CAD_Parts/blob/main/3777%20TT%20Motor/3777%20TT%20Motor.step
+step_sha256: 12e0fa54576085011cc9f5221ad95aca62d565e051d995523d192d0a65797ce3
+units: mm
+assembly_coordinates: "X = STEP Z, Y = STEP X, Z = STEP Y - 6.3. Origin in XY is the output shaft centre."
+supplier_cad:
+  case_front_x: 11.2
+  case_back_x: -36.8
+  case_width: 22.4
+  gearbox_faces_z: [-15.6, 3]
+  mounting_hole_centres_xy: [[-20.6, -8.8], [-20.6, 8.8]]
+  mounting_bore: 3
+  locating_pin_xy: [-11.25, 0]
+  locating_pin_diameter: 4
+  locating_pin_projection_below_case: 2
+  front_ear_hole_xy: [14, 0]
+  shaft_ends_z: [-24.6, 12]
+  shaft_major_and_flats: [5.4, 3.7]
+  rear_pin_x: -54.6
+drawing: https://cdn-shop.adafruit.com/product-files/3777/3777_diagram.jpg
+design_choices:
+  - STEP mounting axes supersede the previous 22.75 mm offset inferred from the drawing.
+  - Use the wider 20.39 mm by 22.4 mm can clearance envelope from the drawing. Keep the rear end open for the boss and leads.
+  - The native motor simplifies case ribs, can casing and tabs. Nominal holes and locating features use the supplier STEP. Verify the actual motor with the printed tray.

@@ -1,0 +1,80 @@
+depth: 21.78
+depth_note: Maximum individual print-piece Z extent; installed motor/output bounds
+  are recorded with the rendered assembly.
+family: n20_shaft_test
+fit_note: Pololu no-encoder 25.6 mm body reference. Print the motor, single-D and
+  M3/M6 fit coupons first; physical fit and load capacity are untested. Rear-shaft
+  and terminal windows are open.
+geometry_note: Local N20 drawings use native OOBB plates, cubes, cylinders, holes,
+  screws, nuts and overhang relief; hardware is excluded from print layouts.
+geometry_reference: source_file/n20_reference/dimensions.yaml
+grid_pitch_mm: 15
+grip_style: taper_collet
+height: 3
+motor_style: n20
+motor_type: gear
+oobb_details:
+  bearing_axial_clearance_mm: 0.2
+  bearing_bottom_mm: 10
+  bearing_id_mm: 20
+  bearing_od_mm: 27
+  bearing_seat_diameter_clearance_mm: 0.3
+  bearing_width_mm: 4
+  body_clearance_mm: 0.25
+  boss_diameter_mm: 4
+  boss_height_mm: 0.7
+  collet_cap_travel_mm: 0.5
+  collet_radial_clearance_mm: 0.05
+  cradle_axis_height_mm: 22.5
+  depth: 21.78
+  gearbox_length_mm: 9
+  grid_pitch_mm: 15
+  grip_bottom_mm: 1.5
+  grip_style: taper_collet
+  height: 3
+  journal_diameter_clearance_mm: 0.2
+  metal_hub_depth_mm: 5
+  metal_hub_diameter_mm: 17.5
+  metal_hub_pcd_mm: 12.7
+  motor_body_length_mm: 25.6
+  motor_height_mm: 10
+  motor_pocket_fit_values_mm:
+  - 0.15
+  - 0.25
+  - 0.35
+  motor_style: n20
+  motor_type: gear
+  motor_width_mm: 12
+  oobb_name: holder_motor_gear_n20_shaft_test
+  output_bottom_mm: 18
+  output_thickness_mm: 8
+  press_fit_profile_offset_mm: 0
+  shaft_diameter_mm: 3
+  shaft_extension_mm: 10
+  shaft_fit_values_mm:
+  - 0
+  - 0.05
+  - 0.1
+  - 0.15
+  shaft_flat_mm: 2.5
+  shaft_profile_offset_mm: 0.08
+  variant: testing_taper_collet
+  width: 3
+oobb_name: holder_motor_gear_n20_shaft_test
+taxonomy_1: oobb
+taxonomy_10: testing_taper_collet
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: holder
+taxonomy_4: motor
+taxonomy_5: gear
+taxonomy_6: n20
+taxonomy_7: 3_width
+taxonomy_8: 3_height
+taxonomy_9: 21d78_depth
+variant: testing_taper_collet
+width: 3

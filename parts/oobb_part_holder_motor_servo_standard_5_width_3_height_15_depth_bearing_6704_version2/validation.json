@@ -1,0 +1,2780 @@
+{
+  "passed": true,
+  "checks": 534,
+  "catalogue_id": "oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2",
+  "datum": "Z=0 upper servo mounting-ear surface, output spline axis X=Y=0",
+  "dimensions": {
+    "face": 9.6,
+    "seat": 10.6,
+    "holder_top": 10.6,
+    "retainer_bottom": 10.6,
+    "bearing_roof": 14.7,
+    "assembly_top": 16.2,
+    "bearing_lip_thickness": 1.5,
+    "retainer_thickness": 5.6,
+    "servo_screw_length": 30,
+    "cover_screw_head": -9.6,
+    "cover_screw_length": 25,
+    "nut_bottom": 16.6,
+    "split": 19.4,
+    "output_top": 21.6,
+    "lid_thickness": 2.2,
+    "output_screw_length": 10,
+    "output_join_nut_top": 14.8,
+    "output_join_radius": 6.35,
+    "top_tip_relief_bottom": 8.9,
+    "shell_top": 7.4,
+    "top": 15,
+    "shell_bottom": -38.0,
+    "shell_floor": -35.0,
+    "default_spacer": 1,
+    "runner_face": 8.6,
+    "servo_head_top": 16.2,
+    "clamp_top": -3.65,
+    "clamp_bottom": -10.15,
+    "servo_nut_bottom": -10.05
+  },
+  "results": [
+    {
+      "test": "lowest_bearing_with_case_gap_and_1mm_shoulder",
+      "passed": true,
+      "bearing_bottom_mm": 10.6,
+      "maximum_case_top_mm": 9.0,
+      "case_gap_mm": 0.6
+    },
+    {
+      "test": "holder_single_closed_print",
+      "passed": true,
+      "solids": 1,
+      "volume_mm3": 10293.101255086889
+    },
+    {
+      "test": "holder_on_bed",
+      "passed": true,
+      "bounds_mm": [
+        [
+          -52.0,
+          -21.99013364214136,
+          0.0
+        ],
+        [
+          22.0,
+          21.99013364214136,
+          10.6
+        ]
+      ]
+    },
+    {
+      "test": "bearing_retainer_single_closed_print",
+      "passed": true,
+      "solids": 1,
+      "volume_mm3": 11210.426913509053
+    },
+    {
+      "test": "bearing_retainer_on_bed",
+      "passed": true,
+      "bounds_mm": [
+        [
+          -52.0,
+          -21.99013364214136,
+          0.0
+        ],
+        [
+          22.0,
+          21.99013364214136,
+          5.6
+        ]
+      ]
+    },
+    {
+      "test": "female_rotor_single_closed_print",
+      "passed": true,
+      "solids": 1,
+      "volume_mm3": 2455.0117147481437
+    },
+    {
+      "test": "female_rotor_on_bed",
+      "passed": true,
+      "bounds_mm": [
+        [
+          -11.9,
+          -11.876518068296432,
+          0.0
+        ],
+        [
+          11.9,
+          11.876518068296432,
+          10.799999999999999
+        ]
+      ]
+    },
+    {
+      "test": "output_lid_single_closed_print",
+      "passed": true,
+      "solids": 1,
+      "volume_mm3": 720.3971551813926
+    },
+    {
+      "test": "output_lid_on_bed",
+      "passed": true,
+      "bounds_mm": [
+        [
+          -11.9,
+          -11.876518068296432,
+          3.552713678800501e-15
+        ],
+        [
+          11.9,
+          11.876518068296432,
+          2.200000000000003
+        ]
+      ]
+    },
+    {
+      "test": "clamshell_single_closed_print",
+      "passed": true,
+      "solids": 1,
+      "volume_mm3": 36987.09028921645
+    },
+    {
+      "test": "clamshell_on_bed",
+      "passed": true,
+      "bounds_mm": [
+        [
+          -52.0,
+          -21.99013364214136,
+          0.0
+        ],
+        [
+          22.0,
+          21.99013364214136,
+          45.4
+        ]
+      ]
+    },
+    {
+      "test": "clamp_left_single_closed_print",
+      "passed": true,
+      "solids": 1,
+      "volume_mm3": 563.3498953701525
+    },
+    {
+      "test": "clamp_left_on_bed",
+      "passed": true,
+      "bounds_mm": [
+        [
+          -3.25,
+          -9.748816037056963,
+          4.440892098500626e-16
+        ],
+        [
+          3.25,
+          9.748816037056963,
+          6.5
+        ]
+      ]
+    },
+    {
+      "test": "clamp_right_single_closed_print",
+      "passed": true,
+      "solids": 1,
+      "volume_mm3": 563.3498953701525
+    },
+    {
+      "test": "clamp_right_on_bed",
+      "passed": true,
+      "bounds_mm": [
+        [
+          -3.25,
+          -9.748816037056963,
+          4.440892098500626e-16
+        ],
+        [
+          3.25,
+          9.748816037056963,
+          6.5
+        ]
+      ]
+    },
+    {
+      "test": "spacer_left_single_closed_print",
+      "passed": true,
+      "solids": 1,
+      "volume_mm3": 106.12146525746526
+    },
+    {
+      "test": "spacer_left_on_bed",
+      "passed": true,
+      "bounds_mm": [
+        [
+          -3.25,
+          -9.748816037056963,
+          0.0
+        ],
+        [
+          3.25,
+          9.748816037056963,
+          1.0
+        ]
+      ]
+    },
+    {
+      "test": "spacer_right_single_closed_print",
+      "passed": true,
+      "solids": 1,
+      "volume_mm3": 106.12146525746526
+    },
+    {
+      "test": "spacer_right_on_bed",
+      "passed": true,
+      "bounds_mm": [
+        [
+          -3.25,
+          -9.748816037056963,
+          0.0
+        ],
+        [
+          3.25,
+          9.748816037056963,
+          1.0
+        ]
+      ]
+    },
+    {
+      "test": "full_4mm_bearing",
+      "passed": true
+    },
+    {
+      "test": "bearing_on_oobb_column_4_row_2",
+      "passed": true,
+      "spindle_xy_mm": [
+        0,
+        0
+      ],
+      "oobb_column": 4,
+      "oobb_row": 2
+    },
+    {
+      "test": "upper_retaining_lip_1d5mm",
+      "passed": true
+    },
+    {
+      "test": "separate_bearing_side_connectors_removed",
+      "passed": true
+    },
+    {
+      "test": "unused_rear_window_filled",
+      "passed": true
+    },
+    {
+      "test": "base_connectors_inset_M3_sites",
+      "passed": true
+    },
+    {
+      "test": "lower_plate_only_small_bore",
+      "passed": true
+    },
+    {
+      "test": "full_bearing_seat_in_upper_plate_11",
+      "passed": true
+    },
+    {
+      "test": "full_bearing_seat_in_upper_plate_12.6",
+      "passed": true
+    },
+    {
+      "test": "full_bearing_seat_in_upper_plate_14.6",
+      "passed": true
+    },
+    {
+      "test": "upper_plate_small_bore_and_roof",
+      "passed": true
+    },
+    {
+      "test": "upper_plate_flat_print_face_-49",
+      "passed": true
+    },
+    {
+      "test": "upper_plate_flat_print_face_19",
+      "passed": true
+    },
+    {
+      "test": "default_1mm_shims",
+      "passed": true
+    },
+    {
+      "test": "servo_head_tops_flush_with_plate",
+      "passed": true
+    },
+    {
+      "test": "M3_30mm_servo_screws",
+      "passed": true
+    },
+    {
+      "test": "top_access_shaft_and_head_-34.5_-5.2",
+      "passed": true
+    },
+    {
+      "test": "nominal_flush_conical_seat_-34.5_-5.2",
+      "passed": true
+    },
+    {
+      "test": "bar_nut_roof_and_bottom_loading_-34.5_-5.2",
+      "passed": true
+    },
+    {
+      "test": "shaft_clears_bearing_OD_-34.5_-5.2",
+      "passed": true,
+      "radial_gap_mm": 19.889683288903612
+    },
+    {
+      "test": "top_access_shaft_and_head_-34.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "nominal_flush_conical_seat_-34.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "bar_nut_roof_and_bottom_loading_-34.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "shaft_clears_bearing_OD_-34.5_5.2",
+      "passed": true,
+      "radial_gap_mm": 19.889683288903612
+    },
+    {
+      "test": "top_access_shaft_and_head_14.5_-5.2",
+      "passed": true
+    },
+    {
+      "test": "nominal_flush_conical_seat_14.5_-5.2",
+      "passed": true
+    },
+    {
+      "test": "bar_nut_roof_and_bottom_loading_14.5_-5.2",
+      "passed": true
+    },
+    {
+      "test": "shaft_clears_bearing_OD_14.5_-5.2",
+      "passed": true,
+      "radial_gap_mm": 0.40422020097090083
+    },
+    {
+      "test": "top_access_shaft_and_head_14.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "nominal_flush_conical_seat_14.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "bar_nut_roof_and_bottom_loading_14.5_5.2",
+      "passed": true
+    },
+    {
+      "test": "shaft_clears_bearing_OD_14.5_5.2",
+      "passed": true,
+      "radial_gap_mm": 0.40422020097090083
+    },
+    {
+      "test": "cover_25mm_screw_head_and_access_-37.5_-15",
+      "passed": true,
+      "head_z_mm": -9.6,
+      "screw_length_mm": 25
+    },
+    {
+      "test": "cover_25mm_screw_head_and_access_-37.5_15",
+      "passed": true,
+      "head_z_mm": -9.6,
+      "screw_length_mm": 25
+    },
+    {
+      "test": "cover_25mm_screw_head_and_access_7.5_-15",
+      "passed": true,
+      "head_z_mm": -9.6,
+      "screw_length_mm": 25
+    },
+    {
+      "test": "cover_25mm_screw_head_and_access_7.5_15",
+      "passed": true,
+      "head_z_mm": -9.6,
+      "screw_length_mm": 25
+    },
+    {
+      "test": "holder_corner_M6_preserved_-45_-15",
+      "passed": true
+    },
+    {
+      "test": "holder_corner_M6_preserved_-45_15",
+      "passed": true
+    },
+    {
+      "test": "holder_corner_M6_preserved_15_-15",
+      "passed": true
+    },
+    {
+      "test": "holder_corner_M6_preserved_15_15",
+      "passed": true
+    },
+    {
+      "test": "retainer_corner_M6_preserved_-45_-15",
+      "passed": true
+    },
+    {
+      "test": "retainer_corner_M6_preserved_-45_15",
+      "passed": true
+    },
+    {
+      "test": "retainer_corner_M6_preserved_15_-15",
+      "passed": true
+    },
+    {
+      "test": "retainer_corner_M6_preserved_15_15",
+      "passed": true
+    },
+    {
+      "test": "bottom_corner_M6_preserved_-45_-15",
+      "passed": true
+    },
+    {
+      "test": "bottom_corner_M6_preserved_-45_15",
+      "passed": true
+    },
+    {
+      "test": "bottom_corner_M6_preserved_15_-15",
+      "passed": true
+    },
+    {
+      "test": "bottom_corner_M6_preserved_15_15",
+      "passed": true
+    },
+    {
+      "test": "female_socket_opening",
+      "passed": true
+    },
+    {
+      "test": "socket_has_roof",
+      "passed": true
+    },
+    {
+      "test": "more_rotor_plastic",
+      "passed": true,
+      "previous_mm3": 2065.54250301215,
+      "current_mm3": 2455.0117147481437
+    },
+    {
+      "test": "cross_nut_through_hole_-7.5_0_9.8",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_-7.5_0_12.6",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_-7.5_0_16.1",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_hole_preserves_journal_wall_-7.5_0",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_7.5_0_9.8",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_7.5_0_12.6",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_7.5_0_16.1",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_hole_preserves_journal_wall_7.5_0",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_0_-7.5_9.8",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_0_-7.5_12.6",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_0_-7.5_16.1",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_hole_preserves_journal_wall_0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_0_7.5_9.8",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_0_7.5_12.6",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_through_hole_0_7.5_16.1",
+      "passed": true
+    },
+    {
+      "test": "cross_nut_hole_preserves_journal_wall_0_7.5",
+      "passed": true
+    },
+    {
+      "test": "raised_nuts_above_bearing",
+      "passed": true,
+      "nut_bottom_mm": 16.6,
+      "bearing_top_mm": 14.6
+    },
+    {
+      "test": "outside_top_loading_nut_-7.5_0",
+      "passed": true
+    },
+    {
+      "test": "nut_lid_roof_-7.5_0",
+      "passed": true
+    },
+    {
+      "test": "outside_top_loading_nut_7.5_0",
+      "passed": true
+    },
+    {
+      "test": "nut_lid_roof_7.5_0",
+      "passed": true
+    },
+    {
+      "test": "outside_top_loading_nut_0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "nut_lid_roof_0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "outside_top_loading_nut_0_7.5",
+      "passed": true
+    },
+    {
+      "test": "nut_lid_roof_0_7.5",
+      "passed": true
+    },
+    {
+      "test": "full_5x3_retainer",
+      "passed": true
+    },
+    {
+      "test": "full_block_bounds",
+      "passed": true
+    },
+    {
+      "test": "four_output_M3_cross_nuts_retained",
+      "passed": true
+    },
+    {
+      "test": "separate_diagonal_connector_-4.49013_-4.49013",
+      "passed": true
+    },
+    {
+      "test": "diagonal_connector_preserves_journal_wall_-4.49013_-4.49013",
+      "passed": true
+    },
+    {
+      "test": "diagonal_M3_bottom_nut_-4.49013_-4.49013",
+      "passed": true
+    },
+    {
+      "test": "diagonal_M3_countersink_in_top_-4.49013_-4.49013",
+      "passed": true
+    },
+    {
+      "test": "separate_diagonal_connector_4.49013_4.49013",
+      "passed": true
+    },
+    {
+      "test": "diagonal_connector_preserves_journal_wall_4.49013_4.49013",
+      "passed": true
+    },
+    {
+      "test": "diagonal_M3_bottom_nut_4.49013_4.49013",
+      "passed": true
+    },
+    {
+      "test": "diagonal_M3_countersink_in_top_4.49013_4.49013",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-45.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-45.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-45.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-45.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-45.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-45.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-45.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-45.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-37.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-37.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-30.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-30.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-30.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-30.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-22.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-22.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-22.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-22.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-22.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-22.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-22.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-22.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-22.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-22.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_-7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_-7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_grid_15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "upper_frame_grid_15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "retainer_usable_grid",
+      "passed": true,
+      "free_holes": 20
+    },
+    {
+      "test": "bottom_grid_-45.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_-45.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_-30.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_-30.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_-22.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_-22.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_-15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_-15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_-7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_-7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_15.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_grid_15.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_usable_grid",
+      "passed": true,
+      "free_holes": 12
+    },
+    {
+      "test": "all_free_top_M3_sites_have_embedded_nuts",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-45.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-45.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-37.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-22.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-22.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-22.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-22.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-22.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-7.5_-15.0",
+      "passed": true
+    },
+    {
+      "test": "top_M3_nut_and_tip_relief_-7.5_15.0",
+      "passed": true
+    },
+    {
+      "test": "blocked_top_M6_solid_-45",
+      "passed": true
+    },
+    {
+      "test": "blocked_top_M6_solid_-30",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-45.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-45.0_0.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-45.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-37.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-37.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-37.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-30.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-30.0_0.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-30.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-22.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-22.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-22.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-15.0_0.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-7.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-7.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_-7.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_0.0_-15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_0.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_0.0_0.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_0.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_0.0_15.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_7.5_-7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_7.5_0.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_7.5_7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_15.0_-7.5",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_15.0_0.0",
+      "passed": true
+    },
+    {
+      "test": "bottom_blocked_site_solid_15.0_7.5",
+      "passed": true
+    },
+    {
+      "test": "mg996r_case_vs_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_case_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_case_vs_clamshell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_fastener_tips_vs_case",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_bottom_insertion",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_mount_slot_-35.2_-5",
+      "passed": true
+    },
+    {
+      "test": "mg996r_mount_slot_-35.2_5",
+      "passed": true
+    },
+    {
+      "test": "mg996r_mount_slot_14.3_-5",
+      "passed": true
+    },
+    {
+      "test": "mg996r_mount_slot_14.3_5",
+      "passed": true
+    },
+    {
+      "test": "mg996r_actual_mount_nuts_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_actual_mount_nuts_fit_pockets",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_actual_mount_nuts_vs_case",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_M3_in_4d5mm_ear_-34.5_-5.2",
+      "passed": true,
+      "axis_offset_mm": 0.7280109889280546,
+      "edge_clearance_mm": 0.021989011071945397
+    },
+    {
+      "test": "mg996r_M3_in_4d5mm_ear_-34.5_5.2",
+      "passed": true,
+      "axis_offset_mm": 0.7280109889280546,
+      "edge_clearance_mm": 0.021989011071945397
+    },
+    {
+      "test": "mg996r_M3_in_4d5mm_ear_14.5_-5.2",
+      "passed": true,
+      "axis_offset_mm": 0.2828427124746186,
+      "edge_clearance_mm": 0.4671572875253813
+    },
+    {
+      "test": "mg996r_M3_in_4d5mm_ear_14.5_5.2",
+      "passed": true,
+      "axis_offset_mm": 0.2828427124746186,
+      "edge_clearance_mm": 0.4671572875253813
+    },
+    {
+      "test": "mg996r_mount_screw_slots_through_upper_plate",
+      "passed": true,
+      "intersection_mm3": 1.8947806286936004e-14,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_mount_screws_vs_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_socket_axial_engagement",
+      "passed": true,
+      "engagement_mm": 3.8000000000000007,
+      "modelling_status": "Body/overall/tab envelope from manufacturer; 49.5 mm pitch, tab thickness, shaft offset and exposed spline length are conservative modelling assumptions; slots cover pitch variation."
+    },
+    {
+      "test": "mg996r_profile_centre_bore",
+      "passed": true
+    },
+    {
+      "test": "mg996r_short_horn_screw_seat",
+      "passed": true
+    },
+    {
+      "test": "mg996r_horn_screw_vs_installed_rotor_mg996r",
+      "passed": true,
+      "intersection_mm3": 0.0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_horn_screw_vs_installed_output_lid",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_horn_screw_vs_reference_output_fasteners",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_case_vs_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_case_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_case_vs_clamshell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_fastener_tips_vs_case",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_bottom_insertion",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_mount_slot_-33.9_-5.1",
+      "passed": true
+    },
+    {
+      "test": "hs311_mount_slot_-33.9_5.1",
+      "passed": true
+    },
+    {
+      "test": "hs311_mount_slot_13.9_-5.1",
+      "passed": true
+    },
+    {
+      "test": "hs311_mount_slot_13.9_5.1",
+      "passed": true
+    },
+    {
+      "test": "hs311_actual_mount_nuts_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_actual_mount_nuts_fit_pockets",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_actual_mount_nuts_vs_case",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_M3_in_4d5mm_ear_-34.5_-5.2",
+      "passed": true,
+      "axis_offset_mm": 0.6082762530298235,
+      "edge_clearance_mm": 0.14172374697017665
+    },
+    {
+      "test": "hs311_M3_in_4d5mm_ear_-34.5_5.2",
+      "passed": true,
+      "axis_offset_mm": 0.6082762530298235,
+      "edge_clearance_mm": 0.14172374697017665
+    },
+    {
+      "test": "hs311_M3_in_4d5mm_ear_14.5_-5.2",
+      "passed": true,
+      "axis_offset_mm": 0.6082762530298235,
+      "edge_clearance_mm": 0.14172374697017665
+    },
+    {
+      "test": "hs311_M3_in_4d5mm_ear_14.5_5.2",
+      "passed": true,
+      "axis_offset_mm": 0.6082762530298235,
+      "edge_clearance_mm": 0.14172374697017665
+    },
+    {
+      "test": "hs311_mount_screw_slots_through_upper_plate",
+      "passed": true,
+      "intersection_mm3": 1.8947806286936004e-14,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_mount_screws_vs_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_socket_axial_engagement",
+      "passed": true,
+      "engagement_mm": 2.9000000000000004,
+      "modelling_status": "Body, tab envelope/pitches, 24 teeth and 5.76 diameter published; tab thickness, shaft offset and exposed spline Z are estimated from drawing."
+    },
+    {
+      "test": "hs311_profile_centre_bore",
+      "passed": true
+    },
+    {
+      "test": "hs311_short_horn_screw_seat",
+      "passed": true
+    },
+    {
+      "test": "hs311_horn_screw_vs_installed_rotor_hs311",
+      "passed": true,
+      "intersection_mm3": 0.0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_horn_screw_vs_installed_output_lid",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_horn_screw_vs_reference_output_fasteners",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_case_vs_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_case_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_case_vs_clamshell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_fastener_tips_vs_case",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_bottom_insertion",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_mount_slot_-34.775_-5",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_mount_slot_-34.775_5",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_mount_slot_14.725_-5",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_mount_slot_14.725_5",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_actual_mount_nuts_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_actual_mount_nuts_fit_pockets",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_actual_mount_nuts_vs_case",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_M3_in_4d5mm_ear_-34.5_-5.2",
+      "passed": true,
+      "axis_offset_mm": 0.34003676271838507,
+      "edge_clearance_mm": 0.4099632372816149
+    },
+    {
+      "test": "fs5106r_M3_in_4d5mm_ear_-34.5_5.2",
+      "passed": true,
+      "axis_offset_mm": 0.34003676271838507,
+      "edge_clearance_mm": 0.4099632372816149
+    },
+    {
+      "test": "fs5106r_M3_in_4d5mm_ear_14.5_-5.2",
+      "passed": true,
+      "axis_offset_mm": 0.30103986446980857,
+      "edge_clearance_mm": 0.44896013553019154
+    },
+    {
+      "test": "fs5106r_M3_in_4d5mm_ear_14.5_5.2",
+      "passed": true,
+      "axis_offset_mm": 0.30103986446980857,
+      "edge_clearance_mm": 0.44896013553019154
+    },
+    {
+      "test": "fs5106r_mount_screw_slots_through_upper_plate",
+      "passed": true,
+      "intersection_mm3": 1.8947806286936004e-14,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_mount_screws_vs_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_socket_axial_engagement",
+      "passed": true,
+      "engagement_mm": 4.0,
+      "modelling_status": "Manufacturer 2021 drawing p5: 40.15 x20.15, case37.2, tabtop28.55, tabbottom25.9, total42.85, pitch49.5x10, shaftoffset10.05; spline lower Z inferred."
+    },
+    {
+      "test": "fs5106r_profile_centre_bore",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_short_horn_screw_seat",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_horn_screw_vs_installed_rotor_fs5106r",
+      "passed": true,
+      "intersection_mm3": 0.0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_horn_screw_vs_installed_output_lid",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_horn_screw_vs_reference_output_fasteners",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_case_vs_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_case_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_case_vs_clamshell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_fastener_tips_vs_case",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_bottom_insertion",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_mount_slot_-34.95_-5",
+      "passed": true
+    },
+    {
+      "test": "s3004_mount_slot_-34.95_5",
+      "passed": true
+    },
+    {
+      "test": "s3004_mount_slot_14.55_-5",
+      "passed": true
+    },
+    {
+      "test": "s3004_mount_slot_14.55_5",
+      "passed": true
+    },
+    {
+      "test": "s3004_actual_mount_nuts_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_actual_mount_nuts_fit_pockets",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_actual_mount_nuts_vs_case",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_M3_in_4d5mm_ear_-34.5_-5.2",
+      "passed": true,
+      "axis_offset_mm": 0.4924428900898079,
+      "edge_clearance_mm": 0.2575571099101921
+    },
+    {
+      "test": "s3004_M3_in_4d5mm_ear_-34.5_5.2",
+      "passed": true,
+      "axis_offset_mm": 0.4924428900898079,
+      "edge_clearance_mm": 0.2575571099101921
+    },
+    {
+      "test": "s3004_M3_in_4d5mm_ear_14.5_-5.2",
+      "passed": true,
+      "axis_offset_mm": 0.20615528128088337,
+      "edge_clearance_mm": 0.5438447187191167
+    },
+    {
+      "test": "s3004_M3_in_4d5mm_ear_14.5_5.2",
+      "passed": true,
+      "axis_offset_mm": 0.20615528128088337,
+      "edge_clearance_mm": 0.5438447187191167
+    },
+    {
+      "test": "s3004_mount_screw_slots_through_upper_plate",
+      "passed": true,
+      "intersection_mm3": 1.8947806286936004e-14,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_mount_screws_vs_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_socket_axial_engagement",
+      "passed": true,
+      "engagement_mm": 3.5999999999999996,
+      "modelling_status": "Published body size; mounting, top-case and shaft Z are conservative standard-servo envelope assumptions, not a certified S3004 CAD model."
+    },
+    {
+      "test": "s3004_profile_centre_bore",
+      "passed": true
+    },
+    {
+      "test": "s3004_short_horn_screw_seat",
+      "passed": true
+    },
+    {
+      "test": "s3004_horn_screw_vs_installed_rotor_s3004",
+      "passed": true,
+      "intersection_mm3": 0.0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_horn_screw_vs_installed_output_lid",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_horn_screw_vs_reference_output_fasteners",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "360_degree_output_sweep",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bearing_vs_holder",
+      "passed": true,
+      "intersection_mm3": 0.0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bearing_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bearing_vs_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bearing_slides_over_female_end",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bearing_enters_upper_plate_from_below",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "lid_vs_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "maximum_41d5_by_21_case_envelope",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "maximum_case_vs_clamshell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "clamshell_vs_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "retainer_vs_holder",
+      "passed": true,
+      "intersection_mm3": 0.0,
+      "intentional_collision": false
+    },
+    {
+      "test": "servo_nuts_outside_insertion",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "servo_nuts_vs_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "servo_nuts_vs_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "servo_nuts_vs_maximum_case",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "diagonal_hardware_vs_installed_rotor_mg996r",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "diagonal_hardware_vs_installed_output_lid",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "diagonal_hardware_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "diagonal_hardware_vs_reference_output_nuts",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "diagonal_hardware_vs_reference_maximum_envelope",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "cover_nuts_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "cover_nuts_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "cover_nuts_vs_installed_rotor_mg996r",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "output_nuts_fit_rotor",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "cross_nut_through_bolts_vs_installed_rotor_mg996r",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "cross_nut_through_bolts_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "cross_nut_through_bolts_vs_reference_output_fasteners",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "cross_nut_through_bolts_vs_reference_maximum_envelope",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bottom_full_length_bolts_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bottom_full_length_bolts_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bottom_full_length_bolts_vs_installed_clamshell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bottom_full_length_bolts_vs_reference_maximum_envelope",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bottom_full_length_bolts_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bottom_full_length_bolts_vs_installed_rotor_mg996r",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "top_grid_nuts_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "top_grid_nuts_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "top_grid_nuts_vs_installed_rotor_mg996r",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "extended_top_tip_reliefs_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "extended_top_tip_reliefs_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "tip_reliefs_clear_servo_nut_roofs",
+      "passed": true
+    },
+    {
+      "test": "runner_M3_nuts_load_from_bottom",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "positive_control_runner_M3_nuts_cannot_spin",
+      "passed": true,
+      "intersection_mm3": 3.4715605373082887,
+      "intentional_collision": true
+    },
+    {
+      "test": "bar_nuts_fit",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "bar_nuts_insert_from_bottom",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "top_servo_screws_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "floating_bars_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "top_servo_screws_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 1.1842378929335004e-14,
+      "intentional_collision": false
+    },
+    {
+      "test": "floating_bars_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "top_servo_screws_vs_installed_clamshell",
+      "passed": true,
+      "intersection_mm3": 1.2434497875801753e-14,
+      "intentional_collision": false
+    },
+    {
+      "test": "floating_bars_vs_installed_clamshell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "top_servo_screws_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "floating_bars_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "top_servo_screws_vs_installed_rotor_mg996r",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "floating_bars_vs_installed_rotor_mg996r",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "floating_bars_vs_mg996r",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "floating_bars_vs_hs311",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "floating_bars_vs_fs5106r",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "floating_bars_vs_s3004",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "nine_solids_in_default_print",
+      "passed": true
+    },
+    {
+      "test": "spacer_0d5mm_pair",
+      "passed": true
+    },
+    {
+      "test": "spacer_0d5mm_bars_clear_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_0d5mm_maximum_case_clears_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_0d5mm_full_nut_engagement",
+      "passed": true,
+      "screw_tip_mm": -13.8,
+      "nut_top_mm": -7.15
+    },
+    {
+      "test": "mg996r_0d5mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "mg996r_0d5mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "mg996r_0d5mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_0d5mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_0d5mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_0d5mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_0d5mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_0d5mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "hs311_0d5mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "hs311_0d5mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_0d5mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_0d5mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_0d5mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_0d5mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_0d5mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_0d5mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_0d5mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_0d5mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_0d5mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_0d5mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_0d5mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_0d5mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "s3004_0d5mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "s3004_0d5mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_0d5mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_0d5mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_0d5mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_0d5mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_1mm_pair",
+      "passed": true
+    },
+    {
+      "test": "spacer_1mm_bars_clear_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_1mm_maximum_case_clears_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_1mm_full_nut_engagement",
+      "passed": true,
+      "screw_tip_mm": -13.8,
+      "nut_top_mm": -7.65
+    },
+    {
+      "test": "mg996r_1mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "mg996r_1mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "mg996r_1mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_1mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_1mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_1mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_1mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_1mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "hs311_1mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "hs311_1mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_1mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_1mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_1mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_1mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_1mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_1mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_1mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_1mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_1mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_1mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_1mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_1mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "s3004_1mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "s3004_1mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_1mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_1mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_1mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_1mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_2mm_pair",
+      "passed": true
+    },
+    {
+      "test": "spacer_2mm_bars_clear_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_2mm_maximum_case_clears_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_2mm_full_nut_engagement",
+      "passed": true,
+      "screw_tip_mm": -13.8,
+      "nut_top_mm": -8.65
+    },
+    {
+      "test": "mg996r_2mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "mg996r_2mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "mg996r_2mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_2mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_2mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_2mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_2mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_2mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "hs311_2mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "hs311_2mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_2mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_2mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_2mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_2mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_2mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_2mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_2mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_2mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_2mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_2mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_2mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_2mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "s3004_2mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "s3004_2mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_2mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_2mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_2mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_2mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_3mm_pair",
+      "passed": true
+    },
+    {
+      "test": "spacer_3mm_bars_clear_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_3mm_maximum_case_clears_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "spacer_3mm_full_nut_engagement",
+      "passed": true,
+      "screw_tip_mm": -13.8,
+      "nut_top_mm": -9.65
+    },
+    {
+      "test": "mg996r_3mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "mg996r_3mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "mg996r_3mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_3mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_3mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_3mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "mg996r_3mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_3mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "hs311_3mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "hs311_3mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_3mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_3mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_3mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "hs311_3mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_3mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_3mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "fs5106r_3mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_3mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_3mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_3mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "fs5106r_3mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_3mm_runner_closed_on_bed",
+      "passed": true
+    },
+    {
+      "test": "s3004_3mm_spline_engagement",
+      "passed": true
+    },
+    {
+      "test": "s3004_3mm_runner_vs_installed_holder",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_3mm_runner_vs_installed_bearing_retainer",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_3mm_runner_vs_reference_bearing",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_3mm_case_vs_runner",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "s3004_3mm_case_vs_shell",
+      "passed": true,
+      "intersection_mm3": 0,
+      "intentional_collision": false
+    },
+    {
+      "test": "positive_control_captive_nuts_cannot_spin",
+      "passed": true,
+      "intersection_mm3": 3.1342858904163933,
+      "intentional_collision": true
+    },
+    {
+      "test": "positive_control_cover_nuts_cannot_spin",
+      "passed": true,
+      "intersection_mm3": 3.134285890416398,
+      "intentional_collision": true
+    },
+    {
+      "test": "cover_nuts_have_M3_not_M6_passages",
+      "passed": true
+    },
+    {
+      "test": "positive_control_case_interference",
+      "passed": true,
+      "intersection_mm3": 620.2540754001105,
+      "intentional_collision": true
+    },
+    {
+      "test": "positive_control_bearing_interference",
+      "passed": true,
+      "intersection_mm3": 52.539691510156445,
+      "intentional_collision": true
+    },
+    {
+      "test": "draw_holder_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "four_flush_servo_countersinks",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_retainer_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_rotor_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_output_lid_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "topper_has_two_M3_countersinks",
+      "passed": true
+    },
+    {
+      "test": "topper_has_no_embedded_connector_nuts",
+      "passed": true
+    },
+    {
+      "test": "draw_clamshell_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_clamp_left_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_clamp_left_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_clamp_left_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_clamp_right_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_clamp_right_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_clamp_right_nut_overhang",
+      "passed": true
+    },
+    {
+      "test": "draw_spacer_left_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "draw_spacer_right_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "v1_drawing_functions_preserved",
+      "passed": true
+    },
+    {
+      "test": "v1_scad_stl_png_preserved",
+      "passed": true,
+      "files_checked": 18
+    },
+    {
+      "test": "catalogue_parameters_parts",
+      "passed": true
+    },
+    {
+      "test": "catalogue_parameters_parts_source",
+      "passed": true
+    }
+  ],
+  "limitation": "Mesh clearance validates these modelled envelopes. Estimated profile dimensions and friction/spline fit still require measurement and print coupons."
+}

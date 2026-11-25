@@ -1,0 +1,342 @@
+bip_39_2_word_array:
+- achieve
+- divide
+bip_39_2_word_no_space: achievedivide
+bip_39_2_word_space: achieve divide
+bip_39_2_word_underscore: achieve_divide
+bip_39_3_word_array:
+- achieve
+- divide
+- chest
+bip_39_3_word_no_space: achievedividechest
+bip_39_3_word_space: achieve divide chest
+bip_39_3_word_underscore: achieve_divide_chest
+bip_39_full_array:
+- achieve
+- divide
+- chest
+- style
+- over
+- game
+- blame
+- sort
+- deal
+- alpha
+- scene
+- book
+bip_39_full_no_space: achievedividecheststyleovergameblamesortdealalphascenebook
+bip_39_full_space: achieve divide chest style over game blame sort deal alpha scene
+  book
+bip_39_full_underscore: achieve_divide_chest_style_over_game_blame_sort_deal_alpha_scene_book
+depth: 24.5
+depth_note: Maximum individual print-piece Z extent; installed motor/output bounds
+  are recorded with the rendered assembly.
+directory: parts/oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+family: n20_shaft_test
+filter: holder_motor_gear_n20
+fit_note: Pololu no-encoder 25.6 mm body reference. Print the motor, single-D and
+  M3/M6 fit coupons first; physical fit and load capacity are untested. Rear-shaft
+  and terminal windows are open.
+geometry_note: Local N20 drawings use native OOBB plates, cubes, cylinders, holes,
+  screws, nuts and overhang relief; hardware is excluded from print layouts.
+geometry_reference: source_file/n20_reference/dimensions.yaml
+grid_pitch_mm: 15
+grip_style: split_clamp
+height: 3
+id: oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+id_no_class: oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+id_no_size: oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+id_no_type: oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+id_oobb: oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+kwargs:
+  bearing_axial_clearance_mm: 0.2
+  bearing_bottom_mm: 10
+  bearing_id_mm: 20
+  bearing_od_mm: 27
+  bearing_seat_diameter_clearance_mm: 0.3
+  bearing_width_mm: 4
+  body_clearance_mm: 0.25
+  boss_diameter_mm: 4
+  boss_height_mm: 0.7
+  collet_cap_travel_mm: 0.5
+  collet_radial_clearance_mm: 0.05
+  cradle_axis_height_mm: 22.5
+  depth: 24.5
+  filter: holder_motor_gear_n20
+  gearbox_length_mm: 9
+  grid_pitch_mm: 15
+  grip_bottom_mm: 1.5
+  grip_style: split_clamp
+  height: 3
+  journal_diameter_clearance_mm: 0.2
+  metal_hub_depth_mm: 5
+  metal_hub_diameter_mm: 17.5
+  metal_hub_pcd_mm: 12.7
+  modes:
+  - 3dpr
+  motor_body_length_mm: 25.6
+  motor_height_mm: 10
+  motor_pocket_fit_values_mm:
+  - 0.15
+  - 0.25
+  - 0.35
+  motor_style: n20
+  motor_type: gear
+  motor_width_mm: 12
+  navigation: false
+  oobb_name: holder_motor_gear_n20_shaft_test
+  oomp_description_extra: 24.5_depth
+  oomp_description_main: holder_motor_gear_n20_shaft_test_3_width_3_height
+  oomp_mode: project
+  oomp_run: false
+  output_bottom_mm: 18
+  output_thickness_mm: 8
+  overwrite: true
+  press_fit_profile_offset_mm: 0
+  shaft_diameter_mm: 3
+  shaft_extension_mm: 10
+  shaft_fit_values_mm:
+  - 0
+  - 0.05
+  - 0.1
+  - 0.15
+  shaft_flat_mm: 2.5
+  shaft_profile_offset_mm: 0.08
+  type: oomlout_oobb_part_holder_motor_version_5_holder_motor_gear_n20_shaft_test
+  variant: testing_split_clamp
+  width: 3
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+md5: 01c7fc9e6be9debe45ce7c3820e3020c
+md5_10: 01c7fc9e6b
+md5_10_upper: 01C7FC9E6B
+md5_5: 01c7f
+md5_5_upper: 01C7F
+md5_6: 01c7fc
+md5_6_alpha: 2i2k
+md5_6_alpha_upper: 2I2K
+md5_6_upper: 01C7FC
+motor_style: n20
+motor_type: gear
+name: Oobb Part Holder Motor Gear N20 3 Width 3 Height 24D5 Depth Testing Split Clamp
+name_no_class: Oobb Part Holder Motor Gear N20 3 Width 3 Height 24D5 Depth Testing
+  Split Clamp
+name_no_size: Oobb Part Holder Motor Gear N20 3 Width 3 Height 24D5 Depth Testing
+  Split Clamp
+name_no_type: Oobb Part Holder Motor Gear N20 3 Width 3 Height 24D5 Depth Testing
+  Split Clamp
+name_proper: Oobb Part Holder Motor Gear N20 3 Width 3 Height 24D5 Depth Testing Split
+  Clamp
+name_space: oobb part holder motor gear n20 3 width 3 height 24d5 depth testing split
+  clamp
+name_upper: OOBB PART HOLDER MOTOR GEAR N20 3 WIDTH 3 HEIGHT 24D5 DEPTH TESTING SPLIT
+  CLAMP
+navigation: false
+oobb_details:
+  bearing_axial_clearance_mm: 0.2
+  bearing_bottom_mm: 10
+  bearing_id_mm: 20
+  bearing_od_mm: 27
+  bearing_seat_diameter_clearance_mm: 0.3
+  bearing_width_mm: 4
+  body_clearance_mm: 0.25
+  boss_diameter_mm: 4
+  boss_height_mm: 0.7
+  collet_cap_travel_mm: 0.5
+  collet_radial_clearance_mm: 0.05
+  cradle_axis_height_mm: 22.5
+  depth: 24.5
+  gearbox_length_mm: 9
+  grid_pitch_mm: 15
+  grip_bottom_mm: 1.5
+  grip_style: split_clamp
+  height: 3
+  journal_diameter_clearance_mm: 0.2
+  metal_hub_depth_mm: 5
+  metal_hub_diameter_mm: 17.5
+  metal_hub_pcd_mm: 12.7
+  motor_body_length_mm: 25.6
+  motor_height_mm: 10
+  motor_pocket_fit_values_mm:
+  - 0.15
+  - 0.25
+  - 0.35
+  motor_style: n20
+  motor_type: gear
+  motor_width_mm: 12
+  oobb_name: holder_motor_gear_n20_shaft_test
+  output_bottom_mm: 18
+  output_thickness_mm: 8
+  press_fit_profile_offset_mm: 0
+  shaft_diameter_mm: 3
+  shaft_extension_mm: 10
+  shaft_fit_values_mm:
+  - 0
+  - 0.05
+  - 0.1
+  - 0.15
+  shaft_flat_mm: 2.5
+  shaft_profile_offset_mm: 0.08
+  variant: testing_split_clamp
+  width: 3
+oobb_name: holder_motor_gear_n20_shaft_test
+oomp_key: oomp_oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp
+project_name: C:\gh\oomlout_oobb_part_holder_motor_version_5
+taxonomy_1: oobb
+taxonomy_10: testing_split_clamp
+taxonomy_10_capital: Testing Split Clamp
+taxonomy_10_first_letter: t
+taxonomy_10_first_letter_upper: T
+taxonomy_10_length_1: t
+taxonomy_10_length_2: te
+taxonomy_10_length_3: tes
+taxonomy_10_length_4: test
+taxonomy_10_length_5: testi
+taxonomy_10_upper: TESTING_SPLIT_CLAMP
+taxonomy_10_upper_length_1: T
+taxonomy_10_upper_length_2: TE
+taxonomy_10_upper_length_3: TES
+taxonomy_10_upper_length_4: TEST
+taxonomy_10_upper_length_5: TESTI
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: holder
+taxonomy_3_capital: Holder
+taxonomy_3_first_letter: h
+taxonomy_3_first_letter_upper: H
+taxonomy_3_length_1: h
+taxonomy_3_length_2: ho
+taxonomy_3_length_3: hol
+taxonomy_3_length_4: hold
+taxonomy_3_length_5: holde
+taxonomy_3_upper: HOLDER
+taxonomy_3_upper_length_1: H
+taxonomy_3_upper_length_2: HO
+taxonomy_3_upper_length_3: HOL
+taxonomy_3_upper_length_4: HOLD
+taxonomy_3_upper_length_5: HOLDE
+taxonomy_4: motor
+taxonomy_4_capital: Motor
+taxonomy_4_first_letter: m
+taxonomy_4_first_letter_upper: M
+taxonomy_4_length_1: m
+taxonomy_4_length_2: mo
+taxonomy_4_length_3: mot
+taxonomy_4_length_4: moto
+taxonomy_4_length_5: motor
+taxonomy_4_upper: MOTOR
+taxonomy_4_upper_length_1: M
+taxonomy_4_upper_length_2: MO
+taxonomy_4_upper_length_3: MOT
+taxonomy_4_upper_length_4: MOTO
+taxonomy_4_upper_length_5: MOTOR
+taxonomy_5: gear
+taxonomy_5_capital: Gear
+taxonomy_5_first_letter: g
+taxonomy_5_first_letter_upper: G
+taxonomy_5_length_1: g
+taxonomy_5_length_2: ge
+taxonomy_5_length_3: gea
+taxonomy_5_length_4: gear
+taxonomy_5_length_5: gear
+taxonomy_5_upper: GEAR
+taxonomy_5_upper_length_1: G
+taxonomy_5_upper_length_2: GE
+taxonomy_5_upper_length_3: GEA
+taxonomy_5_upper_length_4: GEAR
+taxonomy_5_upper_length_5: GEAR
+taxonomy_6: n20
+taxonomy_6_capital: N20
+taxonomy_6_first_letter: n
+taxonomy_6_first_letter_upper: N
+taxonomy_6_length_1: n
+taxonomy_6_length_2: n2
+taxonomy_6_length_3: n20
+taxonomy_6_length_4: n20
+taxonomy_6_length_5: n20
+taxonomy_6_upper: N20
+taxonomy_6_upper_length_1: N
+taxonomy_6_upper_length_2: N2
+taxonomy_6_upper_length_3: N20
+taxonomy_6_upper_length_4: N20
+taxonomy_6_upper_length_5: N20
+taxonomy_7: 3_width
+taxonomy_7_capital: 3 Width
+taxonomy_7_first_letter: '3'
+taxonomy_7_first_letter_upper: '3'
+taxonomy_7_length_1: '3'
+taxonomy_7_length_2: '3_'
+taxonomy_7_length_3: 3_w
+taxonomy_7_length_4: 3_wi
+taxonomy_7_length_5: 3_wid
+taxonomy_7_upper: 3_WIDTH
+taxonomy_7_upper_length_1: '3'
+taxonomy_7_upper_length_2: '3_'
+taxonomy_7_upper_length_3: 3_W
+taxonomy_7_upper_length_4: 3_WI
+taxonomy_7_upper_length_5: 3_WID
+taxonomy_8: 3_height
+taxonomy_8_capital: 3 Height
+taxonomy_8_first_letter: '3'
+taxonomy_8_first_letter_upper: '3'
+taxonomy_8_length_1: '3'
+taxonomy_8_length_2: '3_'
+taxonomy_8_length_3: 3_h
+taxonomy_8_length_4: 3_he
+taxonomy_8_length_5: 3_hei
+taxonomy_8_upper: 3_HEIGHT
+taxonomy_8_upper_length_1: '3'
+taxonomy_8_upper_length_2: '3_'
+taxonomy_8_upper_length_3: 3_H
+taxonomy_8_upper_length_4: 3_HE
+taxonomy_8_upper_length_5: 3_HEI
+taxonomy_9: 24d5_depth
+taxonomy_9_capital: 24D5 Depth
+taxonomy_9_first_letter: '2'
+taxonomy_9_first_letter_upper: '2'
+taxonomy_9_length_1: '2'
+taxonomy_9_length_2: '24'
+taxonomy_9_length_3: 24d
+taxonomy_9_length_4: 24d5
+taxonomy_9_length_5: 24d5_
+taxonomy_9_upper: 24D5_DEPTH
+taxonomy_9_upper_length_1: '2'
+taxonomy_9_upper_length_2: '24'
+taxonomy_9_upper_length_3: 24D
+taxonomy_9_upper_length_4: 24D5
+taxonomy_9_upper_length_5: 24D5_
+variant: testing_split_clamp
+width: 3

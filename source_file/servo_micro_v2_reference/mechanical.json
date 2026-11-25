@@ -1,0 +1,310 @@
+{
+  "researched_on": "2026-10-20",
+  "units": "mm",
+  "default_profile": "sg90",
+  "datum": "Z=0 upper servo ear; spindle axis X=Y=0. Each runner nose reaches its case +0.6 mm.",
+  "profiles": {
+    "sg90": {
+      "label": "TowerPro SG90",
+      "body": [
+        23,
+        12.2,
+        23
+      ],
+      "shaft_offset": 5.8,
+      "case_top": 6,
+      "tab_length": 32.3,
+      "tab_thickness": 1.5,
+      "mount_pitch": [
+        27.5,
+        0
+      ],
+      "spline_diameter": 4.8,
+      "spline_teeth": 21,
+      "spline_bottom": 7.5,
+      "spline_top": 10.5,
+      "boss_diameter": 7,
+      "source": "https://towerpro.com.tw/product/sg90-7/",
+      "status": "Current manufacturer plan 23x12.2 and overall 29; legacy drawing 22.2x11.8/31 includes horn. Case/ear datum, pitch, spline and screw are provisional common 9g envelopes.",
+      "runner_face": 6.6,
+      "retention": {
+        "nominal_diameter": 2.0,
+        "clearance_diameter": 2.4,
+        "head_clearance_diameter": 5.4,
+        "head_envelope_diameter": 4.8,
+        "seat_above_spline": 1.55,
+        "length": 5,
+        "thread": "factory supplied; check actual thread",
+        "evidence": "Clearance design envelope only; exact model thread not specified by manufacturer"
+      },
+      "mount_hole_diameter": 2.2,
+      "tab_center_x": -5.7,
+      "mount_positions": [
+        [
+          -19.45,
+          0
+        ],
+        [
+          8.05,
+          0
+        ]
+      ]
+    },
+    "mg90s": {
+      "label": "TowerPro MG90S",
+      "body": [
+        22.8,
+        12.4,
+        28.4
+      ],
+      "shaft_offset": 6.2,
+      "case_top": 7,
+      "tab_length": 32.5,
+      "tab_thickness": 2,
+      "mount_pitch": [
+        27.5,
+        0
+      ],
+      "spline_diameter": 4.8,
+      "spline_teeth": 21,
+      "spline_bottom": 8,
+      "spline_top": 11.5,
+      "boss_diameter": 7.5,
+      "source": "https://towerpro.com.tw/product/mg90s-3/",
+      "status": "Current manufacturer gives 22.8x12.2x28.5 and configure-table width 12.4. Tall conservative case envelope 28.4 intentionally includes ambiguous height convention. Spline, ear datum and screw provisional.",
+      "runner_face": 7.6,
+      "retention": {
+        "nominal_diameter": 2.0,
+        "clearance_diameter": 2.4,
+        "head_clearance_diameter": 5.4,
+        "head_envelope_diameter": 4.8,
+        "seat_above_spline": 1.55,
+        "length": 5,
+        "thread": "factory supplied; check actual thread",
+        "evidence": "Clearance design envelope only; exact model thread not specified by manufacturer"
+      },
+      "mount_hole_diameter": 2.2,
+      "tab_center_x": -5.2,
+      "mount_positions": [
+        [
+          -18.95,
+          0
+        ],
+        [
+          8.55,
+          0
+        ]
+      ]
+    },
+    "fs90": {
+      "label": "FEETECH FS90-C",
+      "body": [
+        23.2,
+        12.5,
+        23
+      ],
+      "shaft_offset": 5.9,
+      "case_top": 4.2,
+      "tab_length": 32.6,
+      "tab_thickness": 2.4,
+      "mount_pitch": [
+        27,
+        0
+      ],
+      "spline_diameter": 4.8,
+      "spline_teeth": 20,
+      "spline_bottom": 4.2,
+      "spline_top": 8.5,
+      "boss_diameter": 6.6,
+      "source": "https://www.pololu.com/file/0J1435/FS90-specs.pdf",
+      "status": "Manufacturer drawing p2: 23.2x12.5, case 23, ear underside 16.4+thickness 2.4, total 27.3, pitch 27, shaft 5.9 from end. Spline start at crown approximate; screw not specified.",
+      "runner_face": 4.8,
+      "retention": {
+        "nominal_diameter": 2.0,
+        "clearance_diameter": 2.4,
+        "head_clearance_diameter": 5.4,
+        "head_envelope_diameter": 4.8,
+        "seat_above_spline": 1.55,
+        "length": 5,
+        "thread": "factory supplied; check actual thread",
+        "evidence": "Clearance design envelope only; exact model thread not specified by manufacturer"
+      },
+      "mount_hole_diameter": 2.2,
+      "tab_center_x": -5.7,
+      "mount_positions": [
+        [
+          -19.2,
+          0
+        ],
+        [
+          7.8,
+          0
+        ]
+      ]
+    },
+    "fs90r": {
+      "label": "FEETECH FS90R",
+      "body": [
+        22.5,
+        12.1,
+        23.4
+      ],
+      "shaft_offset": 6.1,
+      "case_top": 4.4,
+      "tab_length": 32.3,
+      "tab_thickness": 2.3,
+      "mount_pitch": [
+        27.7,
+        0
+      ],
+      "spline_diameter": 4.86,
+      "spline_teeth": 21,
+      "spline_bottom": 8.7,
+      "spline_top": 11.7,
+      "boss_diameter": 7,
+      "source": "https://www.pololu.com/file/0J1867/FS90R.pdf",
+      "status": "Manufacturer drawing p2: case 23.4, ear top 19/underside 16.7, spline shoulder 27.7/top 30.7, pitch 27.7, near mounting hole 8.7 from spindle. Screw not specified.",
+      "runner_face": 5.0,
+      "retention": {
+        "nominal_diameter": 2.0,
+        "clearance_diameter": 2.4,
+        "head_clearance_diameter": 5.4,
+        "head_envelope_diameter": 4.8,
+        "seat_above_spline": 1.55,
+        "length": 5,
+        "thread": "factory supplied; check actual thread",
+        "evidence": "Clearance design envelope only; exact model thread not specified by manufacturer"
+      },
+      "mount_hole_diameter": 2.2,
+      "tab_center_x": -5.15,
+      "mount_positions": [
+        [
+          -19.0,
+          0
+        ],
+        [
+          8.7,
+          0
+        ]
+      ]
+    },
+    "hs55": {
+      "label": "Hitec HS-55",
+      "body": [
+        22.8,
+        11.6,
+        20.8
+      ],
+      "shaft_offset": 6.1,
+      "case_top": 3.1,
+      "tab_length": 32.6,
+      "tab_thickness": 1,
+      "mount_pitch": [
+        28.6,
+        0
+      ],
+      "spline_diameter": 4,
+      "spline_teeth": 15,
+      "spline_bottom": 6.4,
+      "spline_top": 9.1,
+      "boss_diameter": 6,
+      "source": "https://www.hiteccs.com/public/uploads/data_sheet/HCS_HS-55_Specsheetv2.2_1026-1729887855.pdf",
+      "status": "v2.2 drawing: plan 22.8x11.6, case 20.8, ear underside 16.7+1, pitch 28.6 (-19.6,+9.0), spline length 2.7 and 15T/4.0. Axial spline datum inferred.",
+      "runner_face": 3.7,
+      "retention": {
+        "nominal_diameter": 1.7,
+        "clearance_diameter": 2.1,
+        "head_clearance_diameter": 5.4,
+        "head_envelope_diameter": 4.8,
+        "seat_above_spline": 1.55,
+        "length": 4,
+        "thread": "T1.7 self tapping",
+        "evidence": "Hitec OEM T1.7/L4 listing"
+      },
+      "mount_hole_diameter": 2.0,
+      "tab_center_x": -5.3,
+      "mount_positions": [
+        [
+          -19.6,
+          0
+        ],
+        [
+          9.0,
+          0
+        ]
+      ]
+    },
+    "hs65hb": {
+      "label": "Hitec HS-65HB",
+      "body": [
+        23.6,
+        11.6,
+        24
+      ],
+      "shaft_offset": 6.1,
+      "case_top": 7,
+      "tab_length": 32.4,
+      "tab_thickness": 2,
+      "mount_pitch": [
+        27,
+        6
+      ],
+      "spline_diameter": 5,
+      "spline_teeth": 25,
+      "spline_bottom": 8,
+      "spline_top": 11.1,
+      "boss_diameter": 7,
+      "source": "https://www.hiteccs.com/public/uploads/data_sheet/HCS_HS-65HB_Specsheetv2.2_10-1729887930.pdf",
+      "status": "v2.2 confirms M25T/5, spline length 3.1, 27x6 mounting. Legacy tab 32.4/body 24 vs current tab 32.3/height 26 indicate revision/datum differences. Conservative case 24 and top 7; spline start estimated.",
+      "runner_face": 7.6,
+      "retention": {
+        "nominal_diameter": 2.6,
+        "clearance_diameter": 3.0,
+        "head_clearance_diameter": 5.4,
+        "head_envelope_diameter": 4.8,
+        "seat_above_spline": 1.55,
+        "length": 5,
+        "thread": "factory supplied; check actual thread",
+        "evidence": "Clearance design envelope only; exact model thread not specified by manufacturer"
+      },
+      "mount_hole_diameter": 2.0,
+      "tab_center_x": -5.7,
+      "mount_positions": [
+        [
+          -19.2,
+          -3
+        ],
+        [
+          -19.2,
+          3
+        ],
+        [
+          7.8,
+          -3
+        ],
+        [
+          7.8,
+          3
+        ]
+      ]
+    }
+  },
+  "design": {
+    "plate_width": 4,
+    "plate_center_x": -7.5,
+    "case_clearance": 0.6,
+    "bearing_id": 20,
+    "bearing_od": 27,
+    "bearing_width": 4,
+    "bearing_axial_clearance": 0.1,
+    "access_diameter": 5.4,
+    "body_opening": [
+      25.2,
+      13.6
+    ],
+    "body_opening_center": -5.7,
+    "ear_clamps": "Two floating M3 bars below ears; independent of micro ear-hole pattern.",
+    "shell_bottom": -28
+  },
+  "sources": "downloads.json records original URLs, archives, hashes and failed downloads. Estimated fields require sample measurement."
+}

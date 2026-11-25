@@ -1,0 +1,48 @@
+{
+  "id": "oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct",
+  "passed": true,
+  "watertight_print_solids": 2,
+  "print_bounds_mm": [
+    [
+      -37.0,
+      -36.99013364214136,
+      0.0
+    ],
+    [
+      132.0,
+      131.99013364214136,
+      8.0
+    ]
+  ],
+  "checked_grid_holes": 85,
+  "grid_counts": {
+    "holder": {
+      "motor_face:m6": {
+        "included": 16,
+        "excluded": 9
+      },
+      "motor_face:m3": {
+        "included": 48,
+        "excluded": 8
+      }
+    },
+    "output": {
+      "rotating_output:m6": {
+        "included": 9,
+        "excluded": 0
+      },
+      "rotating_output:m3": {
+        "included": 12,
+        "excluded": 4
+      }
+    }
+  },
+  "intersection_volumes_mm3": {
+    "motor": 0.0,
+    "coupler": 0.0
+  },
+  "captured_nuts_checked": 0,
+  "flush_motor_countersinks": 4,
+  "nut_pockets_with_overhang": 4,
+  "physical_fit_tested": false
+}

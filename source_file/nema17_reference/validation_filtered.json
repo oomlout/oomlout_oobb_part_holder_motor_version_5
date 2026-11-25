@@ -1,0 +1,95 @@
+[
+  {
+    "id": "oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810",
+    "passed": true,
+    "watertight_print_solids": 6,
+    "print_bounds_mm": [
+      [
+        -52.0,
+        -51.99013364214136,
+        0.0
+      ],
+      [
+        273.0,
+        239.99013364214136,
+        26.4
+      ]
+    ],
+    "checked_grid_holes": 370,
+    "grid_counts": {
+      "holder": {
+        "motor_face:m6": {
+          "included": 40,
+          "excluded": 9
+        },
+        "motor_face:m3": {
+          "included": 112,
+          "excluded": 8
+        }
+      },
+      "output": {
+        "raised_square_base:m6": {
+          "included": 25,
+          "excluded": 0
+        },
+        "raised_square_base:m3": {
+          "included": 28,
+          "excluded": 28
+        }
+      },
+      "bearing_housing": {
+        "clamshell_lower:m6": {
+          "included": 28,
+          "excluded": 21
+        },
+        "clamshell_lower:m3": {
+          "included": 28,
+          "excluded": 92
+        }
+      },
+      "bearing_cap": {
+        "clamshell_upper:m6": {
+          "included": 28,
+          "excluded": 21
+        },
+        "clamshell_upper:m3": {
+          "included": 28,
+          "excluded": 92
+        }
+      },
+      "coupler_nut_lid": {},
+      "output_lid": {
+        "raised_square_lid:m6": {
+          "included": 25,
+          "excluded": 0
+        },
+        "raised_square_lid:m3": {
+          "included": 28,
+          "excluded": 28
+        }
+      }
+    },
+    "intersection_volumes_mm3": {
+      "motor": 0.0,
+      "coupler": 0.0,
+      "bearing": 0.0,
+      "stack_fasteners": 0.0,
+      "rotor_0": 0.0,
+      "rotor_22.5": 0.0,
+      "rotor_45": 0.0,
+      "rotor_90": 0.0,
+      "output_lid_bottom_access": 0.0,
+      "rotor_fasteners": 0.0,
+      "journal_lift_0": 0.0,
+      "journal_lift_5": 0.0,
+      "journal_lift_14": 0.0,
+      "grub_tool_access_21.5": 0.0,
+      "grub_tool_access_22": 0.0
+    },
+    "captured_nuts_checked": 64,
+    "flush_motor_countersinks": 4,
+    "nut_pockets_with_overhang": 104,
+    "external_output_joining_nuts": 4,
+    "physical_fit_tested": false
+  }
+]

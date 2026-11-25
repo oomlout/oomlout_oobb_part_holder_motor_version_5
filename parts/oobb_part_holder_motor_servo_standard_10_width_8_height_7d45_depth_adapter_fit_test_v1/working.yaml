@@ -1,0 +1,269 @@
+bip_39_2_word_array:
+- balance
+- picture
+bip_39_2_word_no_space: balancepicture
+bip_39_2_word_space: balance picture
+bip_39_2_word_underscore: balance_picture
+bip_39_3_word_array:
+- balance
+- picture
+- climb
+bip_39_3_word_no_space: balancepictureclimb
+bip_39_3_word_space: balance picture climb
+bip_39_3_word_underscore: balance_picture_climb
+bip_39_full_array:
+- balance
+- picture
+- climb
+- zero
+- range
+- palace
+- curve
+- scan
+- alert
+- picnic
+- tilt
+- guess
+bip_39_full_no_space: balancepictureclimbzerorangepalacecurvescanalertpicnictiltguess
+bip_39_full_space: balance picture climb zero range palace curve scan alert picnic
+    tilt guess
+bip_39_full_underscore: balance_picture_climb_zero_range_palace_curve_scan_alert_picnic_tilt_guess
+depth: 7.45
+depth_note: Tallest coupon height; 146 x 103 mm print layout. Socket openings face
+    the bed, matching the production adapter.
+directory: parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+family: fit_test
+filter: holder_motor_gear_tt_v2
+fit_depth_adjustments_mm:
+- -0.6
+- 0
+- 0.6
+fit_diameter_adjustments_mm:
+- -0.6
+- -0.3
+- 0
+- 0.3
+- 0.6
+fit_note: 'Coarse first pass: D=-0.6/-0.3/0/+0.3/+0.6 mm on both taper diameters;
+    Z=-0.6/0/+0.6 mm socket depth with matching head-seat shift. See SERVO_ADAPTER_FIT.md.'
+geometry_note: Fifteen labelled socket-down adapter coupons with native two-layer
+    nut-style roof bridges and factory screw head seats.
+geometry_reference: source_file/servo_v2_reference/mechanical.json
+grid_pitch_mm: 15
+height: 8
+id: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+id_no_class: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+id_no_size: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+id_no_type: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+md5: 11b488ac7fdb1d3e4d96010634878833
+md5_10: 11b488ac7f
+md5_10_upper: 11B488AC7F
+md5_5: 11b48
+md5_5_upper: 11B48
+md5_6: 11b488
+md5_6_alpha: ovbc
+md5_6_alpha_upper: OVBC
+md5_6_upper: 11B488
+motor_style: standard
+motor_type: servo
+name: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth Adapter Fit
+    Test V1
+name_no_class: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth
+    Adapter Fit Test V1
+name_no_size: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth Adapter
+    Fit Test V1
+name_no_type: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth Adapter
+    Fit Test V1
+name_proper: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth Adapter
+    Fit Test V1
+name_space: oobb part holder motor servo standard 10 width 8 height 7d45 depth adapter
+    fit test v1
+name_upper: OOBB PART HOLDER MOTOR SERVO STANDARD 10 WIDTH 8 HEIGHT 7D45 DEPTH ADAPTER
+    FIT TEST V1
+navigation: false
+oobb_details:
+    depth: 7.45
+    fit_depth_adjustments_mm:
+    - -0.6
+    - 0
+    - 0.6
+    fit_diameter_adjustments_mm:
+    - -0.6
+    - -0.3
+    - 0
+    - 0.3
+    - 0.6
+    grid_pitch_mm: 15
+    height: 8
+    motor_style: standard
+    motor_type: servo
+    oobb_name: holder_motor_servo_standard_adapter_fit_test
+    socket_profile: mg996r
+    spacer_thickness_mm: 1
+    variant: adapter_fit_test_v1
+    width: 10
+oobb_name: holder_motor_servo_standard_adapter_fit_test
+oomp_key: oomp_oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+project_name: oomlout_oobb_part_holder_motor_version_5
+socket_profile: mg996r
+spacer_thickness_mm: 1
+taxonomy_1: oobb
+taxonomy_10: adapter_fit_test_v1
+taxonomy_10_capital: Adapter Fit Test V1
+taxonomy_10_first_letter: a
+taxonomy_10_first_letter_upper: A
+taxonomy_10_length_1: a
+taxonomy_10_length_2: ad
+taxonomy_10_length_3: ada
+taxonomy_10_length_4: adap
+taxonomy_10_length_5: adapt
+taxonomy_10_upper: ADAPTER_FIT_TEST_V1
+taxonomy_10_upper_length_1: A
+taxonomy_10_upper_length_2: AD
+taxonomy_10_upper_length_3: ADA
+taxonomy_10_upper_length_4: ADAP
+taxonomy_10_upper_length_5: ADAPT
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: holder
+taxonomy_3_capital: Holder
+taxonomy_3_first_letter: h
+taxonomy_3_first_letter_upper: H
+taxonomy_3_length_1: h
+taxonomy_3_length_2: ho
+taxonomy_3_length_3: hol
+taxonomy_3_length_4: hold
+taxonomy_3_length_5: holde
+taxonomy_3_upper: HOLDER
+taxonomy_3_upper_length_1: H
+taxonomy_3_upper_length_2: HO
+taxonomy_3_upper_length_3: HOL
+taxonomy_3_upper_length_4: HOLD
+taxonomy_3_upper_length_5: HOLDE
+taxonomy_4: motor
+taxonomy_4_capital: Motor
+taxonomy_4_first_letter: m
+taxonomy_4_first_letter_upper: M
+taxonomy_4_length_1: m
+taxonomy_4_length_2: mo
+taxonomy_4_length_3: mot
+taxonomy_4_length_4: moto
+taxonomy_4_length_5: motor
+taxonomy_4_upper: MOTOR
+taxonomy_4_upper_length_1: M
+taxonomy_4_upper_length_2: MO
+taxonomy_4_upper_length_3: MOT
+taxonomy_4_upper_length_4: MOTO
+taxonomy_4_upper_length_5: MOTOR
+taxonomy_5: servo
+taxonomy_5_capital: Servo
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: se
+taxonomy_5_length_3: ser
+taxonomy_5_length_4: serv
+taxonomy_5_length_5: servo
+taxonomy_5_upper: SERVO
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SE
+taxonomy_5_upper_length_3: SER
+taxonomy_5_upper_length_4: SERV
+taxonomy_5_upper_length_5: SERVO
+taxonomy_6: standard
+taxonomy_6_capital: Standard
+taxonomy_6_first_letter: s
+taxonomy_6_first_letter_upper: S
+taxonomy_6_length_1: s
+taxonomy_6_length_2: st
+taxonomy_6_length_3: sta
+taxonomy_6_length_4: stan
+taxonomy_6_length_5: stand
+taxonomy_6_upper: STANDARD
+taxonomy_6_upper_length_1: S
+taxonomy_6_upper_length_2: ST
+taxonomy_6_upper_length_3: STA
+taxonomy_6_upper_length_4: STAN
+taxonomy_6_upper_length_5: STAND
+taxonomy_7: 10_width
+taxonomy_7_capital: 10 Width
+taxonomy_7_first_letter: '1'
+taxonomy_7_first_letter_upper: '1'
+taxonomy_7_length_1: '1'
+taxonomy_7_length_2: '10'
+taxonomy_7_length_3: '10_'
+taxonomy_7_length_4: 10_w
+taxonomy_7_length_5: 10_wi
+taxonomy_7_upper: 10_WIDTH
+taxonomy_7_upper_length_1: '1'
+taxonomy_7_upper_length_2: '10'
+taxonomy_7_upper_length_3: '10_'
+taxonomy_7_upper_length_4: 10_W
+taxonomy_7_upper_length_5: 10_WI
+taxonomy_8: 8_height
+taxonomy_8_capital: 8 Height
+taxonomy_8_first_letter: '8'
+taxonomy_8_first_letter_upper: '8'
+taxonomy_8_length_1: '8'
+taxonomy_8_length_2: '8_'
+taxonomy_8_length_3: 8_h
+taxonomy_8_length_4: 8_he
+taxonomy_8_length_5: 8_hei
+taxonomy_8_upper: 8_HEIGHT
+taxonomy_8_upper_length_1: '8'
+taxonomy_8_upper_length_2: '8_'
+taxonomy_8_upper_length_3: 8_H
+taxonomy_8_upper_length_4: 8_HE
+taxonomy_8_upper_length_5: 8_HEI
+taxonomy_9: 7d45_depth
+taxonomy_9_capital: 7D45 Depth
+taxonomy_9_first_letter: '7'
+taxonomy_9_first_letter_upper: '7'
+taxonomy_9_length_1: '7'
+taxonomy_9_length_2: 7d
+taxonomy_9_length_3: 7d4
+taxonomy_9_length_4: 7d45
+taxonomy_9_length_5: 7d45_
+taxonomy_9_upper: 7D45_DEPTH
+taxonomy_9_upper_length_1: '7'
+taxonomy_9_upper_length_2: 7D
+taxonomy_9_upper_length_3: 7D4
+taxonomy_9_upper_length_4: 7D45
+taxonomy_9_upper_length_5: 7D45_
+variant: adapter_fit_test_v1
+width: 10

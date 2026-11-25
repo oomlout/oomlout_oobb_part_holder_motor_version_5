@@ -1,0 +1,83 @@
+units: mm
+retained_sources:
+  motor.yaml: C:/od/OneDrive/docs/oomp_motor/parts_source/motor_stepper_nema_17/working.yaml
+  coupler.yaml: C:/od/OneDrive/docs/oomp_mechanical_coupler/parts_source/mechanical_coupler_flange_name_5_mm_bore/working.yaml
+coupler_interpretation:
+  flange_outer_diameter_mm: 22
+  hole_distance_mm: 16 mm bolt-circle diameter, not square pitch
+  evidence: working_svg.py _dimension_sheet_flange in source coupler project
+  installed_angle_degrees: 45
+  shaft_interface: 5 mm unthreaded shaft/bore; M3 flange fasteners
+bearings:
+  '6705':
+    id: 25
+    od: 32
+    width: 4
+    inner_shoulder_diameter: 26.8
+    outer_lip_opening_diameter: 30.2
+    source: https://koyo.jtekt.co.jp/en/products/detail/?pno=6705
+    source_abutments: da minimum 26.6; Da maximum 30.4; fillet maximum 0.2
+  '6810':
+    id: 50
+    od: 65
+    width: 7
+    inner_shoulder_diameter: 52.2
+    outer_lip_opening_diameter: 62.8
+    source: https://www.nsk.com/eu-en/engineering/products/bearings/ball-bearings/deep-groove-ball-bearings/single-row-deep-groove-ball-bearings/6810-apn.html
+    source_abutments: da minimum 52 and maximum 52.5; Da maximum 63; fillet maximum 0.3
+design_clearances:
+  bearing_seat_diametral: 0.3
+  bearing_journal_diametral: 0.15
+  bearing_axial_total: 0.2
+  flange_counterbore_diametral: 0.4
+  6810_coupler_nut_disc_interference_diametral: 0.1
+  6810_drive_tube_id_diametral: 0.3
+  6810_drive_tube_holder_radial: 1.5
+  6810_drive_tube_to_bearing_axial: 0.1
+  motor_boss_diametral: 0.4
+  rotating_plate_to_cap_axial:
+    '6810': 14
+    6705_raised_square: 2.0
+  6705_upper_hub_to_shell_radial: 0.6
+clamshell_revision:
+  internal_nut_print_relief: native oobb_nut overhang=True for all NEMA17 nut pockets
+  6810_motor_plate: 3 mm, M3 x 6 countersunk motor screws, 3 mm thread engagement
+  6810_shell_halves: 6 mm each, Z=3..9 and 9..15, directly against motor plate
+  6810_plate_joiners: eight M3 x 10 countersunk from underside, captured nuts Z=6..9
+  6810_shell_joiners: twelve M3 x 10 countersunk from top Z=15, captured nuts Z=6..9
+  6810_perimeter_nuts: all 24 perimeter M6 positions, pockets Z=6.25..11.75
+  6810_spacers: none
+  6810_journal: integrated in output, straight 49.85 mm OD, 22.4 mm long, Z=6.6..29, no bottom lip
+  6810_inner_hub_lifter: removed
+  6810_output_nuts: eight M3 plus eight M6 around the central 3x3, split at Z=33
+  6810_output_plates: 4 mm each, M6 nut skins 1.25 mm each
+  6810_rotor_joiners: four M3 x 15 countersunk on the 16 mm flange PCD, tips Z=22
+  6810_rotor: output base with journal and drive tube, output lid, small coupler nut disc
+  6810_coupler_sleeve: removed
+  6810_coupler_nut_disc: OD 38, thickness 4, bore 9.9, Z=23..27
+  6810_coupler_nuts: four M3 on 16 mm PCD, pockets Z=24..27, trapped by metal flange
+  6810_coupler: flange upwards at Z=27..29, barrel Z=17..27
+  6810_shaft_engagement: 7 mm with 24 mm shaft; assumed grub centre Z=22
+  6810_drive_tube: integral with output, ID 50.15, OD 59.8, length 16.4, Z=12.6..29
+  6810_tube_length_difference: 6 mm shorter than 22.4 mm journal
+  6810_grub_access: matching 6x4 mm windows through both tubes at Z=20..24; upper shell lifts up to 14 mm
+  6810_output_square: 5x5, Z=29..37, nut split Z=33
+  6810_print_solids: six, tallest 26.4 mm; nominal 12 mm ID refers to assembled shell
+  6810_output_lid_joiners: four M3 x 12 countersunk at (+/-22.5,+/-22.5), loose nuts below plate Z=26.6..29, screws Z=25..37
+  6810_output_lid_bottom_clearance: 9 mm diameter channels through outer tube, open from below to plate underside Z=29
+  6810_captive_nut_count: 32 M3 and 32 M6
+  6810_loose_output_lid_nuts: four M3
+  motor_screws_direct_and_6705: native oobb_screw_countersunk, M3 x 10, head mouth Z=6
+  6705_shell_halves: 4.1 mm each, split at Z=22.1
+  circular_output_nuts: four M3 pockets split at Z=28.2
+  square_output_nuts: eight output plus four flange M3 pockets split at Z=31.2
+  compact_stack: 5x3 uses M6 x 30 socket screws from below; upper nuts recessed 5.5 mm
+  sizes: 5x3 and 5x5 for direct and 6705; 7x7 for 6810
+  bearing_holder_reference: C:/gh/oomlout_oobb_part_holder_bearing_version_5/working_scad.py
+limitations:
+  - Motor dimensions describe SOYO SY42STH38-1684A, not every NEMA17 motor.
+  - Motor boss height is the retained 2 mm illustrative estimate.
+  - Coupler dimensions are supplied catalogue data, not a new physical measurement.
+  - Grub screw axial position is unspecified in source; midpoint access must be checked against the physical coupler.
+  - Bearings are nominal annular envelopes; race faces, seals and chamfers are simplified.
+  - Printed fits, material strength, thermal behaviour and load capacity require physical testing.

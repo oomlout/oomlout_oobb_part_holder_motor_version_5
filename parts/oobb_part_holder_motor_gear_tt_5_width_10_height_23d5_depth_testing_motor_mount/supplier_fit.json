@@ -1,0 +1,72 @@
+{
+  "passed": true,
+  "step_sha256": "12e0fa54576085011cc9f5221ad95aca62d565e051d995523d192d0a65797ce3",
+  "source": "https://github.com/adafruit/Adafruit_CAD_Parts/blob/main/3777%20TT%20Motor/3777%20TT%20Motor.step",
+  "three_mm_bore_centres_xy_mm": [
+    [
+      -20.6,
+      -8.8
+    ],
+    [
+      -20.6,
+      8.8
+    ],
+    [
+      14.0,
+      0.0
+    ]
+  ],
+  "overlap_by_supplier_solid_mm3": {
+    "holder": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "saddle": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seat_A": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seat_B": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seat_C": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "physical_fit_tested": false
+}

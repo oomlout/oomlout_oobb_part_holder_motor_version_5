@@ -1,0 +1,171 @@
+schema_version: 1
+units: mm
+family: tt
+reference_model: Adafruit 3777 yellow dual-output TT gearbox
+coordinate_system: 'Right handed; XY is output face; +Z towards shaft. Body centre
+  XY, rear face Z=0, except TT: front gearbox edge X=0 and rear X negative.'
+dimensions:
+  body_width_mm: 62.2
+  body_height_mm: 22.44
+  body_depth_mm: 18.6
+  gearbox_length_mm: 48.2
+  motor_width_mm: 20.39
+  motor_thickness_mm: 22.4
+  shaft_diameter_mm: null
+  shaft_flat_to_back_mm: null
+  shaft_extension_mm: 8.7
+  shaft_rear_extension_mm: 9.3
+  shaft_center_xy_mm:
+  - -14
+  - 0
+  mounting_hole_count: 2
+  mounting_hole_diameter_mm: 3
+  mounting_pitch_x_mm: 0
+  mounting_pitch_y_mm: 17.6
+  mounting_hole_centers_xy_mm:
+  - - -36.75
+    - -8.8
+  - - -36.75
+    - 8.8
+  mounting_through: true
+  mounting_thread: null
+  mounting_hole_depth_mm: 18.6
+  shaft_flat_length_mm: null
+  motor_length_mm: null
+  front_ear_length_mm: null
+  front_ear_width_mm: null
+  front_ear_thickness_mm: null
+dimension_evidence:
+  body_width_mm:
+    status: drawing
+    source: tt
+  body_height_mm:
+    status: drawing
+    source: tt
+  body_depth_mm:
+    status: drawing
+    source: tt
+  gearbox_length_mm:
+    status: drawing
+    source: tt
+  motor_width_mm:
+    status: drawing
+    source: tt
+  motor_thickness_mm:
+    status: drawing
+    source: tt
+  shaft_diameter_mm:
+    status: unknown
+    reason: Related DFRobot TT variant confirms 5.4 mm, but exact Adafruit shaft callout
+      is ambiguous.
+  shaft_flat_to_back_mm:
+    status: unknown
+  shaft_extension_mm:
+    status: drawing
+    source: tt
+  shaft_rear_extension_mm:
+    status: drawing
+    source: tt
+  shaft_center_xy_mm:
+    status: partly_assumed
+    source: tt
+    calculation: X=-14 from front gearbox edge; Y=0 by apparent symmetry (not dimensioned).
+  mounting_hole_count:
+    status: drawing
+    source: tt
+  mounting_hole_diameter_mm:
+    status: drawing
+    source: tt
+  mounting_pitch_x_mm:
+    status: drawing
+    source: tt
+  mounting_pitch_y_mm:
+    status: drawing
+    source: tt
+  mounting_hole_centers_xy_mm:
+    status: derived
+    source: tt
+    calculation: X=-(14+11.25+11.5); Y=+/-17.6/2
+  mounting_through:
+    status: drawing
+    source: tt
+  mounting_thread:
+    status: drawing
+    source: tt
+  mounting_hole_depth_mm:
+    status: drawing
+    source: tt
+  shaft_flat_length_mm:
+    status: unknown
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  motor_length_mm:
+    status: unknown
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  front_ear_length_mm:
+    status: unknown
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  front_ear_width_mm:
+    status: unknown
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  front_ear_thickness_mm:
+    status: unknown
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+model_estimates:
+  shaft_diameter_mm:
+    value: 5.4
+    status: illustrative_estimate
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  shaft_flat_to_back_mm:
+    value: 3.7
+    status: illustrative_estimate
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  shaft_flat_length_mm:
+    value: 8.7
+    status: illustrative_estimate
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  motor_length_mm:
+    value: 24
+    status: illustrative_estimate
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  front_ear_length_mm:
+    value: 4.8
+    status: illustrative_estimate
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  front_ear_width_mm:
+    value: 5
+    status: illustrative_estimate
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+  front_ear_thickness_mm:
+    value: 2.8
+    status: illustrative_estimate
+    reason: Shaft flat width, motor can length, ear outline and flange detail are
+      not dimensioned.
+notes:
+- 'Shaft is illustrative: 5.4 mm major diameter from related DFRobot TT; 3.7 mm flat
+  width is unverified.'
+- Overall length 70 mm includes rear/front details absent from simplified case.
+- Primary mounting pair only; gear-cover screws are not treated as mounting holes.
+sources:
+- id: tt
+  title: Adafruit 3777 dimension drawing
+  url: https://cdn-shop.adafruit.com/product-files/3777/3777_diagram.jpg
+  accessed: '2026-10-07'
+  local_file: source_file/tt_reference/tt.jpg
+- id: tt_shaft
+  title: DFRobot FIT0016 related TT variant, output-axle diameter
+  url: https://www.dfrobot.com/index.php?path=47&product_id=100&route=product%2Fproduct
+  accessed: '2026-10-07'
+  local_file: null
+model_limitations:
+- External reference geometry; wires, internal gears, threads and spline teeth omitted.

@@ -1,0 +1,1714 @@
+{
+  "holder": [
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "output": [
+    {
+      "face": "circular_output_upper",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "circular hub joining screw"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_upper",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_upper",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "circular hub joining screw"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_upper",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    }
+  ],
+  "bearing_housing": [
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "bearing_cap": [
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "hub": [
+    {
+      "face": "circular_output_lower",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "circular hub joining screw"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_lower",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_lower",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "circular hub joining screw"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    },
+    {
+      "face": "circular_output_lower",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "outside circular output"
+      ]
+    }
+  ]
+}

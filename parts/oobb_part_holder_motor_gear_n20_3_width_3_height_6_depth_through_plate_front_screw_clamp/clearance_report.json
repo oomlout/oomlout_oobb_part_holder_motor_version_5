@@ -1,0 +1,180 @@
+{
+  "variant": "through_plate_front_screw_clamp",
+  "print_solids": 2,
+  "max_print_height_mm": 6.0,
+  "grid_holes_checked": 18,
+  "intersections_mm3": {
+    "motor": 0.0,
+    "face_fasteners": 0.0,
+    "clamp_fasteners": 0.0,
+    "all_M3_M6_grid_gauges": 0.0,
+    "driver_access": 0.0
+  },
+  "category": "holders",
+  "outer_row_M3_nut_paths_checked": 2,
+  "bare_face_thickness_mm": 6.0,
+  "motor_face_thread_engagement_mm": 1,
+  "seated_motor_screw_projection_mm": 1.062,
+  "motor_mount_profiles": [
+    {
+      "profile": "motor_sample_precious_metal_9",
+      "end_cap_contact_area_mm2": 45.02
+    },
+    {
+      "profile": "motor_sample_precious_metal_12d5",
+      "end_cap_contact_area_mm2": 45.02
+    },
+    {
+      "profile": "motor_sample_hpcb_9",
+      "end_cap_contact_area_mm2": 45.02
+    },
+    {
+      "profile": "motor_sample_hpcb_12d5",
+      "end_cap_contact_area_mm2": 45.02
+    }
+  ],
+  "trial_pocket_clearances_per_side_mm": [
+    0.15,
+    0.25,
+    0.35
+  ],
+  "rear_piece_print_heights_mm": [
+    6.0,
+    6.0,
+    6.0
+  ],
+  "screw_guided_rear_checks": [
+    {
+      "motor_length_range_mm": [
+        20,
+        25
+      ],
+      "motor_length_mm": 20,
+      "front_screw_length_mm": 35,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 7.2,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        20,
+        25
+      ],
+      "motor_length_mm": 22.5,
+      "front_screw_length_mm": 35,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 4.7,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        20,
+        25
+      ],
+      "motor_length_mm": 25,
+      "front_screw_length_mm": 35,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 2.2,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        25,
+        30
+      ],
+      "motor_length_mm": 25,
+      "front_screw_length_mm": 40,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 7.2,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        25,
+        30
+      ],
+      "motor_length_mm": 25.6,
+      "front_screw_length_mm": 40,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 6.6,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        25,
+        30
+      ],
+      "motor_length_mm": 27.5,
+      "front_screw_length_mm": 40,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 4.7,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        25,
+        30
+      ],
+      "motor_length_mm": 29.1,
+      "front_screw_length_mm": 40,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 3.1,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        25,
+        30
+      ],
+      "motor_length_mm": 30,
+      "front_screw_length_mm": 40,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 2.2,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        30,
+        35
+      ],
+      "motor_length_mm": 30,
+      "front_screw_length_mm": 45,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 7.2,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        30,
+        35
+      ],
+      "motor_length_mm": 32.5,
+      "front_screw_length_mm": 45,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 4.7,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    },
+    {
+      "motor_length_range_mm": [
+        30,
+        35
+      ],
+      "motor_length_mm": 35,
+      "front_screw_length_mm": 45,
+      "nut_thread_engagement_mm": 2.4,
+      "screw_tip_projection_past_rear_mm": 2.2,
+      "top_loading_nut_paths_checked": 2,
+      "intersection_mm3": 2.726549929300652e-15
+    }
+  ]
+}

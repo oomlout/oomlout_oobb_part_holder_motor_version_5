@@ -1,0 +1,292 @@
+research_date: '2026-11-04'
+units: mm
+status: implemented_parametric_geometry_physical_fit_untested
+scope: N20-size micro metal gearmotors; dimensions below describe the named Pololu
+  profiles, not every N20 supplier.
+sources:
+  motor:
+    url: https://www.pololu.com/file/0J1487/pololu-micro-metal-gearmotors-rev-6-2.pdf
+    retained_file: pololu-micro-metal-gearmotors-rev-6-2.pdf
+    relevant_pdf_pages_one_based:
+    - 7
+    - 8
+    drawing_date: '2024-04-02'
+    datasheet_revision: February 2026 Rev 6.2
+  family:
+    url: https://www.pololu.com/category/60/micro-metal-gearmotors
+  metal_hub:
+    url: https://www.pololu.com/product/1996
+    drawing_url: https://www.pololu.com/file/0J661/1996-3mm-m3-hub-dimensions.pdf
+    retained_file: pololu-1996-3mm-m3-hub-dimensions.pdf
+  bearing:
+    url: https://www.jtekt.co.jp/products/bearing/en/p/detail/?pno=6704
+  motor_face_screw_intrusion:
+    url: https://www.electrokit.com/upload/product/41017/41017842/pololu-micro-metal-gearmotors-rev-4-2-3.pdf
+    authorship: Pololu Rev 4.2 datasheet, retained by distributor
+    maximum_mm: 1.3
+  M1_6_head:
+    url: https://www.ettinger.de/en/product-datasheet/d38aa1001cc64e52632fd7c2c5e78a17/create
+    standard: ISO 7046
+    nominal_head_diameter_mm: 3
+    head_height_mm: 0.96
+motor_nominal:
+  gearbox_cross_section:
+  - 12
+  - 10
+  gearbox_length_standard: 9
+  gearbox_length_1000_to_1: 12.5
+  shaft_axis_offset_from_gearbox_face_center:
+  - 0
+  - 0
+  front_mounting_threads: M1.6
+  front_mounting_hole_centers_relative_to_shaft:
+  - - -4.5
+    - 0
+  - - 4.5
+    - 0
+  front_mounting_screw_engagement: Must verify permitted intrusion with the chosen
+    supplier; do not infer a screw length from the plate thickness alone.
+  shaft:
+    diameter: 3
+    flat_to_opposite_round_surface: 2.5
+    inferred_flat_depth: 0.5
+    inferred_flat_plane_distance_from_axis: 1
+    projection_from_gearbox_front_face: 10
+    nominal_usable_D_length_rounded: 9
+    front_boss_diameter: 4
+    front_boss_projection: 0.7
+    note: D section is a circle cut by one plane, not a double-flat shaft. Leave axial
+      running clearance at the boss.
+profiles:
+  pololu_precious_metal_no_encoder:
+    body_overall_length_max_standard: 25.6
+    body_overall_length_max_1000_to_1: 29.1
+    terminal_pitch: 6.9
+    terminal_width: 1.5
+    optional_rear_shaft_diameter: 1
+    optional_rear_shaft_extension: 5
+  pololu_HPCB_no_encoder:
+    body_overall_length_max_standard: 25.6
+    body_overall_length_max_1000_to_1: 29.1
+    terminal_pitch: 6.2
+    terminal_width: 2
+    optional_rear_shaft_diameter: 1
+    optional_rear_shaft_extension: 5
+  encoder:
+    status: Separate profile required; do not use the no-encoder rear envelope.
+metal_hub_pololu_1996:
+  bore: 3
+  outer_diameter: 17.5
+  axial_thickness: 5
+  shaft_retention: One radial M3 grub screw; aim at D flat.
+  attachment_threads: Four M3
+  attachment_circle_diameter: 12.7
+  attachment_hole_radius: 6.35
+  note: This is not a 15 mm OOBB bolt pattern. Use an adapter and reserve grub-screw
+    tool access.
+bearing_6704_JTEKT:
+  bore: 20
+  outer_diameter: 27
+  width: 4
+  shaft_shoulder_minimum_diameter: 21.6
+  housing_shoulder_maximum_opening_diameter: 25.4
+  max_shoulder_fillet: 0.2
+proposal:
+  dimensions_are: Initial design targets, not measured finished CAD.
+  preferred_start: through_plate with removable rear keeper, interchangeable printed
+    split-clamp and Pololu 1996 outputs
+  oobb:
+    main_grid_pitch: 15
+    intermediate_grid_pitch: 7.5
+    main_hardware: M6
+    intermediate_hardware: M3
+    footprint_rule: width_or_height_grid_count * 15 - 1
+    axis: Locate output shaft on a main grid intersection; motor profile may separately
+      define offsets.
+    hole_exclusions: Audit conflicts against pockets, bearing seats, nut pockets,
+      joiners and rotating sweep.
+  holders:
+    cradle:
+      proposed_grid:
+      - 4
+      - 3
+      proposed_footprint:
+      - 59
+      - 44
+      axis: Parallel to mounting plate, target height 15 above its underside.
+      retention: Form-locating cradle with removable M3 screw-down saddle and axial
+        stops.
+      benefits: Easy access, simple printing, suitable for wheel and side-drive layouts.
+      details: Protect exposed gear train; apply saddle force to supported motor-can
+        surfaces, not gears or terminals.
+    through_plate:
+      proposed_grid:
+      - 3
+      - 3
+      proposed_footprint:
+      - 44
+      - 44
+      axis: Normal to plate, on central grid position.
+      retention: Profiled gearbox pocket, front axial shoulder and removable rear
+        keeper; optional M1.6 face fixing for verified motors.
+      benefits: Compact default; rear wiring accessible; most consistent with the
+        existing motor holder family.
+    bearing_cassette:
+      proposed_grid:
+      - 3
+      - 3
+      proposed_footprint:
+      - 44
+      - 44
+      axis: Normal to plate, same reference as through_plate.
+      bearing: '6704'
+      retention: Split stationary outer-race housing and separately retained rotating
+        journal/output.
+      benefits: Reuses existing 6704 approach; supports output loads through holder
+        rather than relying only on gearbox bearings.
+      details: Do not axially preload motor shaft. Align journal to motor; check turning
+        friction and loaded deflection. Raise square outputs above stationary fasteners
+        and check their complete rotational sweep. Long cantilevers may need spaced
+        bearings.
+  shaft_grips:
+    printed_split_clamp:
+      recommendation: First printable option
+      interface: Replaceable single-D insert with a radial slit and tangential M3
+        pinch screw into captured metal nut.
+      axial_engagement_target:
+      - 6
+      - 8
+      note: Target engagement depends on the complete stack; coupon fit, plastic creep
+        and torque capacity require physical tests.
+    printed_D_with_grub_screw:
+      interface: D socket with radial M3 screw through a captive nut, bearing on the
+        shaft flat.
+      note: Simple, adjustable retention; local plastic around nut must resist load
+        and creep.
+    metal_hub:
+      recommendation: Preferred bought-in shaft grip
+      component: Pololu 1996, 3 mm bore, M3 grub and attachment screws
+      interface: Four adapter holes on 12.7 mm PCD connect to an OOBB output with
+        retained accessible grid positions.
+      note: Reserve a hex-key window and keep mounting screw tips out of the shaft
+        bore.
+    tapered_collet:
+      interface: Slotted replaceable D insert pulled into a tapered sleeve by a retaining
+        cap.
+      note: Worth exploring after split clamp; short shaft and collet/cap stack make
+        this less attractive as a first print.
+    plain_press_fit:
+      interface: Calibrated D socket without fastener
+      note: Lightweight prototype option; repeated removal and axial retention are
+        weaker than a clamped design.
+  fit_coupon_targets_not_supplier_tolerances:
+    motor_pocket_clearance_per_side:
+    - 0.15
+    - 0.25
+    - 0.35
+    D_socket_outward_profile_offset:
+    - 0
+    - 0.05
+    - 0.1
+    - 0.15
+    note: Offset both the curved perimeter and single flat consistently; do not confuse
+      radial offset with diameter adjustment.
+workflow:
+  sequence:
+  - working_oomp_populate.py
+  - parts_source/<part_id>/working.yaml
+  - working_oomp.py
+  - parts/<part_id>/working.yaml
+  - working_scad.py
+  catalogue: Explicit N20 options and editable parameters in working_oomp_populate.get_options
+    and apply_taxonomy.
+  drawing: Local get_holder_motor_gear_n20_* routines in working_scad.py, using native
+    OOBB plates, holes, screws, nuts and overhang relief.
+  taxonomy: oobb / part / holder / motor / gear / n20 / <width>_width / <height>_height
+    / <depth>_depth / optional bearing / variant
+  outputs: Print layout, separate pieces, assembly and exploded views; hardware reference
+    envelopes excluded from printable geometry.
+  current_status: Three holder-only catalogue entries, five standalone shaft experiments
+    and one nine-coupon entry. User-facing files separated into holders and testing.
+implementation:
+  drawings: n20_holders.py via working_scad.py dispatch; shaft experiments retained
+    separately
+  rebuild: python action_make_n20.py
+  validation: python validate_n20.py
+  inspection: outputs/n20/holders/index.html
+  file_manifest: outputs/n20/manifest.json
+  geometric_test_report: outputs/n20/validation.json
+  cradle_axis_height_mm: 30
+  bearing_bottom_above_gearbox_face_mm: 10
+  source_boundary: 'Holder values: n20_holders.parameters(), passed through working_oomp_populate.py
+    into oobb_details. Historical shaft experiments use n20.defaults(); they are separate
+    testing artifacts.'
+  testing: outputs/n20/testing/index.html
+  motor_length_range_mm:
+  - 20
+  - 35
+  motor_face_screws: Two M1.6 x 4 countersunk at 9 mm pitch; 3 mm face thickness and
+    approximately 1.06 mm seated engagement
+  rear_clamp: Flat 6 mm rear, 31 x 12 mm standard or 41 x 12 mm bearing. Located by
+    front countersunk M3 screws on compact off-grid axes. Native OOBB hex pockets
+    open on the rear face, printed upwards for drop-in nuts; no side slots. Pocket
+    floor 2.8 mm thick.
+  face_grid: All full/half-grid candidate bores audited by actual radius and 0.7 mm
+    minimum web; rear-open M3 pockets at X +/-7.5, Y 15, other grid bores plain
+  bearing_attachment: Four M3 x 25 countersunk screws and four separate captured-nut
+    blocks; 5x3 holder and bearing plates
+  shaft_outputs: Retained under testing; not part of the holder-only print layouts
+    or declared compatible with the new face thickness.
+  testing_reference:
+    output_plate: 3x3 OOBB, 44x44 mm, 8 mm thick
+    output_plate_bottom_above_gearbox_face_mm: 18
+  face_plate_grids:
+    cradle_and_through_plate:
+      grid:
+      - 3
+      - 3
+      candidate_sites: 25
+      retained_holes: 18
+    bearing_cassette:
+      grid:
+      - 5
+      - 3
+      candidate_sites: 45
+      retained_holes: 38
+    cradle_foot:
+      grid:
+      - 4
+      - 3
+      retained_holes: 35
+  rear_piece_ranges:
+  - motor_body_mm:
+    - 20
+    - 25
+    file: rear_20_25.stl
+    front_screw: M3 x 35 countersunk
+    print_height_mm: 6
+  - motor_body_mm:
+    - 25
+    - 30
+    file: rear_25_30.stl
+    front_screw: M3 x 40 countersunk
+    print_height_mm: 6
+  - motor_body_mm:
+    - 30
+    - 35
+    file: rear_30_35.stl
+    front_screw: M3 x 45 countersunk
+    print_height_mm: 6
+  default_rear: 25-30 mm labelled rear with M3 x 35 for the 25.6 mm reference motor;
+    screw tips project 1.6 mm beyond rear.
+  rear_piece_combined_print: rear_pieces.stl in every holder folder
+  bearing_clamp_access: Tension axes +/-16 mm and through-holes in the bearing retainers,
+    clear of the installed 6704 bearing.
+  rear_piece_geometry: Identical slim geometry except labels. Range-wide screw lengths
+    cover the upper body length and can project 2.2-7.2 mm beyond the rear; select shorter
+    screws for measured motors with full nut engagement.
+  rear_nut_loading: Print nut-side up. Drop each M3 nut vertically into a native oobb_nut
+    pocket; no lateral insertion.
+  clamp_screw_pitch_mm:
+    standard: 21.5
+    bearing_cassette: 32

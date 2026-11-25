@@ -1,0 +1,8 @@
+cadquery_ocp_proxy-8.0.1.1.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+cadquery_ocp_proxy-8.0.1.1.0.dist-info/METADATA,sha256=KoQgJGF2bKC4F8Q5XxqqSKu7DbhWdN0WVOOdshlQlFI,4658
+cadquery_ocp_proxy-8.0.1.1.0.dist-info/RECORD,,
+cadquery_ocp_proxy-8.0.1.1.0.dist-info/WHEEL,sha256=rp-k_VZaX8oABFEtLwG_Df95p8LSKt9-uPyQ4jKH0P4,81
+cadquery_ocp_proxy/__init__.py,sha256=3BcBBr32Vnwe01XFVsI2JwceiDdNGDVu30zKWTNco_E,179
+cadquery_ocp_proxy/__pycache__/__init__.cpython-312.pyc,,
+cadquery_ocp_proxy/__pycache__/_version.cpython-312.pyc,,
+cadquery_ocp_proxy/_version.py,sha256=I_O-YHaaeegANgZE2tiWPgbYltXFqJtR5uufpnCyO9s,73

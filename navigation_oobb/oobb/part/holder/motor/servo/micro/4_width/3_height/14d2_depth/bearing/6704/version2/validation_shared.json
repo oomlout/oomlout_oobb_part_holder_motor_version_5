@@ -1,0 +1,228 @@
+{
+  "passed": true,
+  "checks": 48,
+  "results": [
+    {
+      "test": "standard_horn_fit_test_closed_solids",
+      "passed": true
+    },
+    {
+      "test": "standard_horn_fit_test_on_bed",
+      "passed": true
+    },
+    {
+      "test": "standard_bearing_fit_test_closed_solids",
+      "passed": true
+    },
+    {
+      "test": "standard_bearing_fit_test_on_bed",
+      "passed": true
+    },
+    {
+      "test": "standard_retention_bore_test_closed_solids",
+      "passed": true
+    },
+    {
+      "test": "standard_retention_bore_test_on_bed",
+      "passed": true
+    },
+    {
+      "test": "standard_mg996r_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "standard_mg996r_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "standard_hs311_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "standard_hs311_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "standard_fs5106r_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "standard_fs5106r_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "standard_s3004_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "standard_s3004_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_horn_fit_test_closed_solids",
+      "passed": true
+    },
+    {
+      "test": "micro_horn_fit_test_on_bed",
+      "passed": true
+    },
+    {
+      "test": "micro_bearing_fit_test_closed_solids",
+      "passed": true
+    },
+    {
+      "test": "micro_bearing_fit_test_on_bed",
+      "passed": true
+    },
+    {
+      "test": "micro_retention_bore_test_closed_solids",
+      "passed": true
+    },
+    {
+      "test": "micro_retention_bore_test_on_bed",
+      "passed": true
+    },
+    {
+      "test": "micro_sg90_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_sg90_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_mg90s_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_mg90s_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_fs90_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_fs90_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_fs90r_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_fs90r_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_hs55_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_hs55_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_hs65hb_four_output_shanks",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_hs65hb_four_output_nuts",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_clamp_nuts_fit",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_clamp_nuts_insert_from_bottom",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_clamp_nuts_fit_with_0d6mm_bridge_loss",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_clamp_nuts_cannot_spin_positive_control",
+      "passed": true,
+      "volume_mm3": 3.134285890416424
+    },
+    {
+      "test": "micro_clamp_nuts_vs_sg90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_clamp_nuts_vs_mg90s",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_clamp_nuts_vs_fs90",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_clamp_nuts_vs_fs90r",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_clamp_nuts_vs_hs55",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "micro_clamp_nuts_vs_hs65hb",
+      "passed": true,
+      "volume_mm3": 0
+    },
+    {
+      "test": "mount_pattern_gauge_sg90",
+      "passed": true
+    },
+    {
+      "test": "mount_pattern_gauge_mg90s",
+      "passed": true
+    },
+    {
+      "test": "mount_pattern_gauge_fs90",
+      "passed": true
+    },
+    {
+      "test": "mount_pattern_gauge_fs90r",
+      "passed": true
+    },
+    {
+      "test": "mount_pattern_gauge_hs55",
+      "passed": true
+    },
+    {
+      "test": "mount_pattern_gauge_hs65hb",
+      "passed": true
+    }
+  ]
+}

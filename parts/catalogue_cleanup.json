@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "active_catalogue_entries": 23,
+  "mount_variants": 12,
+  "testing_entries": 11,
+  "parts_source_folders": 23,
+  "parts_folders": 23,
+  "archived_source_folders": 15,
+  "archived_parts_folders": 16,
+  "retired_catalogue_definitions": 10,
+  "unchanged_active_meshes": 564,
+  "archive": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\working-backups\\catalogue-cleanup\\20261104T135909647871Z",
+  "source_and_generated_metadata_match": true,
+  "drawing_dispatch_matches_catalogue": true,
+  "current_print_previews_present": true,
+  "last_removal": {
+    "mount": "N20 cradle",
+    "archive": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\working-backups\\catalogue-cleanup\\remove-n20-cradle-20261104T140307683953Z"
+  }
+}

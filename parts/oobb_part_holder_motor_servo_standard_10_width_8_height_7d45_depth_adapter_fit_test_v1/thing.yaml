@@ -1,0 +1,4854 @@
+bip_39_2_word_array:
+- balance
+- picture
+bip_39_2_word_no_space: balancepicture
+bip_39_2_word_space: balance picture
+bip_39_2_word_underscore: balance_picture
+bip_39_3_word_array:
+- balance
+- picture
+- climb
+bip_39_3_word_no_space: balancepictureclimb
+bip_39_3_word_space: balance picture climb
+bip_39_3_word_underscore: balance_picture_climb
+bip_39_full_array:
+- balance
+- picture
+- climb
+- zero
+- range
+- palace
+- curve
+- scan
+- alert
+- picnic
+- tilt
+- guess
+bip_39_full_no_space: balancepictureclimbzerorangepalacecurvescanalertpicnictiltguess
+bip_39_full_space: balance picture climb zero range palace curve scan alert picnic
+  tilt guess
+bip_39_full_underscore: balance_picture_climb_zero_range_palace_curve_scan_alert_picnic_tilt_guess
+depth: 7.45
+depth_note: Tallest coupon height; 146 x 103 mm print layout. Socket openings face
+  the bed, matching the production adapter.
+directory: parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+family: fit_test
+filter: holder_motor_servo_standard_v2
+fit_depth_adjustments_mm:
+- -0.6
+- 0
+- 0.6
+fit_diameter_adjustments_mm:
+- -0.6
+- -0.3
+- 0
+- 0.3
+- 0.6
+fit_note: 'Coarse first pass: D=-0.6/-0.3/0/+0.3/+0.6 mm on both taper diameters;
+  Z=-0.6/0/+0.6 mm socket depth with matching head-seat shift. See SERVO_ADAPTER_FIT.md.'
+geometry_note: Fifteen labelled socket-down adapter coupons with native two-layer
+  nut-style roof bridges and factory screw head seats.
+geometry_reference: source_file/servo_v2_reference/mechanical.json
+grid_pitch_mm: 15
+height: 8
+id: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+id_no_class: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+id_no_size: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+id_no_type: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+id_oobb: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+kwargs:
+  depth: 7.45
+  filter: adapter_fit_test
+  fit_depth_adjustments_mm:
+  - -0.6
+  - 0
+  - 0.6
+  fit_diameter_adjustments_mm:
+  - -0.6
+  - -0.3
+  - 0
+  - 0.3
+  - 0.6
+  grid_pitch_mm: 15
+  height: 8
+  modes:
+  - 3dpr
+  motor_style: standard
+  motor_type: servo
+  navigation: false
+  oobb_name: holder_motor_servo_standard_adapter_fit_test
+  oomp_description_extra: 7.45_depth
+  oomp_description_main: holder_motor_servo_standard_adapter_fit_test_10_width_8_height
+  oomp_mode: project
+  oomp_run: false
+  overwrite: true
+  socket_profile: mg996r
+  spacer_thickness_mm: 1
+  type: oomlout_oobb_part_holder_motor_version_5_holder_motor_servo_standard_adapter_fit_test
+  variant: adapter_fit_test_v1
+  width: 10
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+md5: 11b488ac7fdb1d3e4d96010634878833
+md5_10: 11b488ac7f
+md5_10_upper: 11B488AC7F
+md5_5: 11b48
+md5_5_upper: 11B48
+md5_6: 11b488
+md5_6_alpha: ovbc
+md5_6_alpha_upper: OVBC
+md5_6_upper: 11B488
+motor_style: standard
+motor_type: servo
+name: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth Adapter Fit
+  Test V1
+name_no_class: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth
+  Adapter Fit Test V1
+name_no_size: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth Adapter
+  Fit Test V1
+name_no_type: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth Adapter
+  Fit Test V1
+name_proper: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth Adapter
+  Fit Test V1
+name_space: oobb part holder motor servo standard 10 width 8 height 7d45 depth adapter
+  fit test v1
+name_upper: OOBB PART HOLDER MOTOR SERVO STANDARD 10 WIDTH 8 HEIGHT 7D45 DEPTH ADAPTER
+  FIT TEST V1
+navigation: false
+oobb_details:
+  depth: 7.45
+  fit_depth_adjustments_mm:
+  - -0.6
+  - 0
+  - 0.6
+  fit_diameter_adjustments_mm:
+  - -0.6
+  - -0.3
+  - 0
+  - 0.3
+  - 0.6
+  grid_pitch_mm: 15
+  height: 8
+  motor_style: standard
+  motor_type: servo
+  oobb_name: holder_motor_servo_standard_adapter_fit_test
+  socket_profile: mg996r
+  spacer_thickness_mm: 1
+  variant: adapter_fit_test_v1
+  width: 10
+oobb_name: holder_motor_servo_standard_adapter_fit_test
+oomp_key: oomp_oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+project_name: C:\gh\oomlout_oobb_part_holder_motor_version_5
+socket_profile: mg996r
+spacer_thickness_mm: 1
+taxonomy_1: oobb
+taxonomy_10: adapter_fit_test_v1
+taxonomy_10_capital: Adapter Fit Test V1
+taxonomy_10_first_letter: a
+taxonomy_10_first_letter_upper: A
+taxonomy_10_length_1: a
+taxonomy_10_length_2: ad
+taxonomy_10_length_3: ada
+taxonomy_10_length_4: adap
+taxonomy_10_length_5: adapt
+taxonomy_10_upper: ADAPTER_FIT_TEST_V1
+taxonomy_10_upper_length_1: A
+taxonomy_10_upper_length_2: AD
+taxonomy_10_upper_length_3: ADA
+taxonomy_10_upper_length_4: ADAP
+taxonomy_10_upper_length_5: ADAPT
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: holder
+taxonomy_3_capital: Holder
+taxonomy_3_first_letter: h
+taxonomy_3_first_letter_upper: H
+taxonomy_3_length_1: h
+taxonomy_3_length_2: ho
+taxonomy_3_length_3: hol
+taxonomy_3_length_4: hold
+taxonomy_3_length_5: holde
+taxonomy_3_upper: HOLDER
+taxonomy_3_upper_length_1: H
+taxonomy_3_upper_length_2: HO
+taxonomy_3_upper_length_3: HOL
+taxonomy_3_upper_length_4: HOLD
+taxonomy_3_upper_length_5: HOLDE
+taxonomy_4: motor
+taxonomy_4_capital: Motor
+taxonomy_4_first_letter: m
+taxonomy_4_first_letter_upper: M
+taxonomy_4_length_1: m
+taxonomy_4_length_2: mo
+taxonomy_4_length_3: mot
+taxonomy_4_length_4: moto
+taxonomy_4_length_5: motor
+taxonomy_4_upper: MOTOR
+taxonomy_4_upper_length_1: M
+taxonomy_4_upper_length_2: MO
+taxonomy_4_upper_length_3: MOT
+taxonomy_4_upper_length_4: MOTO
+taxonomy_4_upper_length_5: MOTOR
+taxonomy_5: servo
+taxonomy_5_capital: Servo
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: se
+taxonomy_5_length_3: ser
+taxonomy_5_length_4: serv
+taxonomy_5_length_5: servo
+taxonomy_5_upper: SERVO
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SE
+taxonomy_5_upper_length_3: SER
+taxonomy_5_upper_length_4: SERV
+taxonomy_5_upper_length_5: SERVO
+taxonomy_6: standard
+taxonomy_6_capital: Standard
+taxonomy_6_first_letter: s
+taxonomy_6_first_letter_upper: S
+taxonomy_6_length_1: s
+taxonomy_6_length_2: st
+taxonomy_6_length_3: sta
+taxonomy_6_length_4: stan
+taxonomy_6_length_5: stand
+taxonomy_6_upper: STANDARD
+taxonomy_6_upper_length_1: S
+taxonomy_6_upper_length_2: ST
+taxonomy_6_upper_length_3: STA
+taxonomy_6_upper_length_4: STAN
+taxonomy_6_upper_length_5: STAND
+taxonomy_7: 10_width
+taxonomy_7_capital: 10 Width
+taxonomy_7_first_letter: '1'
+taxonomy_7_first_letter_upper: '1'
+taxonomy_7_length_1: '1'
+taxonomy_7_length_2: '10'
+taxonomy_7_length_3: '10_'
+taxonomy_7_length_4: 10_w
+taxonomy_7_length_5: 10_wi
+taxonomy_7_upper: 10_WIDTH
+taxonomy_7_upper_length_1: '1'
+taxonomy_7_upper_length_2: '10'
+taxonomy_7_upper_length_3: '10_'
+taxonomy_7_upper_length_4: 10_W
+taxonomy_7_upper_length_5: 10_WI
+taxonomy_8: 8_height
+taxonomy_8_capital: 8 Height
+taxonomy_8_first_letter: '8'
+taxonomy_8_first_letter_upper: '8'
+taxonomy_8_length_1: '8'
+taxonomy_8_length_2: '8_'
+taxonomy_8_length_3: 8_h
+taxonomy_8_length_4: 8_he
+taxonomy_8_length_5: 8_hei
+taxonomy_8_upper: 8_HEIGHT
+taxonomy_8_upper_length_1: '8'
+taxonomy_8_upper_length_2: '8_'
+taxonomy_8_upper_length_3: 8_H
+taxonomy_8_upper_length_4: 8_HE
+taxonomy_8_upper_length_5: 8_HEI
+taxonomy_9: 7d45_depth
+taxonomy_9_capital: 7D45 Depth
+taxonomy_9_first_letter: '7'
+taxonomy_9_first_letter_upper: '7'
+taxonomy_9_length_1: '7'
+taxonomy_9_length_2: 7d
+taxonomy_9_length_3: 7d4
+taxonomy_9_length_4: 7d45
+taxonomy_9_length_5: 7d45_
+taxonomy_9_upper: 7D45_DEPTH
+taxonomy_9_upper_length_1: '7'
+taxonomy_9_upper_length_2: 7D
+taxonomy_9_upper_length_3: 7D4
+taxonomy_9_upper_length_4: 7D45
+taxonomy_9_upper_length_5: 7D45_
+thing:
+  bip_39_2_word_array:
+  - balance
+  - picture
+  bip_39_2_word_no_space: balancepicture
+  bip_39_2_word_space: balance picture
+  bip_39_2_word_underscore: balance_picture
+  bip_39_3_word_array:
+  - balance
+  - picture
+  - climb
+  bip_39_3_word_no_space: balancepictureclimb
+  bip_39_3_word_space: balance picture climb
+  bip_39_3_word_underscore: balance_picture_climb
+  bip_39_full_array:
+  - balance
+  - picture
+  - climb
+  - zero
+  - range
+  - palace
+  - curve
+  - scan
+  - alert
+  - picnic
+  - tilt
+  - guess
+  bip_39_full_no_space: balancepictureclimbzerorangepalacecurvescanalertpicnictiltguess
+  bip_39_full_space: balance picture climb zero range palace curve scan alert picnic
+    tilt guess
+  bip_39_full_underscore: balance_picture_climb_zero_range_palace_curve_scan_alert_picnic_tilt_guess
+  classification: oobb
+  color: ''
+  components:
+  - objects:
+    - - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: laser
+        pos: &id001
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 3dpr
+        pos: *id001
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 'true'
+        pos: *id001
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: laser
+        pos: &id002
+        - 0
+        - 0
+        - 0.0
+        r1: 2.7
+        r2: 2.56
+        radius_1: 2.7
+        radius_2: 2.56
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 3dpr
+        pos: *id002
+        r1: 2.7
+        r2: 2.56
+        radius_1: 2.7
+        radius_2: 2.56
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 'true'
+        pos: *id002
+        r1: 2.7
+        r2: 2.56
+        radius_1: 2.7
+        radius_2: 2.56
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id003
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id003
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id003
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 3.5500000000000003
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 3.85
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D-0.6 Z-0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id046
+    - 0
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: laser
+        pos: &id004
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 3dpr
+        pos: *id004
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 'true'
+        pos: *id004
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: laser
+        pos: &id005
+        - 0
+        - 0
+        - 0.0
+        r1: 2.85
+        r2: 2.71
+        radius_1: 2.85
+        radius_2: 2.71
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 3dpr
+        pos: *id005
+        r1: 2.85
+        r2: 2.71
+        radius_1: 2.85
+        radius_2: 2.71
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 'true'
+        pos: *id005
+        r1: 2.85
+        r2: 2.71
+        radius_1: 2.85
+        radius_2: 2.71
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id006
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id006
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id006
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 3.5500000000000003
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 3.85
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D-0.3 Z-0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id047
+    - 30
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: laser
+        pos: &id007
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 3dpr
+        pos: *id007
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 'true'
+        pos: *id007
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: laser
+        pos: &id008
+        - 0
+        - 0
+        - 0.0
+        r1: 3.0
+        r2: 2.86
+        radius_1: 3.0
+        radius_2: 2.86
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 3dpr
+        pos: *id008
+        r1: 3.0
+        r2: 2.86
+        radius_1: 3.0
+        radius_2: 2.86
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 'true'
+        pos: *id008
+        r1: 3.0
+        r2: 2.86
+        radius_1: 3.0
+        radius_2: 2.86
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id009
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 3.5500000000000003
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 3.85
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D+0.0 Z-0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id048
+    - 60
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: laser
+        pos: &id010
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 3dpr
+        pos: *id010
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 'true'
+        pos: *id010
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: laser
+        pos: &id011
+        - 0
+        - 0
+        - 0.0
+        r1: 3.15
+        r2: 3.01
+        radius_1: 3.15
+        radius_2: 3.01
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 3dpr
+        pos: *id011
+        r1: 3.15
+        r2: 3.01
+        radius_1: 3.15
+        radius_2: 3.01
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 'true'
+        pos: *id011
+        r1: 3.15
+        r2: 3.01
+        radius_1: 3.15
+        radius_2: 3.01
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id012
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id012
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id012
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 3.5500000000000003
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 3.85
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D+0.3 Z-0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id049
+    - 90
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: laser
+        pos: &id013
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 3dpr
+        pos: *id013
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.25
+        h: 6.25
+        height: 8
+        inclusion: 'true'
+        pos: *id013
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: laser
+        pos: &id014
+        - 0
+        - 0
+        - 0.0
+        r1: 3.3
+        r2: 3.1599999999999997
+        radius_1: 3.3
+        radius_2: 3.1599999999999997
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 3dpr
+        pos: *id014
+        r1: 3.3
+        r2: 3.1599999999999997
+        radius_1: 3.3
+        radius_2: 3.1599999999999997
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 3.5500000000000003
+        h: 3.5500000000000003
+        height: 8
+        inclusion: 'true'
+        pos: *id014
+        r1: 3.3
+        r2: 3.1599999999999997
+        radius_1: 3.3
+        radius_2: 3.1599999999999997
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id015
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id015
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id015
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 3.5500000000000003
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 3.85
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.85
+        h: 17.85
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 4.750000000000001
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D+0.6 Z-0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id050
+    - 120
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: laser
+        pos: &id016
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 3dpr
+        pos: *id016
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 'true'
+        pos: *id016
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: laser
+        pos: &id017
+        - 0
+        - 0
+        - 0.0
+        r1: 2.7
+        r2: 2.56
+        radius_1: 2.7
+        radius_2: 2.56
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 3dpr
+        pos: *id017
+        r1: 2.7
+        r2: 2.56
+        radius_1: 2.7
+        radius_2: 2.56
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 'true'
+        pos: *id017
+        r1: 2.7
+        r2: 2.56
+        radius_1: 2.7
+        radius_2: 2.56
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id018
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id018
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id018
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.15
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 4.45
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D-0.6 Z+0.0
+        type: positive
+        valign: center
+        width: 10
+    pos: &id051
+    - 0
+    - 38
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: laser
+        pos: &id019
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 3dpr
+        pos: *id019
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 'true'
+        pos: *id019
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: laser
+        pos: &id020
+        - 0
+        - 0
+        - 0.0
+        r1: 2.85
+        r2: 2.71
+        radius_1: 2.85
+        radius_2: 2.71
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 3dpr
+        pos: *id020
+        r1: 2.85
+        r2: 2.71
+        radius_1: 2.85
+        radius_2: 2.71
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 'true'
+        pos: *id020
+        r1: 2.85
+        r2: 2.71
+        radius_1: 2.85
+        radius_2: 2.71
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id021
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id021
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id021
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.15
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 4.45
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D-0.3 Z+0.0
+        type: positive
+        valign: center
+        width: 10
+    pos: &id052
+    - 30
+    - 38
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: laser
+        pos: &id022
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 3dpr
+        pos: *id022
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 'true'
+        pos: *id022
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: laser
+        pos: &id023
+        - 0
+        - 0
+        - 0.0
+        r1: 3.0
+        r2: 2.86
+        radius_1: 3.0
+        radius_2: 2.86
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 3dpr
+        pos: *id023
+        r1: 3.0
+        r2: 2.86
+        radius_1: 3.0
+        radius_2: 2.86
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 'true'
+        pos: *id023
+        r1: 3.0
+        r2: 2.86
+        radius_1: 3.0
+        radius_2: 2.86
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id024
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id024
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id024
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.15
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 4.45
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D+0.0 Z+0.0
+        type: positive
+        valign: center
+        width: 10
+    pos: &id053
+    - 60
+    - 38
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: laser
+        pos: &id025
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 3dpr
+        pos: *id025
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 'true'
+        pos: *id025
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: laser
+        pos: &id026
+        - 0
+        - 0
+        - 0.0
+        r1: 3.15
+        r2: 3.01
+        radius_1: 3.15
+        radius_2: 3.01
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 3dpr
+        pos: *id026
+        r1: 3.15
+        r2: 3.01
+        radius_1: 3.15
+        radius_2: 3.01
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 'true'
+        pos: *id026
+        r1: 3.15
+        r2: 3.01
+        radius_1: 3.15
+        radius_2: 3.01
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id027
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id027
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id027
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.15
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 4.45
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D+0.3 Z+0.0
+        type: positive
+        valign: center
+        width: 10
+    pos: &id054
+    - 90
+    - 38
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: laser
+        pos: &id028
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 3dpr
+        pos: *id028
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 6.85
+        h: 6.85
+        height: 8
+        inclusion: 'true'
+        pos: *id028
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: laser
+        pos: &id029
+        - 0
+        - 0
+        - 0.0
+        r1: 3.3
+        r2: 3.1599999999999997
+        radius_1: 3.3
+        radius_2: 3.1599999999999997
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 3dpr
+        pos: *id029
+        r1: 3.3
+        r2: 3.1599999999999997
+        radius_1: 3.3
+        radius_2: 3.1599999999999997
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.15
+        h: 4.15
+        height: 8
+        inclusion: 'true'
+        pos: *id029
+        r1: 3.3
+        r2: 3.1599999999999997
+        radius_1: 3.3
+        radius_2: 3.1599999999999997
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id030
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id030
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id030
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.15
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 4.45
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 17.25
+        h: 17.25
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.3500000000000005
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D+0.6 Z+0.0
+        type: positive
+        valign: center
+        width: 10
+    pos: &id055
+    - 120
+    - 38
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: laser
+        pos: &id031
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id031
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 'true'
+        pos: *id031
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: laser
+        pos: &id032
+        - 0
+        - 0
+        - 0.0
+        r1: 2.7
+        r2: 2.56
+        radius_1: 2.7
+        radius_2: 2.56
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 3dpr
+        pos: *id032
+        r1: 2.7
+        r2: 2.56
+        radius_1: 2.7
+        radius_2: 2.56
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 'true'
+        pos: *id032
+        r1: 2.7
+        r2: 2.56
+        radius_1: 2.7
+        radius_2: 2.56
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id033
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id033
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id033
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.75
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 5.05
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D-0.6 Z+0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id056
+    - 0
+    - 76
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: laser
+        pos: &id034
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id034
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 'true'
+        pos: *id034
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: laser
+        pos: &id035
+        - 0
+        - 0
+        - 0.0
+        r1: 2.85
+        r2: 2.71
+        radius_1: 2.85
+        radius_2: 2.71
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 3dpr
+        pos: *id035
+        r1: 2.85
+        r2: 2.71
+        radius_1: 2.85
+        radius_2: 2.71
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 'true'
+        pos: *id035
+        r1: 2.85
+        r2: 2.71
+        radius_1: 2.85
+        radius_2: 2.71
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id036
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id036
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id036
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.75
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 5.05
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D-0.3 Z+0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id057
+    - 30
+    - 76
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: laser
+        pos: &id037
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id037
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 'true'
+        pos: *id037
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: laser
+        pos: &id038
+        - 0
+        - 0
+        - 0.0
+        r1: 3.0
+        r2: 2.86
+        radius_1: 3.0
+        radius_2: 2.86
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 3dpr
+        pos: *id038
+        r1: 3.0
+        r2: 2.86
+        radius_1: 3.0
+        radius_2: 2.86
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 'true'
+        pos: *id038
+        r1: 3.0
+        r2: 2.86
+        radius_1: 3.0
+        radius_2: 2.86
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id039
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id039
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id039
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.75
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 5.05
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D+0.0 Z+0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id058
+    - 60
+    - 76
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: laser
+        pos: &id040
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id040
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 'true'
+        pos: *id040
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: laser
+        pos: &id041
+        - 0
+        - 0
+        - 0.0
+        r1: 3.15
+        r2: 3.01
+        radius_1: 3.15
+        radius_2: 3.01
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 3dpr
+        pos: *id041
+        r1: 3.15
+        r2: 3.01
+        radius_1: 3.15
+        radius_2: 3.01
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 'true'
+        pos: *id041
+        r1: 3.15
+        r2: 3.01
+        radius_1: 3.15
+        radius_2: 3.01
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id042
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id042
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id042
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.75
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 5.05
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D+0.3 Z+0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id059
+    - 90
+    - 76
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  - objects:
+    - - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: laser
+        pos: &id043
+        - 0
+        - 0
+        - 0.0
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id043
+        r: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+      - depth: 7.45
+        h: 7.45
+        height: 8
+        inclusion: 'true'
+        pos: *id043
+        r: 9.9
+        radius: 9.9
+        shape: cylinder
+        type: positive
+        width: 10
+    - - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: laser
+        pos: &id044
+        - 0
+        - 0
+        - 0.0
+        r1: 3.3
+        r2: 3.1599999999999997
+        radius_1: 3.3
+        radius_2: 3.1599999999999997
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 3dpr
+        pos: *id044
+        r1: 3.3
+        r2: 3.1599999999999997
+        radius_1: 3.3
+        radius_2: 3.1599999999999997
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 4.75
+        h: 4.75
+        height: 8
+        inclusion: 'true'
+        pos: *id044
+        r1: 3.3
+        r2: 3.1599999999999997
+        radius_1: 3.3
+        radius_2: 3.1599999999999997
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: laser
+        pos: &id045
+        - 0
+        - 0
+        - -0.010000000000000009
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 3dpr
+        pos: *id045
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 0.45
+        h: 0.45
+        height: 8
+        inclusion: 'true'
+        pos: *id045
+        r1: 3.4
+        r2: 3.0
+        radius_1: 3.4
+        radius_2: 3.0
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -3.25
+              - 4.75
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 6.5
+              - 0.3
+              type: negative
+              width: 10
+      - - - - depth: 7.45
+              height: 8
+              inclusion: 3dpr
+              pos:
+              - -1.75
+              - -1.75
+              - 5.05
+              rotX: 0
+              rotY: 0
+              rotZ: 0
+              shape: cube
+              size:
+              - 3.5
+              - 3.5
+              - 0.3
+              type: negative
+              width: 10
+    - - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 23.6
+        h: 23.6
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - -1
+        r: 1.7
+        radius: 1.7
+        shape: cylinder
+        type: negative
+        width: 10
+    - - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+      - depth: 16.650000000000002
+        h: 16.650000000000002
+        height: 8
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 5.95
+        r: 3.2
+        radius: 3.2
+        shape: cylinder
+        type: negative
+        width: 10
+    - - - depth: 7.45
+          height: 8
+          pos:
+          - -13.0
+          - -17.0
+          - 0
+          shape: cube
+          size:
+          - 26
+          - 10
+          - 1.2
+          type: positive
+          width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -10
+        - 1.2
+        shape: text
+        size: 1.8
+        text: mg996r
+        type: positive
+        valign: center
+        width: 10
+    - - depth: 0.5
+        font: Liberation Sans
+        halign: center
+        height: 0.5
+        pos:
+        - 0
+        - -14
+        - 1.2
+        shape: text
+        size: 1.8
+        text: D+0.6 Z+0.6
+        type: positive
+        valign: center
+        width: 10
+    pos: &id060
+    - 120
+    - 76
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  components_objects: []
+  components_string: []
+  depth: 7.45
+  depth_mm: 7.45
+  depth_note: Tallest coupon height; 146 x 103 mm print layout. Socket openings face
+    the bed, matching the production adapter.
+  description: oomlout oobb part holder motor version 5 holder motor servo standard
+    adapter fit test 10x8x0
+  description_extra: 7.45_depth
+  description_main: 10_width_8_height
+  directory: parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+  family: fit_test
+  filter: holder_motor_servo_standard_v2
+  fit_depth_adjustments_mm:
+  - -0.6
+  - 0
+  - 0.6
+  fit_diameter_adjustments_mm:
+  - -0.6
+  - -0.3
+  - 0
+  - 0.3
+  - 0.6
+  fit_note: 'Coarse first pass: D=-0.6/-0.3/0/+0.3/+0.6 mm on both taper diameters;
+    Z=-0.6/0/+0.6 mm socket depth with matching head-seat shift. See SERVO_ADAPTER_FIT.md.'
+  fit_test_samples:
+  - depth_adjustment_mm: -0.6
+    diameter_adjustment_mm: -0.6
+    entry_diameter_mm: 5.4
+    height_mm: 6.25
+    label: D-0.6 Z-0.6
+    pos: *id046
+    profile: mg996r
+    roof_diameter_mm: 5.12
+    screw_seat_mm: 4.750000000000001
+    socket_roof_mm: 3.5500000000000003
+  - depth_adjustment_mm: -0.6
+    diameter_adjustment_mm: -0.3
+    entry_diameter_mm: 5.7
+    height_mm: 6.25
+    label: D-0.3 Z-0.6
+    pos: *id047
+    profile: mg996r
+    roof_diameter_mm: 5.42
+    screw_seat_mm: 4.750000000000001
+    socket_roof_mm: 3.5500000000000003
+  - depth_adjustment_mm: -0.6
+    diameter_adjustment_mm: 0
+    entry_diameter_mm: 6.0
+    height_mm: 6.25
+    label: D+0.0 Z-0.6
+    pos: *id048
+    profile: mg996r
+    roof_diameter_mm: 5.72
+    screw_seat_mm: 4.750000000000001
+    socket_roof_mm: 3.5500000000000003
+  - depth_adjustment_mm: -0.6
+    diameter_adjustment_mm: 0.3
+    entry_diameter_mm: 6.3
+    height_mm: 6.25
+    label: D+0.3 Z-0.6
+    pos: *id049
+    profile: mg996r
+    roof_diameter_mm: 6.02
+    screw_seat_mm: 4.750000000000001
+    socket_roof_mm: 3.5500000000000003
+  - depth_adjustment_mm: -0.6
+    diameter_adjustment_mm: 0.6
+    entry_diameter_mm: 6.6
+    height_mm: 6.25
+    label: D+0.6 Z-0.6
+    pos: *id050
+    profile: mg996r
+    roof_diameter_mm: 6.319999999999999
+    screw_seat_mm: 4.750000000000001
+    socket_roof_mm: 3.5500000000000003
+  - depth_adjustment_mm: 0
+    diameter_adjustment_mm: -0.6
+    entry_diameter_mm: 5.4
+    height_mm: 6.85
+    label: D-0.6 Z+0.0
+    pos: *id051
+    profile: mg996r
+    roof_diameter_mm: 5.12
+    screw_seat_mm: 5.3500000000000005
+    socket_roof_mm: 4.15
+  - depth_adjustment_mm: 0
+    diameter_adjustment_mm: -0.3
+    entry_diameter_mm: 5.7
+    height_mm: 6.85
+    label: D-0.3 Z+0.0
+    pos: *id052
+    profile: mg996r
+    roof_diameter_mm: 5.42
+    screw_seat_mm: 5.3500000000000005
+    socket_roof_mm: 4.15
+  - depth_adjustment_mm: 0
+    diameter_adjustment_mm: 0
+    entry_diameter_mm: 6.0
+    height_mm: 6.85
+    label: D+0.0 Z+0.0
+    pos: *id053
+    profile: mg996r
+    roof_diameter_mm: 5.72
+    screw_seat_mm: 5.3500000000000005
+    socket_roof_mm: 4.15
+  - depth_adjustment_mm: 0
+    diameter_adjustment_mm: 0.3
+    entry_diameter_mm: 6.3
+    height_mm: 6.85
+    label: D+0.3 Z+0.0
+    pos: *id054
+    profile: mg996r
+    roof_diameter_mm: 6.02
+    screw_seat_mm: 5.3500000000000005
+    socket_roof_mm: 4.15
+  - depth_adjustment_mm: 0
+    diameter_adjustment_mm: 0.6
+    entry_diameter_mm: 6.6
+    height_mm: 6.85
+    label: D+0.6 Z+0.0
+    pos: *id055
+    profile: mg996r
+    roof_diameter_mm: 6.319999999999999
+    screw_seat_mm: 5.3500000000000005
+    socket_roof_mm: 4.15
+  - depth_adjustment_mm: 0.6
+    diameter_adjustment_mm: -0.6
+    entry_diameter_mm: 5.4
+    height_mm: 7.45
+    label: D-0.6 Z+0.6
+    pos: *id056
+    profile: mg996r
+    roof_diameter_mm: 5.12
+    screw_seat_mm: 5.95
+    socket_roof_mm: 4.75
+  - depth_adjustment_mm: 0.6
+    diameter_adjustment_mm: -0.3
+    entry_diameter_mm: 5.7
+    height_mm: 7.45
+    label: D-0.3 Z+0.6
+    pos: *id057
+    profile: mg996r
+    roof_diameter_mm: 5.42
+    screw_seat_mm: 5.95
+    socket_roof_mm: 4.75
+  - depth_adjustment_mm: 0.6
+    diameter_adjustment_mm: 0
+    entry_diameter_mm: 6.0
+    height_mm: 7.45
+    label: D+0.0 Z+0.6
+    pos: *id058
+    profile: mg996r
+    roof_diameter_mm: 5.72
+    screw_seat_mm: 5.95
+    socket_roof_mm: 4.75
+  - depth_adjustment_mm: 0.6
+    diameter_adjustment_mm: 0.3
+    entry_diameter_mm: 6.3
+    height_mm: 7.45
+    label: D+0.3 Z+0.6
+    pos: *id059
+    profile: mg996r
+    roof_diameter_mm: 6.02
+    screw_seat_mm: 5.95
+    socket_roof_mm: 4.75
+  - depth_adjustment_mm: 0.6
+    diameter_adjustment_mm: 0.6
+    entry_diameter_mm: 6.6
+    height_mm: 7.45
+    label: D+0.6 Z+0.6
+    pos: *id060
+    profile: mg996r
+    roof_diameter_mm: 6.319999999999999
+    screw_seat_mm: 5.95
+    socket_roof_mm: 4.75
+  geometry_note: Fifteen labelled socket-down adapter coupons with native two-layer
+    nut-style roof bridges and factory screw head seats.
+  geometry_reference: source_file/servo_v2_reference/mechanical.json
+  grid_pitch_mm: 15
+  height: 8
+  height_mm: 119
+  id: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+  id_no_class: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+  id_no_size: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+  id_no_type: oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+  kwargs:
+    depth: 7.45
+    filter: adapter_fit_test
+    fit_depth_adjustments_mm:
+    - -0.6
+    - 0
+    - 0.6
+    fit_diameter_adjustments_mm:
+    - -0.6
+    - -0.3
+    - 0
+    - 0.3
+    - 0.6
+    grid_pitch_mm: 15
+    height: 8
+    modes:
+    - 3dpr
+    motor_style: standard
+    motor_type: servo
+    navigation: false
+    oobb_name: holder_motor_servo_standard_adapter_fit_test
+    oomp_description_extra: 7.45_depth
+    oomp_description_main: holder_motor_servo_standard_adapter_fit_test_10_width_8_height
+    oomp_mode: project
+    oomp_run: false
+    overwrite: true
+    save_type: none
+    socket_profile: mg996r
+    spacer_thickness_mm: 1
+    type: oomlout_oobb_part_holder_motor_version_5_holder_motor_servo_standard_adapter_fit_test
+    variant: adapter_fit_test_v1
+    width: 10
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+  manufacturer: ''
+  md5: 11b488ac7fdb1d3e4d96010634878833
+  md5_10: 11b488ac7f
+  md5_10_upper: 11B488AC7F
+  md5_5: 11b48
+  md5_5_upper: 11B48
+  md5_6: 11b488
+  md5_6_alpha: ovbc
+  md5_6_alpha_upper: OVBC
+  md5_6_upper: 11B488
+  motor_style: standard
+  motor_type: servo
+  name: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth Adapter
+    Fit Test V1
+  name_no_class: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth
+    Adapter Fit Test V1
+  name_no_size: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth
+    Adapter Fit Test V1
+  name_no_type: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth
+    Adapter Fit Test V1
+  name_proper: Oobb Part Holder Motor Servo Standard 10 Width 8 Height 7D45 Depth
+    Adapter Fit Test V1
+  name_short: Oomlout Holder Motor Version 5 Holder
+  name_space: oobb part holder motor servo standard 10 width 8 height 7d45 depth adapter
+    fit test v1
+  name_text: Oobb Part Oomlout Oobb Part Holder Motor Version 5 Holder Motor Servo
+    Standard Adapter Fit Test 10 Width 8 Height 7D45 Depth
+  name_upper: OOBB PART HOLDER MOTOR SERVO STANDARD 10 WIDTH 8 HEIGHT 7D45 DEPTH ADAPTER
+    FIT TEST V1
+  navigation: false
+  oobb_details:
+    depth: 7.45
+    fit_depth_adjustments_mm:
+    - -0.6
+    - 0
+    - 0.6
+    fit_diameter_adjustments_mm:
+    - -0.6
+    - -0.3
+    - 0
+    - 0.3
+    - 0.6
+    grid_pitch_mm: 15
+    height: 8
+    motor_style: standard
+    motor_type: servo
+    oobb_name: holder_motor_servo_standard_adapter_fit_test
+    socket_profile: mg996r
+    spacer_thickness_mm: 1
+    variant: adapter_fit_test_v1
+    width: 10
+  oobb_name: holder_motor_servo_standard_adapter_fit_test
+  oomp_key: oomp_oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1
+  part_number: ''
+  project_name: oomlout_oobb_part_holder_motor_version_5
+  short_name: ''
+  size: oomlout_oobb_part_holder_motor_version_5_holder_motor_servo_standard_adapter_fit_test
+  socket_profile: mg996r
+  spacer_thickness_mm: 1
+  taxonomy_1: oobb
+  taxonomy_10: adapter_fit_test_v1
+  taxonomy_10_capital: Adapter Fit Test V1
+  taxonomy_10_first_letter: a
+  taxonomy_10_first_letter_upper: A
+  taxonomy_10_length_1: a
+  taxonomy_10_length_2: ad
+  taxonomy_10_length_3: ada
+  taxonomy_10_length_4: adap
+  taxonomy_10_length_5: adapt
+  taxonomy_10_upper: ADAPTER_FIT_TEST_V1
+  taxonomy_10_upper_length_1: A
+  taxonomy_10_upper_length_2: AD
+  taxonomy_10_upper_length_3: ADA
+  taxonomy_10_upper_length_4: ADAP
+  taxonomy_10_upper_length_5: ADAPT
+  taxonomy_11: ''
+  taxonomy_12: ''
+  taxonomy_13: ''
+  taxonomy_14: ''
+  taxonomy_15: ''
+  taxonomy_1_capital: Oobb
+  taxonomy_1_first_letter: o
+  taxonomy_1_first_letter_upper: O
+  taxonomy_1_length_1: o
+  taxonomy_1_length_2: oo
+  taxonomy_1_length_3: oob
+  taxonomy_1_length_4: oobb
+  taxonomy_1_length_5: oobb
+  taxonomy_1_upper: OOBB
+  taxonomy_1_upper_length_1: O
+  taxonomy_1_upper_length_2: OO
+  taxonomy_1_upper_length_3: OOB
+  taxonomy_1_upper_length_4: OOBB
+  taxonomy_1_upper_length_5: OOBB
+  taxonomy_2: part
+  taxonomy_2_capital: Part
+  taxonomy_2_first_letter: p
+  taxonomy_2_first_letter_upper: P
+  taxonomy_2_length_1: p
+  taxonomy_2_length_2: pa
+  taxonomy_2_length_3: par
+  taxonomy_2_length_4: part
+  taxonomy_2_length_5: part
+  taxonomy_2_upper: PART
+  taxonomy_2_upper_length_1: P
+  taxonomy_2_upper_length_2: PA
+  taxonomy_2_upper_length_3: PAR
+  taxonomy_2_upper_length_4: PART
+  taxonomy_2_upper_length_5: PART
+  taxonomy_3: holder
+  taxonomy_3_capital: Holder
+  taxonomy_3_first_letter: h
+  taxonomy_3_first_letter_upper: H
+  taxonomy_3_length_1: h
+  taxonomy_3_length_2: ho
+  taxonomy_3_length_3: hol
+  taxonomy_3_length_4: hold
+  taxonomy_3_length_5: holde
+  taxonomy_3_upper: HOLDER
+  taxonomy_3_upper_length_1: H
+  taxonomy_3_upper_length_2: HO
+  taxonomy_3_upper_length_3: HOL
+  taxonomy_3_upper_length_4: HOLD
+  taxonomy_3_upper_length_5: HOLDE
+  taxonomy_4: motor
+  taxonomy_4_capital: Motor
+  taxonomy_4_first_letter: m
+  taxonomy_4_first_letter_upper: M
+  taxonomy_4_length_1: m
+  taxonomy_4_length_2: mo
+  taxonomy_4_length_3: mot
+  taxonomy_4_length_4: moto
+  taxonomy_4_length_5: motor
+  taxonomy_4_upper: MOTOR
+  taxonomy_4_upper_length_1: M
+  taxonomy_4_upper_length_2: MO
+  taxonomy_4_upper_length_3: MOT
+  taxonomy_4_upper_length_4: MOTO
+  taxonomy_4_upper_length_5: MOTOR
+  taxonomy_5: servo
+  taxonomy_5_capital: Servo
+  taxonomy_5_first_letter: s
+  taxonomy_5_first_letter_upper: S
+  taxonomy_5_length_1: s
+  taxonomy_5_length_2: se
+  taxonomy_5_length_3: ser
+  taxonomy_5_length_4: serv
+  taxonomy_5_length_5: servo
+  taxonomy_5_upper: SERVO
+  taxonomy_5_upper_length_1: S
+  taxonomy_5_upper_length_2: SE
+  taxonomy_5_upper_length_3: SER
+  taxonomy_5_upper_length_4: SERV
+  taxonomy_5_upper_length_5: SERVO
+  taxonomy_6: standard
+  taxonomy_6_capital: Standard
+  taxonomy_6_first_letter: s
+  taxonomy_6_first_letter_upper: S
+  taxonomy_6_length_1: s
+  taxonomy_6_length_2: st
+  taxonomy_6_length_3: sta
+  taxonomy_6_length_4: stan
+  taxonomy_6_length_5: stand
+  taxonomy_6_upper: STANDARD
+  taxonomy_6_upper_length_1: S
+  taxonomy_6_upper_length_2: ST
+  taxonomy_6_upper_length_3: STA
+  taxonomy_6_upper_length_4: STAN
+  taxonomy_6_upper_length_5: STAND
+  taxonomy_7: 10_width
+  taxonomy_7_capital: 10 Width
+  taxonomy_7_first_letter: '1'
+  taxonomy_7_first_letter_upper: '1'
+  taxonomy_7_length_1: '1'
+  taxonomy_7_length_2: '10'
+  taxonomy_7_length_3: '10_'
+  taxonomy_7_length_4: 10_w
+  taxonomy_7_length_5: 10_wi
+  taxonomy_7_upper: 10_WIDTH
+  taxonomy_7_upper_length_1: '1'
+  taxonomy_7_upper_length_2: '10'
+  taxonomy_7_upper_length_3: '10_'
+  taxonomy_7_upper_length_4: 10_W
+  taxonomy_7_upper_length_5: 10_WI
+  taxonomy_8: 8_height
+  taxonomy_8_capital: 8 Height
+  taxonomy_8_first_letter: '8'
+  taxonomy_8_first_letter_upper: '8'
+  taxonomy_8_length_1: '8'
+  taxonomy_8_length_2: '8_'
+  taxonomy_8_length_3: 8_h
+  taxonomy_8_length_4: 8_he
+  taxonomy_8_length_5: 8_hei
+  taxonomy_8_upper: 8_HEIGHT
+  taxonomy_8_upper_length_1: '8'
+  taxonomy_8_upper_length_2: '8_'
+  taxonomy_8_upper_length_3: 8_H
+  taxonomy_8_upper_length_4: 8_HE
+  taxonomy_8_upper_length_5: 8_HEI
+  taxonomy_9: 7d45_depth
+  taxonomy_9_capital: 7D45 Depth
+  taxonomy_9_first_letter: '7'
+  taxonomy_9_first_letter_upper: '7'
+  taxonomy_9_length_1: '7'
+  taxonomy_9_length_2: 7d
+  taxonomy_9_length_3: 7d4
+  taxonomy_9_length_4: 7d45
+  taxonomy_9_length_5: 7d45_
+  taxonomy_9_upper: 7D45_DEPTH
+  taxonomy_9_upper_length_1: '7'
+  taxonomy_9_upper_length_2: 7D
+  taxonomy_9_upper_length_3: 7D4
+  taxonomy_9_upper_length_4: 7D45
+  taxonomy_9_upper_length_5: 7D45_
+  type: part
+  variant: adapter_fit_test_v1
+  width: 10
+  width_mm: 149
+variant: adapter_fit_test_v1
+width: 10

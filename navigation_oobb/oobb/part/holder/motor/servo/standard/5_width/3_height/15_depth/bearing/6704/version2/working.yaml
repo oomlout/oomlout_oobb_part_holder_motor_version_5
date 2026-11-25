@@ -1,0 +1,619 @@
+adapter_fit_selection:
+    coupon: D0/Z0
+    roof_style: native_two_layer_overhang
+    selected_on: '2026-11-01'
+    socket_depth_adjustment_mm: 0
+    socket_diameter_adjustment_mm: 0
+    status: user_selected
+bearing_size: '6704'
+bip_39_2_word_array:
+- one
+- onion
+bip_39_2_word_no_space: oneonion
+bip_39_2_word_space: one onion
+bip_39_2_word_underscore: one_onion
+bip_39_3_word_array:
+- one
+- onion
+- grid
+bip_39_3_word_no_space: oneoniongrid
+bip_39_3_word_space: one onion grid
+bip_39_3_word_underscore: one_onion_grid
+bip_39_full_array:
+- one
+- onion
+- grid
+- organ
+- genius
+- horn
+- february
+- magic
+- treat
+- marble
+- leisure
+- atom
+bip_39_full_no_space: oneoniongridorgangeniushornfebruarymagictreatmarbleleisureatom
+bip_39_full_space: one onion grid organ genius horn february magic treat marble leisure
+    atom
+bip_39_full_underscore: one_onion_grid_organ_genius_horn_february_magic_treat_marble_leisure_atom
+depth: 15
+depth_note: 15 mm catalogue declaration retained during design iteration. Lower holder
+    10.6 mm, upper plate 5.6 mm, clamshell 45.4 mm, nut bars 6.5 mm, default spacers
+    1 mm, output lid 2.2 mm. Bearing Z=10.6..14.6; block Z=-38..16.2; servo countersunk
+    heads Z=14.5..16.2, flush; output Z=21.6.
+directory: parts/oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2
+family: assembly
+filter: holder_motor_gear_n20
+fit_note: MG996R, HS-311, FS5106R and provisional S3004 envelopes; user-specified
+    4.5 mm ear holes permit the shifted M3 axes. Select the female runner matching
+    both servo and spacer thickness; default 1 mm. Printed friction fits require calibration.
+    See SERVO_V2.md for sourced versus estimated dimensions. Production adapter locked
+    to user-selected centre coupon D0/Z0, with the native two-layer socket-roof bridge.
+geometry_note: Flush top-access M3 x 30 countersunk servo screws, plain holder shafts,
+    two floating two-nut bars at 10.4 mm pitch; 0.5/1/2/3 mm shims, default 1 mm.
+    Grid-centred 6704, 1.5 mm lip, inset M3 stack screws, twelve free captive M3 grid
+    nuts, unobstructed bottom passages, four M3 cross nuts and diagonal M3 countersunk
+    runner connectors.
+geometry_reference: source_file/servo_v2_reference/mechanical.json
+grid_pitch_mm: 15
+height: 3
+id: oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2
+id_no_class: oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2
+id_no_size: oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2
+id_no_type: oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2
+md5: 9ab35999ce360edb15142ee7d0f5fe87
+md5_10: 9ab35999ce
+md5_10_upper: 9AB35999CE
+md5_5: 9ab35
+md5_5_upper: 9AB35
+md5_6: 9ab359
+md5_6_alpha: 61avt
+md5_6_alpha_upper: 61AVT
+md5_6_upper: 9AB359
+motor_style: standard
+motor_type: servo
+name: Oobb Part Holder Motor Servo Standard 5 Width 3 Height 15 Depth Bearing 6704
+    Version2
+name_no_class: Oobb Part Holder Motor Servo Standard 5 Width 3 Height 15 Depth Bearing
+    6704 Version2
+name_no_size: Oobb Part Holder Motor Servo Standard 5 Width 3 Height 15 Depth Bearing
+    6704 Version2
+name_no_type: Oobb Part Holder Motor Servo Standard 5 Width 3 Height 15 Depth Bearing
+    6704 Version2
+name_proper: Oobb Part Holder Motor Servo Standard 5 Width 3 Height 15 Depth Bearing
+    6704 Version2
+name_space: oobb part holder motor servo standard 5 width 3 height 15 depth bearing
+    6704 version2
+name_upper: OOBB PART HOLDER MOTOR SERVO STANDARD 5 WIDTH 3 HEIGHT 15 DEPTH BEARING
+    6704 VERSION2
+navigation: false
+oobb_details:
+    bearing_size: '6704'
+    depth: 15
+    grid_pitch_mm: 15
+    height: 3
+    motor_style: standard
+    motor_type: servo
+    oobb_name: holder_motor_servo_standard_v2
+    pieces:
+        bearing_retainer:
+            depth: 5.6
+            exploded_pos:
+            - 0
+            - 0
+            - 28
+            print_offset:
+            - 0
+            - 0
+            - 16.2
+            print_pos:
+            - 80
+            - 0
+            - 0
+            print_rot:
+            - 180
+            - 0
+            - 0
+        clamp_left:
+            depth: 6.5
+            exploded_pos:
+            - 0
+            - 0
+            - -12
+            print_offset:
+            - 34.5
+            - 0
+            - -3.65
+            print_pos:
+            - 80
+            - 65
+            - 0
+            print_rot:
+            - 180
+            - 0
+            - 0
+        clamp_right:
+            depth: 6.5
+            exploded_pos:
+            - 0
+            - 0
+            - -12
+            print_offset:
+            - -14.5
+            - 0
+            - -3.65
+            print_pos:
+            - 95
+            - 65
+            - 0
+            print_rot:
+            - 180
+            - 0
+            - 0
+        clamshell:
+            depth: 45.4
+            exploded_pos:
+            - 0
+            - 0
+            - -50
+            print_offset:
+            - 0
+            - 0
+            - 38.0
+            print_pos:
+            - 0
+            - 65
+            - 0
+            print_rot:
+            - 0
+            - 0
+            - 0
+        female_rotor:
+            depth: 10.799999999999999
+            exploded_pos:
+            - 0
+            - 0
+            - 14
+            print_offset:
+            - 0
+            - 0
+            - -8.6
+            print_pos:
+            - 127
+            - 0
+            - 0
+            print_rot:
+            - 0
+            - 0
+            - 0
+        holder:
+            depth: 10.6
+            exploded_pos:
+            - 0
+            - 0
+            - 0
+            print_offset:
+            - 0
+            - 0
+            - 10.6
+            print_pos:
+            - 0
+            - 0
+            - 0
+            print_rot:
+            - 180
+            - 0
+            - 0
+        output_lid:
+            depth: 2.2
+            exploded_pos:
+            - 0
+            - 0
+            - 38
+            print_offset:
+            - 0
+            - 0
+            - 21.6
+            print_pos:
+            - 158
+            - 0
+            - 0
+            print_rot:
+            - 180
+            - 0
+            - 0
+        spacer_left:
+            depth: 1
+            exploded_pos:
+            - 0
+            - 0
+            - -5
+            print_offset:
+            - 34.5
+            - 0
+            - 1
+            print_pos:
+            - 110
+            - 65
+            - 0
+            print_rot:
+            - 0
+            - 0
+            - 0
+        spacer_right:
+            depth: 1
+            exploded_pos:
+            - 0
+            - 0
+            - -5
+            print_offset:
+            - -14.5
+            - 0
+            - 1
+            print_pos:
+            - 125
+            - 65
+            - 0
+            print_rot:
+            - 0
+            - 0
+            - 0
+    socket_depth_adjustment_mm: 0
+    socket_diameter_adjustment_mm: 0
+    socket_profile: mg996r
+    variant: version2
+    width: 5
+oobb_name: holder_motor_servo_standard_v2
+oomp_key: oomp_oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2
+pieces:
+    bearing_retainer:
+        depth: 5.6
+        exploded_pos:
+        - 0
+        - 0
+        - 28
+        print_offset:
+        - 0
+        - 0
+        - 16.2
+        print_pos:
+        - 80
+        - 0
+        - 0
+        print_rot:
+        - 180
+        - 0
+        - 0
+    clamp_left:
+        depth: 6.5
+        exploded_pos:
+        - 0
+        - 0
+        - -12
+        print_offset:
+        - 34.5
+        - 0
+        - -3.65
+        print_pos:
+        - 80
+        - 65
+        - 0
+        print_rot:
+        - 180
+        - 0
+        - 0
+    clamp_right:
+        depth: 6.5
+        exploded_pos:
+        - 0
+        - 0
+        - -12
+        print_offset:
+        - -14.5
+        - 0
+        - -3.65
+        print_pos:
+        - 95
+        - 65
+        - 0
+        print_rot:
+        - 180
+        - 0
+        - 0
+    clamshell:
+        depth: 45.4
+        exploded_pos:
+        - 0
+        - 0
+        - -50
+        print_offset:
+        - 0
+        - 0
+        - 38.0
+        print_pos:
+        - 0
+        - 65
+        - 0
+        print_rot:
+        - 0
+        - 0
+        - 0
+    female_rotor:
+        depth: 10.799999999999999
+        exploded_pos:
+        - 0
+        - 0
+        - 14
+        print_offset:
+        - 0
+        - 0
+        - -8.6
+        print_pos:
+        - 127
+        - 0
+        - 0
+        print_rot:
+        - 0
+        - 0
+        - 0
+    holder:
+        depth: 10.6
+        exploded_pos:
+        - 0
+        - 0
+        - 0
+        print_offset:
+        - 0
+        - 0
+        - 10.6
+        print_pos:
+        - 0
+        - 0
+        - 0
+        print_rot:
+        - 180
+        - 0
+        - 0
+    output_lid:
+        depth: 2.2
+        exploded_pos:
+        - 0
+        - 0
+        - 38
+        print_offset:
+        - 0
+        - 0
+        - 21.6
+        print_pos:
+        - 158
+        - 0
+        - 0
+        print_rot:
+        - 180
+        - 0
+        - 0
+    spacer_left:
+        depth: 1
+        exploded_pos:
+        - 0
+        - 0
+        - -5
+        print_offset:
+        - 34.5
+        - 0
+        - 1
+        print_pos:
+        - 110
+        - 65
+        - 0
+        print_rot:
+        - 0
+        - 0
+        - 0
+    spacer_right:
+        depth: 1
+        exploded_pos:
+        - 0
+        - 0
+        - -5
+        print_offset:
+        - -14.5
+        - 0
+        - 1
+        print_pos:
+        - 125
+        - 65
+        - 0
+        print_rot:
+        - 0
+        - 0
+        - 0
+project_name: oomlout_oobb_part_holder_motor_version_5
+taxonomy_1: oobb
+taxonomy_10: bearing
+taxonomy_10_capital: Bearing
+taxonomy_10_first_letter: b
+taxonomy_10_first_letter_upper: B
+taxonomy_10_length_1: b
+taxonomy_10_length_2: be
+taxonomy_10_length_3: bea
+taxonomy_10_length_4: bear
+taxonomy_10_length_5: beari
+taxonomy_10_upper: BEARING
+taxonomy_10_upper_length_1: B
+taxonomy_10_upper_length_2: BE
+taxonomy_10_upper_length_3: BEA
+taxonomy_10_upper_length_4: BEAR
+taxonomy_10_upper_length_5: BEARI
+taxonomy_11: '6704'
+taxonomy_11_capital: '6704'
+taxonomy_11_first_letter: '6'
+taxonomy_11_first_letter_upper: '6'
+taxonomy_11_length_1: '6'
+taxonomy_11_length_2: '67'
+taxonomy_11_length_3: '670'
+taxonomy_11_length_4: '6704'
+taxonomy_11_length_5: '6704'
+taxonomy_11_upper: '6704'
+taxonomy_11_upper_length_1: '6'
+taxonomy_11_upper_length_2: '67'
+taxonomy_11_upper_length_3: '670'
+taxonomy_11_upper_length_4: '6704'
+taxonomy_11_upper_length_5: '6704'
+taxonomy_12: version2
+taxonomy_12_capital: Version2
+taxonomy_12_first_letter: v
+taxonomy_12_first_letter_upper: V
+taxonomy_12_length_1: v
+taxonomy_12_length_2: ve
+taxonomy_12_length_3: ver
+taxonomy_12_length_4: vers
+taxonomy_12_length_5: versi
+taxonomy_12_upper: VERSION2
+taxonomy_12_upper_length_1: V
+taxonomy_12_upper_length_2: VE
+taxonomy_12_upper_length_3: VER
+taxonomy_12_upper_length_4: VERS
+taxonomy_12_upper_length_5: VERSI
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: holder
+taxonomy_3_capital: Holder
+taxonomy_3_first_letter: h
+taxonomy_3_first_letter_upper: H
+taxonomy_3_length_1: h
+taxonomy_3_length_2: ho
+taxonomy_3_length_3: hol
+taxonomy_3_length_4: hold
+taxonomy_3_length_5: holde
+taxonomy_3_upper: HOLDER
+taxonomy_3_upper_length_1: H
+taxonomy_3_upper_length_2: HO
+taxonomy_3_upper_length_3: HOL
+taxonomy_3_upper_length_4: HOLD
+taxonomy_3_upper_length_5: HOLDE
+taxonomy_4: motor
+taxonomy_4_capital: Motor
+taxonomy_4_first_letter: m
+taxonomy_4_first_letter_upper: M
+taxonomy_4_length_1: m
+taxonomy_4_length_2: mo
+taxonomy_4_length_3: mot
+taxonomy_4_length_4: moto
+taxonomy_4_length_5: motor
+taxonomy_4_upper: MOTOR
+taxonomy_4_upper_length_1: M
+taxonomy_4_upper_length_2: MO
+taxonomy_4_upper_length_3: MOT
+taxonomy_4_upper_length_4: MOTO
+taxonomy_4_upper_length_5: MOTOR
+taxonomy_5: servo
+taxonomy_5_capital: Servo
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: se
+taxonomy_5_length_3: ser
+taxonomy_5_length_4: serv
+taxonomy_5_length_5: servo
+taxonomy_5_upper: SERVO
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SE
+taxonomy_5_upper_length_3: SER
+taxonomy_5_upper_length_4: SERV
+taxonomy_5_upper_length_5: SERVO
+taxonomy_6: standard
+taxonomy_6_capital: Standard
+taxonomy_6_first_letter: s
+taxonomy_6_first_letter_upper: S
+taxonomy_6_length_1: s
+taxonomy_6_length_2: st
+taxonomy_6_length_3: sta
+taxonomy_6_length_4: stan
+taxonomy_6_length_5: stand
+taxonomy_6_upper: STANDARD
+taxonomy_6_upper_length_1: S
+taxonomy_6_upper_length_2: ST
+taxonomy_6_upper_length_3: STA
+taxonomy_6_upper_length_4: STAN
+taxonomy_6_upper_length_5: STAND
+taxonomy_7: 5_width
+taxonomy_7_capital: 5 Width
+taxonomy_7_first_letter: '5'
+taxonomy_7_first_letter_upper: '5'
+taxonomy_7_length_1: '5'
+taxonomy_7_length_2: '5_'
+taxonomy_7_length_3: 5_w
+taxonomy_7_length_4: 5_wi
+taxonomy_7_length_5: 5_wid
+taxonomy_7_upper: 5_WIDTH
+taxonomy_7_upper_length_1: '5'
+taxonomy_7_upper_length_2: '5_'
+taxonomy_7_upper_length_3: 5_W
+taxonomy_7_upper_length_4: 5_WI
+taxonomy_7_upper_length_5: 5_WID
+taxonomy_8: 3_height
+taxonomy_8_capital: 3 Height
+taxonomy_8_first_letter: '3'
+taxonomy_8_first_letter_upper: '3'
+taxonomy_8_length_1: '3'
+taxonomy_8_length_2: '3_'
+taxonomy_8_length_3: 3_h
+taxonomy_8_length_4: 3_he
+taxonomy_8_length_5: 3_hei
+taxonomy_8_upper: 3_HEIGHT
+taxonomy_8_upper_length_1: '3'
+taxonomy_8_upper_length_2: '3_'
+taxonomy_8_upper_length_3: 3_H
+taxonomy_8_upper_length_4: 3_HE
+taxonomy_8_upper_length_5: 3_HEI
+taxonomy_9: 15_depth
+taxonomy_9_capital: 15 Depth
+taxonomy_9_first_letter: '1'
+taxonomy_9_first_letter_upper: '1'
+taxonomy_9_length_1: '1'
+taxonomy_9_length_2: '15'
+taxonomy_9_length_3: '15_'
+taxonomy_9_length_4: 15_d
+taxonomy_9_length_5: 15_de
+taxonomy_9_upper: 15_DEPTH
+taxonomy_9_upper_length_1: '1'
+taxonomy_9_upper_length_2: '15'
+taxonomy_9_upper_length_3: '15_'
+taxonomy_9_upper_length_4: 15_D
+taxonomy_9_upper_length_5: 15_DE
+variant: version2
+width: 5

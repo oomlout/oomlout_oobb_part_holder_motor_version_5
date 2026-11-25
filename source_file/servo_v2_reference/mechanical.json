@@ -1,0 +1,176 @@
+{
+  "researched_on": "2026-10-20",
+  "units": "mm",
+  "datum": "Z=0 upper servo mounting-ear surface, output spline axis X=Y=0",
+  "profiles": {
+    "mg996r": {
+      "label": "TowerPro MG996R",
+      "body": [
+        40.9,
+        20.0,
+        37.0
+      ],
+      "shaft_offset": 10.0,
+      "case_top": 7.7,
+      "tab_length": 54.0,
+      "tab_thickness": 2.5,
+      "mount_pitch": [
+        49.5,
+        10.0
+      ],
+      "spline_diameter": 5.8,
+      "spline_teeth": 25,
+      "spline_bottom": 9.4,
+      "spline_top": 13.4,
+      "source": "https://towerpro.com.tw/product/mg996r/",
+      "status": "Body/overall/tab envelope from manufacturer; 49.5 mm pitch, tab thickness, shaft offset and exposed spline length are conservative modelling assumptions; slots cover pitch variation.",
+      "retention": {
+        "nominal_diameter": 3.0,
+        "clearance_diameter": 3.4,
+        "head_clearance_diameter": 6.4,
+        "head_envelope_diameter": 5.8,
+        "seat_above_spline": 1.55,
+        "length": 6,
+        "thread": "factory supplied; use model-specific thread",
+        "evidence": "Futaba OEM distinguishes 3mm metal-gear and 2.6mm tapping; Hitec families differ. These are clearance envelopes; exact model thread unconfirmed."
+      }
+    },
+    "hs311": {
+      "label": "Hitec HS-311",
+      "body": [
+        40.0,
+        20.0,
+        36.5
+      ],
+      "shaft_offset": 10.0,
+      "case_top": 7.5,
+      "tab_length": 52.8,
+      "tab_thickness": 2.5,
+      "mount_pitch": [
+        47.8,
+        10.2
+      ],
+      "spline_diameter": 5.76,
+      "spline_teeth": 24,
+      "spline_bottom": 9.0,
+      "spline_top": 12.5,
+      "source": "https://hitecrcd.co.jp/material/spec_sheet/servo/31311.pdf",
+      "status": "Body, tab envelope/pitches, 24 teeth and 5.76 diameter published; tab thickness, shaft offset and exposed spline Z are estimated from drawing.",
+      "retention": {
+        "nominal_diameter": 2.6,
+        "clearance_diameter": 3.0,
+        "head_clearance_diameter": 6.4,
+        "head_envelope_diameter": 5.8,
+        "seat_above_spline": 1.55,
+        "length": 6,
+        "thread": "factory supplied; use model-specific thread",
+        "evidence": "Futaba OEM distinguishes 3mm metal-gear and 2.6mm tapping; Hitec families differ. These are clearance envelopes; exact model thread unconfirmed."
+      }
+    },
+    "fs5106r": {
+      "label": "FEETECH FS5106R",
+      "body": [
+        40.15,
+        20.15,
+        37.2
+      ],
+      "shaft_offset": 10.05,
+      "case_top": 8.65,
+      "tab_length": 54.0,
+      "tab_thickness": 2.65,
+      "mount_pitch": [
+        49.5,
+        10.0
+      ],
+      "spline_diameter": 5.9,
+      "spline_teeth": 25,
+      "spline_bottom": 10.3,
+      "spline_top": 14.3,
+      "source": "https://www.pololu.com/file/0J1433/FS5106R-specs.pdf",
+      "status": "Manufacturer 2021 drawing p5: 40.15 x20.15, case37.2, tabtop28.55, tabbottom25.9, total42.85, pitch49.5x10, shaftoffset10.05; spline lower Z inferred.",
+      "retention": {
+        "nominal_diameter": 3.0,
+        "clearance_diameter": 3.4,
+        "head_clearance_diameter": 6.4,
+        "head_envelope_diameter": 5.8,
+        "seat_above_spline": 1.55,
+        "length": 6,
+        "thread": "factory supplied; use model-specific thread",
+        "evidence": "Futaba OEM distinguishes 3mm metal-gear and 2.6mm tapping; Hitec families differ. These are clearance envelopes; exact model thread unconfirmed."
+      }
+    },
+    "s3004": {
+      "label": "Futaba S3004 envelope",
+      "body": [
+        40.4,
+        19.8,
+        36.0
+      ],
+      "shaft_offset": 10.0,
+      "case_top": 9.0,
+      "tab_length": 54.0,
+      "tab_thickness": 2.5,
+      "mount_pitch": [
+        49.5,
+        10.0
+      ],
+      "spline_diameter": 5.8,
+      "spline_teeth": 25,
+      "spline_bottom": 10.4,
+      "spline_top": 14.0,
+      "source": "https://futabausa.com/wp-content/uploads/2019/07/S3004.pdf",
+      "status": "Published body size; mounting, top-case and shaft Z are conservative standard-servo envelope assumptions, not a certified S3004 CAD model.",
+      "retention": {
+        "nominal_diameter": 2.6,
+        "clearance_diameter": 3.0,
+        "head_clearance_diameter": 6.4,
+        "head_envelope_diameter": 5.8,
+        "seat_above_spline": 1.55,
+        "length": 6,
+        "thread": "factory supplied; use model-specific thread",
+        "evidence": "Futaba OEM distinguishes 3mm metal-gear and 2.6mm tapping; Hitec families differ. These are clearance envelopes; exact model thread unconfirmed."
+      }
+    }
+  },
+  "design": {
+    "case_clearance": 0.6,
+    "lower_inner_race_shoulder": 1.0,
+    "bearing_id": 20,
+    "bearing_od": 27,
+    "bearing_width": 4,
+    "bearing_axial_clearance": 0.1,
+    "slot_centers": [
+      -34.5,
+      14.5
+    ],
+    "slot_length": 4.0,
+    "body_opening": [
+      43.5,
+      21.8
+    ],
+    "body_opening_center": -10.25
+  },
+  "sources": [
+    {
+      "url": "https://www.pololu.com/product/4925",
+      "supports": "25T 5.8 mm Futaba-style spline; retain the horn with the servo supplied screw."
+    },
+    {
+      "url": "https://hitecrcd.com/hs-422-deluxe-standard-servo/",
+      "supports": "Additional standard-size example 40.6 x19.8 x36.6; Hitec24T."
+    },
+    {
+      "url": "https://cdn.skfmediahub.skf.com/api/public/094cc500316fc14e/pdf_preview_medium/094cc500316fc14e_pdf_preview_medium.pdf",
+      "supports": "20 x27 x4 mm 61704/6704 bearing."
+    },
+    {
+      "url": "https://futabausa.com/product-category/accessories/servo-parts/screws/",
+      "supports": "OEM 2mm micro, 2.6mm tapping and 3mm metal-gear screw families."
+    },
+    {
+      "url": "https://hitecrcd.com/servos/servos-parts-and-accessories/screws/",
+      "supports": "HS55 T1.7/L4 and separate resin/metal horn-screw families."
+    }
+  ],
+  "default_profile": "mg996r"
+}

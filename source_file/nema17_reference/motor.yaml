@@ -1,0 +1,146 @@
+drawing_status: reference_with_estimates
+mechanical_details:
+  applicability: representative_family_variant
+  coordinate_system: 'Right handed; XY is output face; +Z towards shaft. Body centre
+    XY, rear face Z=0, except TT: front gearbox edge X=0 and rear X negative.'
+  dimension_evidence:
+    body_depth_mm:
+      source: n17
+      status: drawing
+    body_height_mm:
+      source: n17
+      status: drawing
+    body_width_mm:
+      source: n17
+      status: drawing
+    boss_diameter_mm:
+      source: n17
+      status: drawing
+    boss_height_mm:
+      status: unknown
+    mounting_hole_centers_xy_mm:
+      source: n17
+      status: drawing
+    mounting_hole_count:
+      source: n17
+      status: drawing
+    mounting_hole_depth_mm:
+      source: n17
+      status: drawing
+    mounting_hole_diameter_mm:
+      source: n17
+      status: drawing
+    mounting_pitch_x_mm:
+      source: n17
+      status: drawing
+    mounting_pitch_y_mm:
+      source: n17
+      status: drawing
+    mounting_thread:
+      source: n17
+      status: drawing
+    mounting_through:
+      source: n17
+      status: drawing
+    shaft_center_xy_mm:
+      source: n17
+      status: drawing
+    shaft_diameter_mm:
+      source: n17
+      status: drawing
+    shaft_extension_mm:
+      source: n17
+      status: drawing
+    shaft_flat_length_mm:
+      reason: Boss height and flat length are not called out on SOYO drawing.
+      status: unknown
+    shaft_flat_to_back_mm:
+      source: n17
+      status: drawing
+  dimensions:
+    body_depth_mm: 38
+    body_height_mm: 42.3
+    body_width_mm: 42.3
+    boss_diameter_mm: 22
+    boss_height_mm: null
+    mounting_hole_centers_xy_mm:
+    - - -15.5
+      - -15.5
+    - - -15.5
+      - 15.5
+    - - 15.5
+      - -15.5
+    - - 15.5
+      - 15.5
+    mounting_hole_count: 4
+    mounting_hole_depth_mm: 4.5
+    mounting_hole_diameter_mm: 3
+    mounting_pitch_x_mm: 31
+    mounting_pitch_y_mm: 31
+    mounting_thread: M3
+    mounting_through: false
+    shaft_center_xy_mm:
+    - 0
+    - 0
+    shaft_diameter_mm: 5
+    shaft_extension_mm: 24
+    shaft_flat_length_mm: null
+    shaft_flat_to_back_mm: 4.5
+  family: stepper
+  model_estimates:
+    boss_height_mm:
+      reason: Boss height and flat length are not called out on SOYO drawing.
+      status: illustrative_estimate
+      value: 2
+    shaft_flat_length_mm:
+      reason: Boss height and flat length are not called out on SOYO drawing.
+      status: illustrative_estimate
+      value: 20
+  model_limitations:
+  - External reference geometry; wires, internal gears, threads and spline teeth omitted.
+  notes:
+  - 'NEMA is a frame family: body length, shaft and holes here belong to the named
+    reference motor.'
+  - Threaded bores are drawn at nominal thread diameter, not tap-drill size.
+  reference_model: SOYO SY42STH38-1684A
+  schema_version: 1
+  shaft_profile: single_flat
+  sources:
+  - accessed: '2026-10-07'
+    id: n17
+    local_file: source_file/dimension/nema17.pdf
+    title: SOYO SY42STH38-1684A drawing, page 1
+    url: https://www.pololu.com/file/0J714/SY42STH38-1684A.pdf
+  tolerances:
+    body_height_mm: maximum
+    body_width_mm: maximum
+    mounting_pitch_xy_mm: +/-0.2
+    shaft_extension_mm: +/-1
+  units: mm
+oobb_details:
+  model_units: mm
+  modes:
+  - 'true'
+  oobb_name: motor
+svg_details:
+- dimensioned: true
+  filename: working_mechanical_drawing
+  svg_name: motor
+- dimensioned: false
+  filename: working_mechanical_drawing_bare
+  svg_name: motor
+taxonomy_1: motor
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: stepper
+taxonomy_3: nema_17
+taxonomy_4: ''
+taxonomy_5: ''
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''

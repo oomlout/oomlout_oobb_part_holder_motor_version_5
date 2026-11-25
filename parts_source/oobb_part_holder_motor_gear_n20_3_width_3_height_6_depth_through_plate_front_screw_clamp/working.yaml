@@ -1,0 +1,138 @@
+depth: 6
+depth_note: Maximum individual print-piece Z extent; installed motor/output bounds
+  are recorded with the rendered assembly.
+face_width: 3
+family: n20_holder
+fit_note: Default 25-30 mm rear uses M3 x 35 for the measured 25.6 mm motor profile.
+  Use the range-wide screw lengths for the longest body in each band, or choose a
+  shorter screw for the measured body while fully engaging the nut. M1.6 x 4 face
+  screws retain 1 mm nominal engagement. Physical fit and clamp torque require testing.
+geometry_note: 'Holder only: plain OOBB grid, M1.6 motor face screws, two front M3
+  countersunk tension screws and top-loaded native OOBB rear nut pockets. The entry
+  step guides the gearbox, and the rear bears on the flat end cap around the boss.
+  Two outer-row M3 pockets accept attachment nuts from the rear. Rear is 6 mm thick
+  with off-grid structural screw axes; no rails or sleeves. Range-wide screw lengths
+  are M3 x 35 / 40 / 45; tips can project beyond the slim rear.'
+geometry_reference: source_file/n20_reference/dimensions.yaml
+grid_pitch_mm: 15
+height: 3
+holder_style: through_plate
+motor_style: n20
+motor_type: gear
+oobb_details:
+  attachment_nut_centers_mm:
+  - - -7.5
+    - 15
+  - - 7.5
+    - 15
+  bearing_axial_clearance_mm: 0.2
+  bearing_bottom_mm: 10
+  bearing_clamp_access_radius_mm: 1.45
+  bearing_id_mm: 20
+  bearing_join_centers_mm:
+  - - -22.5
+    - -7.5
+  - - -22.5
+    - 7.5
+  - - 22.5
+    - -7.5
+  - - 22.5
+    - 7.5
+  bearing_join_screw_length_mm: 25
+  bearing_nut_block_bottom_mm: -9.5
+  bearing_nut_block_depth_mm: 6.5
+  bearing_od_mm: 27
+  bearing_seat_diameter_clearance_mm: 0.3
+  bearing_spacer_bottom_mm: 3
+  bearing_spacer_top_mm: 8.8
+  bearing_width_mm: 4
+  body_clearance_mm: 0.25
+  boss_diameter_mm: 4
+  boss_height_mm: 0.7
+  clamp_centers_x_mm:
+  - -10.75
+  - 10.75
+  clamp_driver_radius_mm: 1.4
+  collet_cap_travel_mm: 0.5
+  collet_radial_clearance_mm: 0.05
+  cradle_axis_height_mm: 30
+  depth: 6
+  extended_rear_shaft: true
+  face_bottom_mm: -3
+  face_top_mm: 3
+  face_width: 3
+  gearbox_length_mm: 9
+  grid_pitch_mm: 15
+  grip_bottom_mm: 1.5
+  height: 3
+  holder_style: through_plate
+  journal_diameter_clearance_mm: 0.2
+  metal_hub_depth_mm: 5
+  metal_hub_diameter_mm: 17.5
+  metal_hub_pcd_mm: 12.7
+  minimum_grid_web_mm: 0.7
+  motor_body_length_mm: 25.6
+  motor_brush_style: precious_metal
+  motor_face_countersink_lift_mm: 0.4
+  motor_face_screw_length_mm: 4
+  motor_face_screw_pitch_mm: 9
+  motor_height_mm: 10
+  motor_length_max_mm: 35
+  motor_length_min_mm: 20
+  motor_pocket_fit_values_mm:
+  - 0.15
+  - 0.25
+  - 0.35
+  motor_style: n20
+  motor_thread_engagement_limit_mm: 1.3
+  motor_type: gear
+  motor_width_mm: 12
+  oobb_name: holder_motor_gear_n20_holder_only
+  output_bottom_mm: 18
+  output_thickness_mm: 8
+  press_fit_profile_offset_mm: 0
+  rear_clamp_depth_mm: 6
+  rear_clamp_height_mm: 12
+  rear_clamp_screw_length_mm: 35
+  rear_clamp_width_mm: 31
+  rear_nut_depth_mm: 3.2
+  rear_nut_recess_mm: 0.5
+  rear_range_mm:
+  - 25
+  - 30
+  rear_ranges_mm:
+  - - 20
+    - 25
+  - - 25
+    - 30
+  - - 30
+    - 35
+  shaft_diameter_mm: 3
+  shaft_extension_mm: 10
+  shaft_fit_values_mm:
+  - 0
+  - 0.05
+  - 0.1
+  - 0.15
+  shaft_flat_mm: 2.5
+  shaft_profile_offset_mm: 0.08
+  variant: through_plate_front_screw_clamp
+  width: 3
+oobb_name: holder_motor_gear_n20_holder_only
+taxonomy_1: oobb
+taxonomy_10: through_plate_front_screw_clamp
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: holder
+taxonomy_4: motor
+taxonomy_5: gear
+taxonomy_6: n20
+taxonomy_7: 3_width
+taxonomy_8: 3_height
+taxonomy_9: 6_depth
+variant: through_plate_front_screw_clamp
+width: 3

@@ -1,0 +1,266 @@
+bip_39_2_word_array:
+- bamboo
+- emotion
+bip_39_2_word_no_space: bambooemotion
+bip_39_2_word_space: bamboo emotion
+bip_39_2_word_underscore: bamboo_emotion
+bip_39_3_word_array:
+- bamboo
+- emotion
+- total
+bip_39_3_word_no_space: bambooemotiontotal
+bip_39_3_word_space: bamboo emotion total
+bip_39_3_word_underscore: bamboo_emotion_total
+bip_39_full_array:
+- bamboo
+- emotion
+- total
+- digital
+- radar
+- food
+- habit
+- science
+- rude
+- practice
+- penalty
+- occur
+bip_39_full_no_space: bambooemotiontotaldigitalradarfoodhabitsciencerudepracticepenaltyoccur
+bip_39_full_space: bamboo emotion total digital radar food habit science rude practice
+    penalty occur
+bip_39_full_underscore: bamboo_emotion_total_digital_radar_food_habit_science_rude_practice_penalty_occur
+depth: 8
+depth_note: Tallest print-layout piece; see assembly views for installed dimensions.
+directory: parts/oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct
+family: assembly
+filter: holder_motor_gear_tt_v2
+fit_note: Reference SOYO 42.3 x 42.3 x 38 mm, 24 mm shaft. Boss height 2 mm is an
+    estimate. Physical fits untested.
+geometry_note: NEMA17, 5 mm bore metal flange coupler; complete M6/OOBB and M3/OOBE
+    grids except documented mechanical exclusions.
+geometry_reference: source_file/nema17_reference/
+grid_pitch_mm: 15
+height: 5
+id: oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct
+id_no_class: oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct
+id_no_size: oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct
+id_no_type: oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct
+md5: 12091b971efb0ab59a0e07bcf52e8a4c
+md5_10: 12091b971e
+md5_10_upper: 12091B971E
+md5_5: '12091'
+md5_5_upper: '12091'
+md5_6: 12091b
+md5_6_alpha: pc0r
+md5_6_alpha_upper: PC0R
+md5_6_upper: 12091B
+motor_style: nema17
+motor_type: stepper
+name: Oobb Part Holder Motor Stepper Nema17 5 Width 5 Height 8 Depth Straight Direct
+name_no_class: Oobb Part Holder Motor Stepper Nema17 5 Width 5 Height 8 Depth Straight
+    Direct
+name_no_size: Oobb Part Holder Motor Stepper Nema17 5 Width 5 Height 8 Depth Straight
+    Direct
+name_no_type: Oobb Part Holder Motor Stepper Nema17 5 Width 5 Height 8 Depth Straight
+    Direct
+name_proper: Oobb Part Holder Motor Stepper Nema17 5 Width 5 Height 8 Depth Straight
+    Direct
+name_space: oobb part holder motor stepper nema17 5 width 5 height 8 depth straight
+    direct
+name_upper: OOBB PART HOLDER MOTOR STEPPER NEMA17 5 WIDTH 5 HEIGHT 8 DEPTH STRAIGHT
+    DIRECT
+navigation: false
+oobb_details:
+    bearing_axial_clearance_mm: 0.2
+    bearing_diameter_clearance_mm: 0.3
+    coupler_angle_deg: 45
+    coupler_flange_diameter_mm: 22
+    coupler_flange_thickness_mm: 2
+    coupler_hub_diameter_mm: 10
+    coupler_hub_length_mm: 10
+    coupler_nut_lid_diameter_clearance_mm: 0.25
+    coupler_pcd_mm: 16
+    depth: 8
+    grid_pitch_mm: 15
+    height: 5
+    journal_diameter_clearance_mm: 0.15
+    motor_body_mm: 42.3
+    motor_boss_diameter_mm: 22
+    motor_boss_height_mm: 2
+    motor_length_mm: 38
+    motor_pitch_mm: 31
+    motor_style: nema17
+    motor_type: stepper
+    oobb_name: holder_motor_stepper_nema17_assembly
+    orientation: straight
+    output_style: square
+    shaft_diameter_mm: 5
+    shaft_extension_mm: 24
+    support: direct
+    variant: straight_direct
+    width: 5
+oobb_name: holder_motor_stepper_nema17_assembly
+oomp_key: oomp_oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct
+orientation: straight
+output_style: square
+project_name: oomlout_oobb_part_holder_motor_version_5
+support: direct
+taxonomy_1: oobb
+taxonomy_10: straight_direct
+taxonomy_10_capital: Straight Direct
+taxonomy_10_first_letter: s
+taxonomy_10_first_letter_upper: S
+taxonomy_10_length_1: s
+taxonomy_10_length_2: st
+taxonomy_10_length_3: str
+taxonomy_10_length_4: stra
+taxonomy_10_length_5: strai
+taxonomy_10_upper: STRAIGHT_DIRECT
+taxonomy_10_upper_length_1: S
+taxonomy_10_upper_length_2: ST
+taxonomy_10_upper_length_3: STR
+taxonomy_10_upper_length_4: STRA
+taxonomy_10_upper_length_5: STRAI
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: holder
+taxonomy_3_capital: Holder
+taxonomy_3_first_letter: h
+taxonomy_3_first_letter_upper: H
+taxonomy_3_length_1: h
+taxonomy_3_length_2: ho
+taxonomy_3_length_3: hol
+taxonomy_3_length_4: hold
+taxonomy_3_length_5: holde
+taxonomy_3_upper: HOLDER
+taxonomy_3_upper_length_1: H
+taxonomy_3_upper_length_2: HO
+taxonomy_3_upper_length_3: HOL
+taxonomy_3_upper_length_4: HOLD
+taxonomy_3_upper_length_5: HOLDE
+taxonomy_4: motor
+taxonomy_4_capital: Motor
+taxonomy_4_first_letter: m
+taxonomy_4_first_letter_upper: M
+taxonomy_4_length_1: m
+taxonomy_4_length_2: mo
+taxonomy_4_length_3: mot
+taxonomy_4_length_4: moto
+taxonomy_4_length_5: motor
+taxonomy_4_upper: MOTOR
+taxonomy_4_upper_length_1: M
+taxonomy_4_upper_length_2: MO
+taxonomy_4_upper_length_3: MOT
+taxonomy_4_upper_length_4: MOTO
+taxonomy_4_upper_length_5: MOTOR
+taxonomy_5: stepper
+taxonomy_5_capital: Stepper
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: st
+taxonomy_5_length_3: ste
+taxonomy_5_length_4: step
+taxonomy_5_length_5: stepp
+taxonomy_5_upper: STEPPER
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: ST
+taxonomy_5_upper_length_3: STE
+taxonomy_5_upper_length_4: STEP
+taxonomy_5_upper_length_5: STEPP
+taxonomy_6: nema17
+taxonomy_6_capital: Nema17
+taxonomy_6_first_letter: n
+taxonomy_6_first_letter_upper: N
+taxonomy_6_length_1: n
+taxonomy_6_length_2: ne
+taxonomy_6_length_3: nem
+taxonomy_6_length_4: nema
+taxonomy_6_length_5: nema1
+taxonomy_6_upper: NEMA17
+taxonomy_6_upper_length_1: N
+taxonomy_6_upper_length_2: NE
+taxonomy_6_upper_length_3: NEM
+taxonomy_6_upper_length_4: NEMA
+taxonomy_6_upper_length_5: NEMA1
+taxonomy_7: 5_width
+taxonomy_7_capital: 5 Width
+taxonomy_7_first_letter: '5'
+taxonomy_7_first_letter_upper: '5'
+taxonomy_7_length_1: '5'
+taxonomy_7_length_2: '5_'
+taxonomy_7_length_3: 5_w
+taxonomy_7_length_4: 5_wi
+taxonomy_7_length_5: 5_wid
+taxonomy_7_upper: 5_WIDTH
+taxonomy_7_upper_length_1: '5'
+taxonomy_7_upper_length_2: '5_'
+taxonomy_7_upper_length_3: 5_W
+taxonomy_7_upper_length_4: 5_WI
+taxonomy_7_upper_length_5: 5_WID
+taxonomy_8: 5_height
+taxonomy_8_capital: 5 Height
+taxonomy_8_first_letter: '5'
+taxonomy_8_first_letter_upper: '5'
+taxonomy_8_length_1: '5'
+taxonomy_8_length_2: '5_'
+taxonomy_8_length_3: 5_h
+taxonomy_8_length_4: 5_he
+taxonomy_8_length_5: 5_hei
+taxonomy_8_upper: 5_HEIGHT
+taxonomy_8_upper_length_1: '5'
+taxonomy_8_upper_length_2: '5_'
+taxonomy_8_upper_length_3: 5_H
+taxonomy_8_upper_length_4: 5_HE
+taxonomy_8_upper_length_5: 5_HEI
+taxonomy_9: 8_depth
+taxonomy_9_capital: 8 Depth
+taxonomy_9_first_letter: '8'
+taxonomy_9_first_letter_upper: '8'
+taxonomy_9_length_1: '8'
+taxonomy_9_length_2: '8_'
+taxonomy_9_length_3: 8_d
+taxonomy_9_length_4: 8_de
+taxonomy_9_length_5: 8_dep
+taxonomy_9_upper: 8_DEPTH
+taxonomy_9_upper_length_1: '8'
+taxonomy_9_upper_length_2: '8_'
+taxonomy_9_upper_length_3: 8_D
+taxonomy_9_upper_length_4: 8_DE
+taxonomy_9_upper_length_5: 8_DEP
+variant: straight_direct
+width: 5

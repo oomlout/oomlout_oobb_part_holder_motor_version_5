@@ -1,0 +1,303 @@
+bearing_size: '6810'
+bip_39_2_word_array:
+- room
+- chicken
+bip_39_2_word_no_space: roomchicken
+bip_39_2_word_space: room chicken
+bip_39_2_word_underscore: room_chicken
+bip_39_3_word_array:
+- room
+- chicken
+- inspire
+bip_39_3_word_no_space: roomchickeninspire
+bip_39_3_word_space: room chicken inspire
+bip_39_3_word_underscore: room_chicken_inspire
+bip_39_full_array:
+- room
+- chicken
+- inspire
+- luxury
+- slot
+- kiwi
+- stumble
+- surprise
+- scout
+- keep
+- tray
+- pioneer
+bip_39_full_no_space: roomchickeninspireluxuryslotkiwistumblesurprisescoutkeeptraypioneer
+bip_39_full_space: room chicken inspire luxury slot kiwi stumble surprise scout keep
+    tray pioneer
+bip_39_full_underscore: room_chicken_inspire_luxury_slot_kiwi_stumble_surprise_scout_keep_tray_pioneer
+depth: 12
+depth_note: 12 mm stationary shell; tallest print is the 26.4 mm output with integrated
+    journal and drive tube.
+directory: parts/oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810
+family: assembly
+filter: holder_motor_gear_n20
+fit_note: Reference SOYO 42.3 x 42.3 x 38 mm, 24 mm shaft. Boss height 2 mm is an
+    estimate. Physical fits untested.
+geometry_note: NEMA17, 5 mm bore metal flange coupler; complete M6/OOBB and M3/OOBE
+    grids except documented mechanical exclusions.
+geometry_reference: source_file/nema17_reference/
+grid_pitch_mm: 15
+height: 7
+id: oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810
+id_no_class: oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810
+id_no_size: oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810
+id_no_type: oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810
+md5: bbe4f5d542acc0f6f5eed3c14f3b9ed2
+md5_10: bbe4f5d542
+md5_10_upper: BBE4F5D542
+md5_5: bbe4f
+md5_5_upper: BBE4F
+md5_6: bbe4f5
+md5_6_alpha: 7bxf9
+md5_6_alpha_upper: 7BXF9
+md5_6_upper: BBE4F5
+motor_style: nema17
+motor_type: stepper
+name: Oobb Part Holder Motor Stepper Nema17 7 Width 7 Height 12 Depth Bearing 6810
+    Straight 6810
+name_no_class: Oobb Part Holder Motor Stepper Nema17 7 Width 7 Height 12 Depth Bearing
+    6810 Straight 6810
+name_no_size: Oobb Part Holder Motor Stepper Nema17 7 Width 7 Height 12 Depth Bearing
+    6810 Straight 6810
+name_no_type: Oobb Part Holder Motor Stepper Nema17 7 Width 7 Height 12 Depth Bearing
+    6810 Straight 6810
+name_proper: Oobb Part Holder Motor Stepper Nema17 7 Width 7 Height 12 Depth Bearing
+    6810 Straight 6810
+name_space: oobb part holder motor stepper nema17 7 width 7 height 12 depth bearing
+    6810 straight 6810
+name_upper: OOBB PART HOLDER MOTOR STEPPER NEMA17 7 WIDTH 7 HEIGHT 12 DEPTH BEARING
+    6810 STRAIGHT 6810
+navigation: false
+oobb_details:
+    bearing_axial_clearance_mm: 0.2
+    bearing_diameter_clearance_mm: 0.3
+    bearing_size: '6810'
+    coupler_angle_deg: 45
+    coupler_flange_diameter_mm: 22
+    coupler_flange_thickness_mm: 2
+    coupler_hub_diameter_mm: 10
+    coupler_hub_length_mm: 10
+    coupler_nut_disc_interference_mm: 0.1
+    coupler_nut_lid_diameter_clearance_mm: 0.25
+    coupler_pcd_mm: 16
+    depth: 12
+    drive_tube_holder_radial_clearance_mm: 1.5
+    drive_tube_id_clearance_mm: 0.3
+    drive_tube_length_difference_mm: 6
+    grid_pitch_mm: 15
+    height: 7
+    journal_diameter_clearance_mm: 0.15
+    journal_length_mm: 22.4
+    motor_body_mm: 42.3
+    motor_boss_diameter_mm: 22
+    motor_boss_height_mm: 2
+    motor_length_mm: 38
+    motor_pitch_mm: 31
+    motor_style: nema17
+    motor_type: stepper
+    oobb_name: holder_motor_stepper_nema17_assembly
+    orientation: straight
+    output_style: square
+    shaft_diameter_mm: 5
+    shaft_extension_mm: 24
+    support: '6810'
+    variant: straight_6810
+    width: 7
+oobb_name: holder_motor_stepper_nema17_assembly
+oomp_key: oomp_oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810
+orientation: straight
+output_style: square
+project_name: oomlout_oobb_part_holder_motor_version_5
+support: '6810'
+taxonomy_1: oobb
+taxonomy_10: bearing
+taxonomy_10_capital: Bearing
+taxonomy_10_first_letter: b
+taxonomy_10_first_letter_upper: B
+taxonomy_10_length_1: b
+taxonomy_10_length_2: be
+taxonomy_10_length_3: bea
+taxonomy_10_length_4: bear
+taxonomy_10_length_5: beari
+taxonomy_10_upper: BEARING
+taxonomy_10_upper_length_1: B
+taxonomy_10_upper_length_2: BE
+taxonomy_10_upper_length_3: BEA
+taxonomy_10_upper_length_4: BEAR
+taxonomy_10_upper_length_5: BEARI
+taxonomy_11: '6810'
+taxonomy_11_capital: '6810'
+taxonomy_11_first_letter: '6'
+taxonomy_11_first_letter_upper: '6'
+taxonomy_11_length_1: '6'
+taxonomy_11_length_2: '68'
+taxonomy_11_length_3: '681'
+taxonomy_11_length_4: '6810'
+taxonomy_11_length_5: '6810'
+taxonomy_11_upper: '6810'
+taxonomy_11_upper_length_1: '6'
+taxonomy_11_upper_length_2: '68'
+taxonomy_11_upper_length_3: '681'
+taxonomy_11_upper_length_4: '6810'
+taxonomy_11_upper_length_5: '6810'
+taxonomy_12: straight_6810
+taxonomy_12_capital: Straight 6810
+taxonomy_12_first_letter: s
+taxonomy_12_first_letter_upper: S
+taxonomy_12_length_1: s
+taxonomy_12_length_2: st
+taxonomy_12_length_3: str
+taxonomy_12_length_4: stra
+taxonomy_12_length_5: strai
+taxonomy_12_upper: STRAIGHT_6810
+taxonomy_12_upper_length_1: S
+taxonomy_12_upper_length_2: ST
+taxonomy_12_upper_length_3: STR
+taxonomy_12_upper_length_4: STRA
+taxonomy_12_upper_length_5: STRAI
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: holder
+taxonomy_3_capital: Holder
+taxonomy_3_first_letter: h
+taxonomy_3_first_letter_upper: H
+taxonomy_3_length_1: h
+taxonomy_3_length_2: ho
+taxonomy_3_length_3: hol
+taxonomy_3_length_4: hold
+taxonomy_3_length_5: holde
+taxonomy_3_upper: HOLDER
+taxonomy_3_upper_length_1: H
+taxonomy_3_upper_length_2: HO
+taxonomy_3_upper_length_3: HOL
+taxonomy_3_upper_length_4: HOLD
+taxonomy_3_upper_length_5: HOLDE
+taxonomy_4: motor
+taxonomy_4_capital: Motor
+taxonomy_4_first_letter: m
+taxonomy_4_first_letter_upper: M
+taxonomy_4_length_1: m
+taxonomy_4_length_2: mo
+taxonomy_4_length_3: mot
+taxonomy_4_length_4: moto
+taxonomy_4_length_5: motor
+taxonomy_4_upper: MOTOR
+taxonomy_4_upper_length_1: M
+taxonomy_4_upper_length_2: MO
+taxonomy_4_upper_length_3: MOT
+taxonomy_4_upper_length_4: MOTO
+taxonomy_4_upper_length_5: MOTOR
+taxonomy_5: stepper
+taxonomy_5_capital: Stepper
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: st
+taxonomy_5_length_3: ste
+taxonomy_5_length_4: step
+taxonomy_5_length_5: stepp
+taxonomy_5_upper: STEPPER
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: ST
+taxonomy_5_upper_length_3: STE
+taxonomy_5_upper_length_4: STEP
+taxonomy_5_upper_length_5: STEPP
+taxonomy_6: nema17
+taxonomy_6_capital: Nema17
+taxonomy_6_first_letter: n
+taxonomy_6_first_letter_upper: N
+taxonomy_6_length_1: n
+taxonomy_6_length_2: ne
+taxonomy_6_length_3: nem
+taxonomy_6_length_4: nema
+taxonomy_6_length_5: nema1
+taxonomy_6_upper: NEMA17
+taxonomy_6_upper_length_1: N
+taxonomy_6_upper_length_2: NE
+taxonomy_6_upper_length_3: NEM
+taxonomy_6_upper_length_4: NEMA
+taxonomy_6_upper_length_5: NEMA1
+taxonomy_7: 7_width
+taxonomy_7_capital: 7 Width
+taxonomy_7_first_letter: '7'
+taxonomy_7_first_letter_upper: '7'
+taxonomy_7_length_1: '7'
+taxonomy_7_length_2: '7_'
+taxonomy_7_length_3: 7_w
+taxonomy_7_length_4: 7_wi
+taxonomy_7_length_5: 7_wid
+taxonomy_7_upper: 7_WIDTH
+taxonomy_7_upper_length_1: '7'
+taxonomy_7_upper_length_2: '7_'
+taxonomy_7_upper_length_3: 7_W
+taxonomy_7_upper_length_4: 7_WI
+taxonomy_7_upper_length_5: 7_WID
+taxonomy_8: 7_height
+taxonomy_8_capital: 7 Height
+taxonomy_8_first_letter: '7'
+taxonomy_8_first_letter_upper: '7'
+taxonomy_8_length_1: '7'
+taxonomy_8_length_2: '7_'
+taxonomy_8_length_3: 7_h
+taxonomy_8_length_4: 7_he
+taxonomy_8_length_5: 7_hei
+taxonomy_8_upper: 7_HEIGHT
+taxonomy_8_upper_length_1: '7'
+taxonomy_8_upper_length_2: '7_'
+taxonomy_8_upper_length_3: 7_H
+taxonomy_8_upper_length_4: 7_HE
+taxonomy_8_upper_length_5: 7_HEI
+taxonomy_9: 12_depth
+taxonomy_9_capital: 12 Depth
+taxonomy_9_first_letter: '1'
+taxonomy_9_first_letter_upper: '1'
+taxonomy_9_length_1: '1'
+taxonomy_9_length_2: '12'
+taxonomy_9_length_3: '12_'
+taxonomy_9_length_4: 12_d
+taxonomy_9_length_5: 12_de
+taxonomy_9_upper: 12_DEPTH
+taxonomy_9_upper_length_1: '1'
+taxonomy_9_upper_length_2: '12'
+taxonomy_9_upper_length_3: '12_'
+taxonomy_9_upper_length_4: 12_D
+taxonomy_9_upper_length_5: 12_DE
+variant: straight_6810
+width: 7

@@ -1,0 +1,64 @@
+depth: 7.45
+depth_note: Tallest coupon height; 146 x 103 mm print layout. Socket openings face
+  the bed, matching the production adapter.
+family: fit_test
+fit_depth_adjustments_mm:
+- -0.6
+- 0
+- 0.6
+fit_diameter_adjustments_mm:
+- -0.6
+- -0.3
+- 0
+- 0.3
+- 0.6
+fit_note: 'Coarse first pass: D=-0.6/-0.3/0/+0.3/+0.6 mm on both taper diameters;
+  Z=-0.6/0/+0.6 mm socket depth with matching head-seat shift. See SERVO_ADAPTER_FIT.md.'
+geometry_note: Fifteen labelled socket-down adapter coupons with native two-layer
+  nut-style roof bridges and factory screw head seats.
+geometry_reference: source_file/servo_v2_reference/mechanical.json
+grid_pitch_mm: 15
+height: 8
+motor_style: standard
+motor_type: servo
+oobb_details:
+  depth: 7.45
+  fit_depth_adjustments_mm:
+  - -0.6
+  - 0
+  - 0.6
+  fit_diameter_adjustments_mm:
+  - -0.6
+  - -0.3
+  - 0
+  - 0.3
+  - 0.6
+  grid_pitch_mm: 15
+  height: 8
+  motor_style: standard
+  motor_type: servo
+  oobb_name: holder_motor_servo_standard_adapter_fit_test
+  socket_profile: mg996r
+  spacer_thickness_mm: 1
+  variant: adapter_fit_test_v1
+  width: 10
+oobb_name: holder_motor_servo_standard_adapter_fit_test
+socket_profile: mg996r
+spacer_thickness_mm: 1
+taxonomy_1: oobb
+taxonomy_10: adapter_fit_test_v1
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: holder
+taxonomy_4: motor
+taxonomy_5: servo
+taxonomy_6: standard
+taxonomy_7: 10_width
+taxonomy_8: 8_height
+taxonomy_9: 7d45_depth
+variant: adapter_fit_test_v1
+width: 10

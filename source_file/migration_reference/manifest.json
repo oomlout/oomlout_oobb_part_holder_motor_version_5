@@ -1,0 +1,50 @@
+[
+  {
+    "drawing": "holder_motor_gear_tt",
+    "legacy_id": "oobb_holder_motor_gearmotor_01_06_03_06",
+    "source": "C:\\gh\\oomlout_oobb_version_3\\things\\oobb_holder_motor_gearmotor_01_06_03_06\\3dpr.scad",
+    "sha256": "26e8031026ee9c57dbaec47aa23f2a6a1e5f63d58b11a705c040456d6cbb039d"
+  },
+  {
+    "drawing": "holder_motor_servo_micro",
+    "legacy_id": "oobb_holder_motor_servo_micro_01_04_03_03",
+    "source": "C:\\gh\\oomlout_oobb_version_3\\things\\oobb_holder_motor_servo_micro_01_04_03_03\\3dpr.scad",
+    "sha256": "1f3a4971c21c7e40621433bffadc13213798fde816ef771fe4445349f02a835d"
+  },
+  {
+    "drawing": "holder_motor_servo_standard",
+    "legacy_id": "oobb_holder_motor_servo_standard_01_05_03_03",
+    "source": "C:\\gh\\oomlout_oobb_version_3\\things\\oobb_holder_motor_servo_standard_01_05_03_03\\3dpr.scad",
+    "sha256": "aec8351a110523d48adbf938b5f3580da9e58a81ebb35cd9ef26179dc4b9b0ef"
+  },
+  {
+    "drawing": "holder_motor_servo_standard_bottom",
+    "legacy_id": "oobb_holder_motor_servo_standard_01_bottom_05_03_55",
+    "source": "C:\\gh\\oomlout_oobb_version_3\\things\\oobb_holder_motor_servo_standard_01_bottom_05_03_55\\3dpr.scad",
+    "sha256": "6a105d43422bfc594706d3be5f1ef93d55e1d949dfba32d49b1c19ec12b3dbeb"
+  },
+  {
+    "drawing": "bearing_plate_motor_gear_tt",
+    "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01",
+    "source": "C:\\gh\\oomlout_oobb_version_3\\things\\oobb_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01\\3dpr.scad",
+    "sha256": "134e7e66e8e0b7da5710839b65f7728f7b99e82e58f7733ff90e51c247aa577e"
+  },
+  {
+    "drawing": "bearing_plate_motor_servo_micro",
+    "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_servo_micro_01",
+    "source": "C:\\gh\\oomlout_oobb_version_3\\things\\oobb_bearing_plate_03_03_12_6704_sh_motor_servo_micro_01\\3dpr.scad",
+    "sha256": "c0a16c043b97f80c0579d4c52932b51c7f2edb0fe920ed9d37e96f8d53efbe87"
+  },
+  {
+    "drawing": "bearing_plate_motor_servo_standard_printed",
+    "legacy_id": "oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_printed_sh_motor_servo_standard_01",
+    "source": "C:\\gh\\oomlout_oobb_version_3\\things\\oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_printed_sh_motor_servo_standard_01\\3dpr.scad",
+    "sha256": "e38460b6ca3f8864b433aec8b086814e563e612f40483636e6d2f794a5b29040"
+  },
+  {
+    "drawing": "bearing_plate_motor_servo_standard_screws",
+    "legacy_id": "oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01",
+    "source": "C:\\gh\\oomlout_oobb_version_3\\things\\oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01\\3dpr.scad",
+    "sha256": "6bc77c0d36dba75fa7fb5aec67122193caaf1d60cdd132019d0ee71f50e682a4"
+  }
+]

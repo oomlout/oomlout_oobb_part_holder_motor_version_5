@@ -1,0 +1,84 @@
+{
+  "id": "oobb_part_holder_motor_stepper_nema17_5_width_3_height_12_depth_bearing_6705_clamshell_circle",
+  "passed": true,
+  "watertight_print_solids": 9,
+  "print_bounds_mm": [
+    [
+      -37.0,
+      -23.98816037056963,
+      0.0
+    ],
+    [
+      244.0,
+      131.99013364214136,
+      12.0
+    ]
+  ],
+  "checked_grid_holes": 74,
+  "grid_counts": {
+    "holder": {
+      "motor_face:m6": {
+        "included": 6,
+        "excluded": 9
+      },
+      "motor_face:m3": {
+        "included": 22,
+        "excluded": 8
+      }
+    },
+    "output": {
+      "circular_output_upper:m6": {
+        "included": 1,
+        "excluded": 8
+      },
+      "circular_output_upper:m3": {
+        "included": 6,
+        "excluded": 10
+      }
+    },
+    "bearing_housing": {
+      "clamshell_lower:m6": {
+        "included": 10,
+        "excluded": 5
+      },
+      "clamshell_lower:m3": {
+        "included": 6,
+        "excluded": 24
+      }
+    },
+    "bearing_cap": {
+      "clamshell_upper:m6": {
+        "included": 10,
+        "excluded": 5
+      },
+      "clamshell_upper:m3": {
+        "included": 6,
+        "excluded": 24
+      }
+    },
+    "hub": {
+      "circular_output_lower:m6": {
+        "included": 1,
+        "excluded": 8
+      },
+      "circular_output_lower:m3": {
+        "included": 6,
+        "excluded": 10
+      }
+    }
+  },
+  "intersection_volumes_mm3": {
+    "motor": 0.0,
+    "coupler": 0.0,
+    "bearing": 0.0,
+    "stack_fasteners": 0.0,
+    "rotor_0": 0.0,
+    "rotor_22.5": 0.0,
+    "rotor_45": 0.0,
+    "rotor_90": 0.0
+  },
+  "captured_nuts_checked": 4,
+  "flush_motor_countersinks": 4,
+  "nut_pockets_with_overhang": 22,
+  "physical_fit_tested": false
+}

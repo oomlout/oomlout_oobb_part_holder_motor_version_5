@@ -1,0 +1,1237 @@
+{
+  "passed": true,
+  "checks": 289,
+  "physical_fit_tested": false,
+  "shaft_dimensions_provisional": true,
+  "results": [
+    {
+      "test": "five_catalogue_entries",
+      "passed": true
+    },
+    {
+      "test": "version2_parts_source_metadata",
+      "passed": true
+    },
+    {
+      "test": "version2_parts_metadata",
+      "passed": true
+    },
+    {
+      "test": "version2_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "version2_debug_propagates",
+      "passed": true
+    },
+    {
+      "test": "version2_native_standalone_scad",
+      "passed": true
+    },
+    {
+      "test": "testing_shaft_parts_parts_source_metadata",
+      "passed": true
+    },
+    {
+      "test": "testing_shaft_parts_parts_metadata",
+      "passed": true
+    },
+    {
+      "test": "testing_shaft_parts_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "testing_shaft_parts_debug_propagates",
+      "passed": true
+    },
+    {
+      "test": "testing_shaft_parts_native_standalone_scad",
+      "passed": true
+    },
+    {
+      "test": "testing_motor_mount_parts_source_metadata",
+      "passed": true
+    },
+    {
+      "test": "testing_motor_mount_parts_metadata",
+      "passed": true
+    },
+    {
+      "test": "testing_motor_mount_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "testing_motor_mount_debug_propagates",
+      "passed": true
+    },
+    {
+      "test": "testing_motor_mount_native_standalone_scad",
+      "passed": true
+    },
+    {
+      "test": "shaft_fit_v2_parts_source_metadata",
+      "passed": true
+    },
+    {
+      "test": "shaft_fit_v2_parts_metadata",
+      "passed": true
+    },
+    {
+      "test": "shaft_fit_v2_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "shaft_fit_v2_debug_propagates",
+      "passed": true
+    },
+    {
+      "test": "shaft_fit_v2_native_standalone_scad",
+      "passed": true
+    },
+    {
+      "test": "coupling_tests_v2_parts_source_metadata",
+      "passed": true
+    },
+    {
+      "test": "coupling_tests_v2_parts_metadata",
+      "passed": true
+    },
+    {
+      "test": "coupling_tests_v2_kwargs_preserved",
+      "passed": true
+    },
+    {
+      "test": "coupling_tests_v2_debug_propagates",
+      "passed": true
+    },
+    {
+      "test": "coupling_tests_v2_native_standalone_scad",
+      "passed": true
+    },
+    {
+      "test": "holder_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "holder_on_bed",
+      "passed": true
+    },
+    {
+      "test": "clamshell_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "clamshell_on_bed",
+      "passed": true
+    },
+    {
+      "test": "bridge_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "bridge_on_bed",
+      "passed": true
+    },
+    {
+      "test": "bearing_retainer_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "bearing_retainer_on_bed",
+      "passed": true
+    },
+    {
+      "test": "continuous_bridge_base_in_all_four_corners",
+      "passed": true
+    },
+    {
+      "test": "carrier_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "carrier_on_bed",
+      "passed": true
+    },
+    {
+      "test": "output_lid_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "output_lid_on_bed",
+      "passed": true
+    },
+    {
+      "test": "jaw_a_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "jaw_a_on_bed",
+      "passed": true
+    },
+    {
+      "test": "jaw_b_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "jaw_b_on_bed",
+      "passed": true
+    },
+    {
+      "test": "3dpr_closed_solids",
+      "passed": true,
+      "count": 4
+    },
+    {
+      "test": "3dpr_on_bed",
+      "passed": true
+    },
+    {
+      "test": "production_layout_no_fused_or_overlapping_pieces",
+      "passed": true
+    },
+    {
+      "test": "production_layout_fits_220_bed",
+      "passed": true
+    },
+    {
+      "test": "production_depth_matches_catalogue",
+      "passed": true
+    },
+    {
+      "test": "holder_and_shaft_roles_separated",
+      "passed": true
+    },
+    {
+      "test": "no_wire_management_parts_in_catalogue",
+      "passed": true
+    },
+    {
+      "test": "no_wire_management_in_drawing",
+      "passed": true
+    },
+    {
+      "test": "plain_shell_floor",
+      "passed": true
+    },
+    {
+      "test": "rear_lead_exit_clear",
+      "passed": true
+    },
+    {
+      "test": "rear_exit_preserves_floor",
+      "passed": true
+    },
+    {
+      "test": "holder_print_closed_solids",
+      "passed": true,
+      "count": 4
+    },
+    {
+      "test": "holder_print_on_bed",
+      "passed": true
+    },
+    {
+      "test": "holder_print_contains_only_assigned_parts",
+      "passed": true
+    },
+    {
+      "test": "shaft_print_closed_solids",
+      "passed": true,
+      "count": 4
+    },
+    {
+      "test": "shaft_print_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_print_contains_only_assigned_parts",
+      "passed": true
+    },
+    {
+      "test": "default_holder_has_four_solids",
+      "passed": true
+    },
+    {
+      "test": "no_obsolete_wire_lid_files",
+      "passed": true
+    },
+    {
+      "test": "default_holder_matches_holder_print",
+      "passed": true
+    },
+    {
+      "test": "holder_folder_has_no_shaft_files",
+      "passed": true
+    },
+    {
+      "test": "shaft_parts_in_separate_catalogue_folder",
+      "passed": true
+    },
+    {
+      "test": "3dpr_closed_solids",
+      "passed": true,
+      "count": 4
+    },
+    {
+      "test": "3dpr_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_parts_depth_matches_catalogue",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-15.0, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-15.0, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-15.0, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-15.0, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-15.0, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-7.5, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-7.5, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-7.5, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-7.5, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(-7.5, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(0.0, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(0.0, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(0.0, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(0.0, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(0.0, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(7.5, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(7.5, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(7.5, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(7.5, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(7.5, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(15.0, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(15.0, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(15.0, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(15.0, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_retainer(15.0, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-15.0, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-15.0, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-15.0, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-15.0, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-15.0, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-7.5, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-7.5, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-7.5, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-7.5, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(-7.5, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(0.0, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(0.0, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(0.0, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(0.0, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(0.0, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(7.5, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(7.5, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(7.5, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(7.5, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(7.5, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(15.0, -15.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(15.0, -7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(15.0, 0.0)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(15.0, 7.5)",
+      "passed": true
+    },
+    {
+      "test": "grid_reason_tt_bridge(15.0, 15.0)",
+      "passed": true
+    },
+    {
+      "test": "mount_sweep_mm_per_side",
+      "passed": true
+    },
+    {
+      "test": "seat_A_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "seat_A_on_bed",
+      "passed": true
+    },
+    {
+      "test": "seat_A_case_width",
+      "passed": true
+    },
+    {
+      "test": "seat_B_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "seat_B_on_bed",
+      "passed": true
+    },
+    {
+      "test": "seat_B_case_width",
+      "passed": true
+    },
+    {
+      "test": "seat_C_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "seat_C_on_bed",
+      "passed": true
+    },
+    {
+      "test": "seat_C_case_width",
+      "passed": true
+    },
+    {
+      "test": "nut_bar_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "nut_bar_on_bed",
+      "passed": true
+    },
+    {
+      "test": "3dpr_closed_solids",
+      "passed": true,
+      "count": 4
+    },
+    {
+      "test": "3dpr_on_bed",
+      "passed": true
+    },
+    {
+      "test": "mount_test_tray_separation",
+      "passed": true
+    },
+    {
+      "test": "mount_tray_bed_and_depth",
+      "passed": true
+    },
+    {
+      "test": "motor_M3_seat_-8.8",
+      "passed": true
+    },
+    {
+      "test": "motor_M3_seat_8.8",
+      "passed": true
+    },
+    {
+      "test": "tip_stays_inside_shell_with_full_nut_engagement",
+      "passed": true
+    },
+    {
+      "test": "pin_relief_has_floor",
+      "passed": true
+    },
+    {
+      "test": "nine_diameter_flat_and_three_depth_trials",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f0_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "shaft_d0_f0_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f0_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f0_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f0_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f0_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "shaft_d1_f0_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f0_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f0_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f0_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f0_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "shaft_d2_f0_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f0_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f0_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f0_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f1_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "shaft_d0_f1_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f1_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f1_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f1_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f1_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "shaft_d1_f1_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f1_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f1_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f1_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f1_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "shaft_d2_f1_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f1_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f1_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f1_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f2_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "shaft_d0_f2_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f2_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f2_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d0_f2_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f2_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "shaft_d1_f2_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f2_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f2_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d1_f2_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f2_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "shaft_d2_f2_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f2_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f2_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "shaft_d2_f2_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "depth_6_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "depth_6_on_bed",
+      "passed": true
+    },
+    {
+      "test": "depth_6_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "depth_6_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "depth_6_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "depth_7_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "depth_7_on_bed",
+      "passed": true
+    },
+    {
+      "test": "depth_7_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "depth_7_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "depth_7_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "depth_8_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "depth_8_on_bed",
+      "passed": true
+    },
+    {
+      "test": "depth_8_major_dimension",
+      "passed": true
+    },
+    {
+      "test": "depth_8_flat_dimension",
+      "passed": true
+    },
+    {
+      "test": "depth_8_depth_stop",
+      "passed": true
+    },
+    {
+      "test": "motor_pocket_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "motor_pocket_on_bed",
+      "passed": true
+    },
+    {
+      "test": "3dpr_closed_solids",
+      "passed": true,
+      "count": 13
+    },
+    {
+      "test": "3dpr_on_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_tray_fits_220_bed",
+      "passed": true
+    },
+    {
+      "test": "shaft_tray_no_piece_overlap",
+      "passed": true
+    },
+    {
+      "test": "all_five_styles_present",
+      "passed": true
+    },
+    {
+      "test": "plain_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "plain_on_bed",
+      "passed": true
+    },
+    {
+      "test": "pinch_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "pinch_on_bed",
+      "passed": true
+    },
+    {
+      "test": "jaws_a_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "jaws_a_on_bed",
+      "passed": true
+    },
+    {
+      "test": "jaws_b_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "jaws_b_on_bed",
+      "passed": true
+    },
+    {
+      "test": "collet_body_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "collet_body_on_bed",
+      "passed": true
+    },
+    {
+      "test": "collet_insert_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "collet_insert_on_bed",
+      "passed": true
+    },
+    {
+      "test": "collet_cap_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "collet_cap_on_bed",
+      "passed": true
+    },
+    {
+      "test": "stock_adapter_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "stock_adapter_on_bed",
+      "passed": true
+    },
+    {
+      "test": "carrier_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "carrier_on_bed",
+      "passed": true
+    },
+    {
+      "test": "output_lid_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "output_lid_on_bed",
+      "passed": true
+    },
+    {
+      "test": "legend_closed_solids",
+      "passed": true,
+      "count": 1
+    },
+    {
+      "test": "legend_on_bed",
+      "passed": true
+    },
+    {
+      "test": "3dpr_closed_solids",
+      "passed": true,
+      "count": 11
+    },
+    {
+      "test": "3dpr_on_bed",
+      "passed": true
+    },
+    {
+      "test": "coupling_tray_no_piece_overlap",
+      "passed": true
+    },
+    {
+      "test": "coupling_tray_fits_220_bed",
+      "passed": true
+    },
+    {
+      "test": "coupling_depth_matches_catalogue",
+      "passed": true
+    },
+    {
+      "test": "common_carrier_and_cap_in_combined_tray",
+      "passed": true
+    },
+    {
+      "test": "label_map_matches_print_metadata",
+      "passed": true
+    },
+    {
+      "test": "unique_part_codes",
+      "passed": true
+    },
+    {
+      "test": "labelled_png_present",
+      "passed": true
+    },
+    {
+      "test": "all_parts_have_type_and_name",
+      "passed": true
+    },
+    {
+      "test": "rotation_0_render_clean",
+      "passed": true
+    },
+    {
+      "test": "rotation_0",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "rotation_22.5_render_clean",
+      "passed": true
+    },
+    {
+      "test": "rotation_22.5",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "rotation_45_render_clean",
+      "passed": true
+    },
+    {
+      "test": "rotation_45",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "rotation_90_render_clean",
+      "passed": true
+    },
+    {
+      "test": "rotation_90",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "rotation_135_render_clean",
+      "passed": true
+    },
+    {
+      "test": "rotation_135",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "rotation_180_render_clean",
+      "passed": true
+    },
+    {
+      "test": "rotation_180",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "rotation_270_render_clean",
+      "passed": true
+    },
+    {
+      "test": "rotation_270",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "assembly_clear_reference_motor_render_clean",
+      "passed": true
+    },
+    {
+      "test": "assembly_clear_reference_motor",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "assembly_clear_reference_bearing_render_clean",
+      "passed": true
+    },
+    {
+      "test": "assembly_clear_reference_bearing",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "shaft_end_clearance",
+      "passed": true
+    },
+    {
+      "test": "retention_screw_full_nut_engagement",
+      "passed": true
+    },
+    {
+      "test": "rear_bridge_screw_stays_out_of_gearbox",
+      "passed": true
+    },
+    {
+      "test": "collar_bearing_end_float",
+      "passed": true
+    },
+    {
+      "test": "hardware_clear_printed_render_clean",
+      "passed": true
+    },
+    {
+      "test": "hardware_clear_printed",
+      "passed": true,
+      "volume_mm3": 1.004963428547919e-15
+    },
+    {
+      "test": "hardware_clear_motor_render_clean",
+      "passed": true
+    },
+    {
+      "test": "hardware_clear_motor",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "hardware_clear_bearing_render_clean",
+      "passed": true
+    },
+    {
+      "test": "hardware_clear_bearing",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "mount_fasteners_clear_holder_render_clean",
+      "passed": true
+    },
+    {
+      "test": "mount_fasteners_clear_holder",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "mount_fasteners_clear_motor_render_clean",
+      "passed": true
+    },
+    {
+      "test": "mount_fasteners_clear_motor",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "motor_driver_through_bridge_and_cap_render_clean",
+      "passed": true
+    },
+    {
+      "test": "motor_driver_through_bridge_and_cap",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "stationary_fasteners_all_M3",
+      "passed": true
+    },
+    {
+      "test": "seat_A_motor_fit_render_clean",
+      "passed": true
+    },
+    {
+      "test": "seat_A_motor_fit",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "seat_A_saddle_closes_render_clean",
+      "passed": true
+    },
+    {
+      "test": "seat_A_saddle_closes",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "seat_B_motor_fit_render_clean",
+      "passed": true
+    },
+    {
+      "test": "seat_B_motor_fit",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "seat_B_saddle_closes_render_clean",
+      "passed": true
+    },
+    {
+      "test": "seat_B_saddle_closes",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "seat_C_motor_fit_render_clean",
+      "passed": true
+    },
+    {
+      "test": "seat_C_motor_fit",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "seat_C_saddle_closes_render_clean",
+      "passed": true
+    },
+    {
+      "test": "seat_C_saddle_closes",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "assembled_clamp_tool_access_render_clean",
+      "passed": true
+    },
+    {
+      "test": "assembled_clamp_tool_access",
+      "passed": true,
+      "volume_mm3": 0.0
+    },
+    {
+      "test": "clamp_nut_loading_before_bridge_render_clean",
+      "passed": true
+    },
+    {
+      "test": "clamp_nut_loading_before_bridge",
+      "passed": true,
+      "volume_mm3": 0.0
+    }
+  ],
+  "print_folders": {
+    "version2": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_5_width_3_height_23d5_depth_bearing_6704_version2",
+    "testing_shaft_parts": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_5_width_4_height_11d028_depth_testing_shaft_parts",
+    "testing_motor_mount": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_5_width_10_height_23d5_depth_testing_motor_mount",
+    "shaft_fit_v2": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_8_width_13_height_12_depth_shaft_fit_v2",
+    "coupling_tests_v2": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_12_width_13_height_16d8_depth_coupling_tests_v2"
+  }
+}

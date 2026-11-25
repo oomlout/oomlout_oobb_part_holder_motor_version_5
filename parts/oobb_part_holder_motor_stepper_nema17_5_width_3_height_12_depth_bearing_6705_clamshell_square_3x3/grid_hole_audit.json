@@ -1,0 +1,1659 @@
+{
+  "holder": [
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "motor locating boss"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "M3 motor countersink"
+      ]
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "motor_face",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "output": [
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "embedded flange nut"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "embedded flange nut"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "embedded flange nut"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "embedded flange nut"
+      ]
+    },
+    {
+      "face": "raised_square_base",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_base",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "bearing_housing": [
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_lower",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "bearing_cap": [
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "bearing outer-race seat"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 22.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "recessed M6 stack nut"
+      ]
+    },
+    {
+      "face": "clamshell_upper",
+      "x": 30.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ],
+  "hub": [],
+  "output_lid": [
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "embedded flange nut"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "embedded flange nut"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": -7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 0.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": -15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "embedded flange nut"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": 0.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": false,
+      "exclusions": [
+        "embedded flange nut"
+      ]
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 7.5,
+      "y": 15.0,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": -15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": -7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": 0.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": 7.5,
+      "radius_name": "m3",
+      "included": true,
+      "exclusions": []
+    },
+    {
+      "face": "raised_square_lid",
+      "x": 15.0,
+      "y": 15.0,
+      "radius_name": "m6",
+      "included": true,
+      "exclusions": []
+    }
+  ]
+}

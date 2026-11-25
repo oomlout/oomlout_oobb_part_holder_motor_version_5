@@ -1,0 +1,150 @@
+def tt_mount_box(thing, p, x0, x1, width, bottom, top, typ="negative"):
+    tt_v2_add(thing,p,"oobb_cube_center",typ,size=[x1-x0,width,top-bottom],
+              pos=[(x0+x1)/2,0,bottom],zz="bottom")
+
+
+def tt_mount_pocket(thing, p, lower=False):
+    c, face = p["body_clearance_mm"], p["motor_inset_mm"]
+    back = face-p["case_thickness_mm"]
+    bottom, top = (back-c,1) if lower else (-1,face)
+    tt_mount_box(thing,p,p["case_rear_mm"]-c,p["case_front_mm"]+c,
+                 p["case_width_mm"]+2*c,bottom,top)
+    # Open end accepts the can, end boss and soldered leads. Allow the deeper
+    # drawing envelope in addition to the shorter STEP can cross section.
+    can_step = (p["can_thickness_mm"]-p["case_thickness_mm"])/2
+    tt_mount_box(thing,p,-58,-24.2+c,p["can_width_mm"]+2*c,
+                 back-can_step-c if lower else -1,1 if lower else face+can_step+c)
+    if lower:
+        tt_mount_box(thing,p,10,16+c,5+2*c,face-9.3-1.4-c,1)
+        tt_v2_add(thing,p,"oobb_hole","negative",radius=2+c,
+                  depth=4,pos=[-11.25,0,back-2-c])
+
+
+def tt_mount_fasteners(thing, p, lower=False):
+    for y in (-p["motor_mount_pitch_mm"]/2,p["motor_mount_pitch_mm"]/2):
+        x = p["motor_mount_x_mm"]
+        if lower:
+            tt_v2_add(thing,p,"oobb_hole","negative",radius_name="m3",
+                      depth=25,pos=[x,y,-24])
+            # Outside-loading recess: shell provides the anti-rotation walls
+            # and shoulder. The bolt tip stays inside the external surface.
+            tt_v2_add(thing,p,"oobb_nut","negative",radius_name="m3",
+                      depth=p["motor_nut_recess_mm"],pos=[x,y,-23.5],
+                      zz="bottom",overhang=False)
+        else:
+            tt_v2_add(thing,p,"oobb_screw_countersunk","negative",radius_name="m3",
+                      depth=p["motor_screw_length_mm"],pos=[x,y,7],zz="none",
+                      nut_include=False,overhang=False,clearance="")
+
+
+def tt_mount_stationary(thing, p, lower):
+    bottom, top = (-23.5,0) if lower else (0,7)
+    tt_v2_add(thing,p,"oobb_plate",width=5,height=3,depth=top-bottom,
+              holes=False,pos=[-15,0,bottom],zz="bottom")
+    tt_mount_pocket(thing,p,lower)
+    tt_mount_fasteners(thing,p,lower)
+    def hole(x,y,radius_name):
+        tt_v2_add(thing,p,"oobb_hole","negative",radius_name=radius_name,
+                  depth=top-bottom+2,pos=[x,y,bottom-1])
+    for x in (-45,-30,-15,15):
+        for y in (-15,15):
+            hole(x,y,"m6")
+    for x,y in [(-22.5,-15),(-22.5,15),(-7.5,-15),(-7.5,15),
+                (-45,-7.5),(-45,7.5),(15,-7.5),(15,7.5)]:
+        hole(x,y,"m3")
+    for x in (-37.5,7.5):
+        for y in (-15,15):
+            if lower:
+                tt_v2_add(thing,p,"oobb_screw_countersunk","negative",radius_name="m3",
+                          depth=25,pos=[x,y,-18],rot=[0,180,0],zz="none",
+                          nut_include=False,overhang=False,clearance="top")
+            else:
+                hole(x,y,"m3")
+                tt_v2_add(thing,p,"oobb_nut","negative",radius_name="m3",
+                          pos=[x,y,7],zz="top",overhang=False)
+    tt_v2_add(thing,p,"oobb_hole","negative",radius=5.2 if lower else 12,
+              depth=top-bottom+2,pos=[0,0,bottom-1])
+    for x,y in ((-18,0),(18,0),(0,-18),(0,18)):
+        if lower:
+            if x!=-18:
+                tt_v2_add(thing,p,"oobb_hole","negative",radius_name="m2d5",
+                          depth=3,pos=[x,y,-2])
+        else:
+            hole(x,y,"m2d5")
+            tt_v2_add(thing,p,"oobb_nut","negative",radius_name="m2d5",
+                      pos=[x,y,p["rear_cap_nut_z_mm"] if x==-18 else 0],
+                      zz="bottom",overhang=False)
+
+
+def get_holder_motor_gear_tt_v2_mount_tests(thing, **kwargs):
+    thing["additional_outputs"] = {}
+    thing["mount_samples"] = []
+    for row,c in enumerate(kwargs["mounting_fit_sides_mm"]):
+        p = dict(kwargs,body_clearance_mm=c)
+        item = oobb.get_default_thing(type="tt_mount_seat")
+        tt_v2_add(item,p,"oobb_plate",width=5,height=2,depth=7,
+                  pos=[-15,0,0],holes=False,zz="bottom")
+        tt_mount_pocket(item,p)
+        tt_mount_fasteners(item,p)
+        tt_v2_add(item,p,"oobb_hole","negative",radius=5.2,depth=9,pos=[0,0,-1])
+        code = chr(ord("A")+row)
+        tt_v2_label(item,p,code+" "+format(c,".1f"),[16,0,-.05],size=2,depth=.5)
+        # Rotate the label onto the visible print face by engraving the
+        # assembled underside. Text is mirrored around Y on flipping the part.
+        printable = tt_v2_group(item["components"],p,pos=[0,0,7],rot=[180,0,0])
+        name = "seat_"+code
+        thing["additional_outputs"][name] = [printable]
+        thing["components"].append(tt_v2_group([printable],p,pos=[0,row*35,0]))
+        thing["components_objects"].extend(item["components_objects"])
+        thing["mount_samples"].append(dict(name=name,clearance_per_side_mm=c))
+    bar = oobb.get_default_thing(type="tt_mount_nut_bar")
+    x = kwargs["motor_mount_x_mm"]
+    tt_mount_box(bar,kwargs,x-5,x+5,29,-23.5,0,"positive")
+    tt_mount_pocket(bar,kwargs,lower=True)
+    tt_mount_fasteners(bar,kwargs,lower=True)
+    printable = tt_v2_group(bar["components"],kwargs,pos=[-x,0,23.5])
+    thing["additional_outputs"]["nut_bar"] = [printable]
+    thing["components"].append(tt_v2_group([printable],kwargs,pos=[0,105,0]))
+    thing["components_objects"].extend(bar["components_objects"])
+    thing["depth_mm"] = 23.5
+
+
+def tt_mount_reference(thing,p):
+    # Assembly axes X/Y/Z correspond to STEP Z/X/Y. Shaft face is Z=3.
+    face = p["motor_inset_mm"]
+    mid = face-p["case_thickness_mm"]/2
+    back = face-p["case_thickness_mm"]
+    # Straight gearbox sidewalls and rounded front corners, front ear, mounting
+    # pair and locating pin. End of can is stepped down to the bearing boss.
+    front = p["case_front_mm"]
+    width = p["case_width_mm"]
+    tt_mount_box(thing,p,p["case_rear_mm"],front-4,width,back,face,"positive")
+    tt_mount_box(thing,p,front-4.1,front,width-8,back,face,"positive")
+    for y in (-width/2+4,width/2-4):
+        tt_v2_add(thing,p,"oobb_cylinder",radius=4,depth=face-back,
+                  pos=[front-4,y,back],zz="bottom")
+    tt_mount_box(thing,p,front-.1,16,5,mid-1.4,mid+1.4,"positive")
+    tt_v2_add(thing,p,"oobb_hole","negative",radius=1.5,depth=4,pos=[14,0,mid-2])
+    tt_v2_add(thing,p,"oobb_cylinder",radius=2,depth=2.1,
+              pos=[-11.25,0,back-2],zz="bottom")
+    # The 130 can has flat sides across Z. Clip a round barrel locally so
+    # these flats never trim the adjacent gearbox or the end boss.
+    can = oobb.get_default_thing(type="tt_130_can")
+    tt_v2_add(can,p,"oobb_cylinder",radius=9.95,depth=14.2,
+              pos=[-50.8,0,mid+.6],rot=[0,90,0],zz="bottom")
+    for z in (mid-16.9,mid+8.1):
+        tt_mount_box(can,p,-52,-36,24,z,z+10)
+    thing["components"].append(tt_v2_group(can["components"],p))
+    for start,radius,length in ((-52.6,4.95,2.1),(-54.6,1,2.1)):
+        tt_v2_add(thing,p,"oobb_cylinder",radius=radius,depth=length,
+                  pos=[start,0,mid],rot=[0,90,0],zz="bottom")
+    for y in (-5,5):
+        tt_v2_add(thing,p,"oobb_cube_center",size=[2,6,.5],
+                  pos=[-48,y,mid+8],zz="bottom")
+    for y in (-p["motor_mount_pitch_mm"]/2,p["motor_mount_pitch_mm"]/2):
+        tt_v2_add(thing,p,"oobb_hole","negative",radius=1.5,depth=face-back+2,
+                  pos=[p["motor_mount_x_mm"],y,back-1])
+    tt_v2_double_flat(thing,p,p["shaft_diameter_mm"],p["shaft_across_flats_mm"],
+                      back-9,face+9,typ="positive")
+
+

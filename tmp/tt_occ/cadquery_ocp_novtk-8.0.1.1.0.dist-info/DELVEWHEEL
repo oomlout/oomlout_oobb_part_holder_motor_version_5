@@ -1,0 +1,2 @@
+Version: 1.13.1
+Arguments: ['C:\\Users\\runneradmin\\micromamba\\envs\\build-ocp\\Scripts\\delvewheel', 'repair', '--wheel-dir', 'wheel', '--namespace-pkg', 'cadquery_ocp_novtk', 'dist/cadquery_ocp_novtk-8.0.1.1.0-cp312-cp312-win_amd64.whl']

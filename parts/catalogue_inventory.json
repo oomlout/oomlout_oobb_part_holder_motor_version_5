@@ -1,0 +1,438 @@
+{
+  "mounts": [
+    {
+      "id": "oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2",
+      "motor": "standard",
+      "family": "assembly",
+      "variant": "version2",
+      "grid": [
+        5,
+        3
+      ],
+      "footprint_mm": [
+        74,
+        44
+      ],
+      "bearing": "6704",
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_servo_standard_5_width_3_height_15_depth_bearing_6704_version2"
+    },
+    {
+      "id": "oobb_part_holder_motor_servo_micro_4_width_3_height_14d2_depth_bearing_6704_version2",
+      "motor": "micro",
+      "family": "assembly",
+      "variant": "version2",
+      "grid": [
+        4,
+        3
+      ],
+      "footprint_mm": [
+        59,
+        44
+      ],
+      "bearing": "6704",
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_servo_micro_4_width_3_height_14d2_depth_bearing_6704_version2"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_tt_5_width_3_height_23d5_depth_bearing_6704_version2",
+      "motor": "tt",
+      "family": "assembly",
+      "variant": "version2",
+      "grid": [
+        5,
+        3
+      ],
+      "footprint_mm": [
+        74,
+        44
+      ],
+      "bearing": "6704",
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_5_width_3_height_23d5_depth_bearing_6704_version2"
+    },
+    {
+      "id": "oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct",
+      "motor": "nema17",
+      "family": "assembly",
+      "variant": "straight_direct",
+      "grid": [
+        5,
+        5
+      ],
+      "footprint_mm": [
+        74,
+        74
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_stepper_nema17_5_width_5_height_8_depth_straight_direct"
+    },
+    {
+      "id": "oobb_part_holder_motor_stepper_nema17_5_width_3_height_8_depth_straight_direct",
+      "motor": "nema17",
+      "family": "assembly",
+      "variant": "straight_direct",
+      "grid": [
+        5,
+        3
+      ],
+      "footprint_mm": [
+        74,
+        44
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_stepper_nema17_5_width_3_height_8_depth_straight_direct"
+    },
+    {
+      "id": "oobb_part_holder_motor_stepper_nema17_5_width_5_height_12_depth_bearing_6705_clamshell_circle",
+      "motor": "nema17",
+      "family": "assembly",
+      "variant": "clamshell_circle",
+      "grid": [
+        5,
+        5
+      ],
+      "footprint_mm": [
+        74,
+        74
+      ],
+      "bearing": "6705",
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_stepper_nema17_5_width_5_height_12_depth_bearing_6705_clamshell_circle"
+    },
+    {
+      "id": "oobb_part_holder_motor_stepper_nema17_5_width_3_height_12_depth_bearing_6705_clamshell_circle",
+      "motor": "nema17",
+      "family": "assembly",
+      "variant": "clamshell_circle",
+      "grid": [
+        5,
+        3
+      ],
+      "footprint_mm": [
+        74,
+        44
+      ],
+      "bearing": "6705",
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_stepper_nema17_5_width_3_height_12_depth_bearing_6705_clamshell_circle"
+    },
+    {
+      "id": "oobb_part_holder_motor_stepper_nema17_5_width_5_height_12_depth_bearing_6705_clamshell_square_3x3",
+      "motor": "nema17",
+      "family": "assembly",
+      "variant": "clamshell_square_3x3",
+      "grid": [
+        5,
+        5
+      ],
+      "footprint_mm": [
+        74,
+        74
+      ],
+      "bearing": "6705",
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_stepper_nema17_5_width_5_height_12_depth_bearing_6705_clamshell_square_3x3"
+    },
+    {
+      "id": "oobb_part_holder_motor_stepper_nema17_5_width_3_height_12_depth_bearing_6705_clamshell_square_3x3",
+      "motor": "nema17",
+      "family": "assembly",
+      "variant": "clamshell_square_3x3",
+      "grid": [
+        5,
+        3
+      ],
+      "footprint_mm": [
+        74,
+        44
+      ],
+      "bearing": "6705",
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_stepper_nema17_5_width_3_height_12_depth_bearing_6705_clamshell_square_3x3"
+    },
+    {
+      "id": "oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810",
+      "motor": "nema17",
+      "family": "assembly",
+      "variant": "straight_6810",
+      "grid": [
+        7,
+        7
+      ],
+      "footprint_mm": [
+        104,
+        104
+      ],
+      "bearing": "6810",
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_stepper_nema17_7_width_7_height_12_depth_bearing_6810_straight_6810"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_n20_3_width_3_height_6_depth_through_plate_front_screw_clamp",
+      "motor": "n20",
+      "family": "n20_holder",
+      "variant": "through_plate_front_screw_clamp",
+      "grid": [
+        3,
+        3
+      ],
+      "footprint_mm": [
+        44,
+        44
+      ],
+      "bearing": null,
+      "holder_style": "through_plate",
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_n20_3_width_3_height_6_depth_through_plate_front_screw_clamp"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_n20_5_width_3_height_6d5_depth_bearing_6704_bearing_cassette_front_screw_clamp",
+      "motor": "n20",
+      "family": "n20_holder",
+      "variant": "bearing_cassette_front_screw_clamp",
+      "grid": [
+        5,
+        3
+      ],
+      "footprint_mm": [
+        74,
+        44
+      ],
+      "bearing": "6704",
+      "holder_style": "bearing_cassette",
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_n20_5_width_3_height_6d5_depth_bearing_6704_bearing_cassette_front_screw_clamp"
+    }
+  ],
+  "testing": [
+    {
+      "id": "oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1",
+      "motor": "standard",
+      "family": "fit_test",
+      "variant": "adapter_fit_test_v1",
+      "grid": [
+        10,
+        8
+      ],
+      "footprint_mm": [
+        149,
+        119
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_servo_standard_10_width_8_height_7d45_depth_adapter_fit_test_v1"
+    },
+    {
+      "id": "oobb_part_holder_motor_servo_micro_10_width_8_height_7d55_depth_adapter_fit_test_v1",
+      "motor": "micro",
+      "family": "fit_test",
+      "variant": "adapter_fit_test_v1",
+      "grid": [
+        10,
+        8
+      ],
+      "footprint_mm": [
+        149,
+        119
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_servo_micro_10_width_8_height_7d55_depth_adapter_fit_test_v1"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_tt_5_width_4_height_11d028_depth_testing_shaft_parts",
+      "motor": "tt",
+      "family": "tt_fit_test",
+      "variant": "testing_shaft_parts",
+      "grid": [
+        5,
+        4
+      ],
+      "footprint_mm": [
+        74,
+        59
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_5_width_4_height_11d028_depth_testing_shaft_parts"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_tt_8_width_13_height_12_depth_shaft_fit_v2",
+      "motor": "tt",
+      "family": "tt_fit_test",
+      "variant": "shaft_fit_v2",
+      "grid": [
+        8,
+        13
+      ],
+      "footprint_mm": [
+        119,
+        194
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_8_width_13_height_12_depth_shaft_fit_v2"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_tt_12_width_13_height_16d8_depth_coupling_tests_v2",
+      "motor": "tt",
+      "family": "tt_fit_test",
+      "variant": "coupling_tests_v2",
+      "grid": [
+        12,
+        13
+      ],
+      "footprint_mm": [
+        179,
+        194
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_12_width_13_height_16d8_depth_coupling_tests_v2"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp",
+      "motor": "n20",
+      "family": "n20_shaft_test",
+      "variant": "testing_split_clamp",
+      "grid": [
+        3,
+        3
+      ],
+      "footprint_mm": [
+        44,
+        44
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": "split_clamp",
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_split_clamp"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_nut_grub",
+      "motor": "n20",
+      "family": "n20_shaft_test",
+      "variant": "testing_nut_grub",
+      "grid": [
+        3,
+        3
+      ],
+      "footprint_mm": [
+        44,
+        44
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": "nut_grub",
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_nut_grub"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_metal_hub",
+      "motor": "n20",
+      "family": "n20_shaft_test",
+      "variant": "testing_metal_hub",
+      "grid": [
+        3,
+        3
+      ],
+      "footprint_mm": [
+        44,
+        44
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": "metal_hub",
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_metal_hub"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_n20_3_width_3_height_21d78_depth_testing_taper_collet",
+      "motor": "n20",
+      "family": "n20_shaft_test",
+      "variant": "testing_taper_collet",
+      "grid": [
+        3,
+        3
+      ],
+      "footprint_mm": [
+        44,
+        44
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": "taper_collet",
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_n20_3_width_3_height_21d78_depth_testing_taper_collet"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_press_fit",
+      "motor": "n20",
+      "family": "n20_shaft_test",
+      "variant": "testing_press_fit",
+      "grid": [
+        3,
+        3
+      ],
+      "footprint_mm": [
+        44,
+        44
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": "press_fit",
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_n20_3_width_3_height_24d5_depth_testing_press_fit"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons",
+      "motor": "n20",
+      "family": "fit_test",
+      "variant": "fit_coupons",
+      "grid": [
+        5,
+        5
+      ],
+      "footprint_mm": [
+        74,
+        74
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_n20_5_width_5_height_10_depth_fit_coupons"
+    },
+    {
+      "id": "oobb_part_holder_motor_gear_tt_5_width_10_height_23d5_depth_testing_motor_mount",
+      "motor": "tt",
+      "family": "tt_fit_test",
+      "variant": "testing_motor_mount",
+      "grid": [
+        5,
+        10
+      ],
+      "footprint_mm": [
+        74,
+        149
+      ],
+      "bearing": null,
+      "holder_style": null,
+      "grip_style": null,
+      "folder": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\parts\\oobb_part_holder_motor_gear_tt_5_width_10_height_23d5_depth_testing_motor_mount"
+    }
+  ]
+}

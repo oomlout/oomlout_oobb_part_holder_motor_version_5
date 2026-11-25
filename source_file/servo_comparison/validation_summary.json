@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "checks": 1140,
+  "reports": {
+    "standard": {
+      "passed": true,
+      "checks": 534,
+      "report": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\outputs\\servo_v2_clearance\\report.json"
+    },
+    "micro": {
+      "passed": true,
+      "checks": 558,
+      "report": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\outputs\\servo_micro_v2_clearance\\report.json"
+    },
+    "shared": {
+      "passed": true,
+      "checks": 48,
+      "report": "C:\\gh\\oomlout_oobb_part_holder_motor_version_5\\outputs\\servo_shared_clearance\\report.json"
+    }
+  }
+}

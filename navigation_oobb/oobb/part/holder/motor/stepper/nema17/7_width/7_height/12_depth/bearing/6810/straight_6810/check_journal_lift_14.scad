@@ -1,0 +1,1 @@
+intersection() { union() { include <stationary_local.scad>; include <reference_bearing.scad>; } translate([0,0,14]) { include <rotating_local.scad>; } }

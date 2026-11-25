@@ -1,0 +1,691 @@
+depth: 11.028
+depth_note: Depth describes tallest print piece; main assembly Z=-23.5..28. Frame
+  is 74 x 44 mm. Print layouts and transformed piece coordinates are explicit in pieces.
+family: tt_fit_test
+fit_note: 5.4 mm major / 3.7 mm flats remain provisional. Start with labelled diameter/flat/depth
+  coupons. Allowances are TOTAL diameter/across-flats additions, not per side. Physical
+  grip and torque tests required.
+geometry_note: 'Native OOBB TT V2: raised split 6704 bridge, keyed replaceable coupling
+  and shared four-M3 output cross. Coupling trials include plain, pinch, jaws, collet
+  and stock hub adapter.'
+geometry_reference: source_file/tt_reference/mount_3777.yaml
+grid_pitch_mm: 15
+height: 4
+motor_style: tt
+motor_type: gear
+oobb_details:
+  bearing_bottom_mm: 14
+  bearing_diameter_clearance_mm: 0.3
+  bearing_split_mm: 16
+  body_clearance_mm: 0.2
+  bridge_bottom_mm: 8
+  bridge_rear_screw_length_mm: 16
+  bridge_screw_length_mm: 20
+  can_thickness_mm: 22.4
+  can_width_mm: 20.39
+  carrier_bottom_mm: 14
+  carrier_lip_bottom_mm: 18.2
+  cartridge_bottom_mm: 3.5
+  cartridge_diameter_mm: 22.6
+  cartridge_shoulder_mm: 13.8
+  cartridge_top_mm: 20.3
+  case_front_mm: 11.2
+  case_rear_mm: -36.8
+  case_thickness_mm: 18.6
+  case_width_mm: 22.4
+  clamp_axis_x_mm: 5.5
+  clamp_axis_z_mm: 10.3
+  clamp_head_seat_y_mm: 5.5
+  clamp_screw_length_mm: 12
+  collet_draw_mm: 1.0
+  connector_test_labels:
+    carrier:
+      code: HUB
+      part_name: 6704 journal and keyed socket
+      type: Shared bearing carrier
+    collet_body:
+      code: T1
+      part_name: Outer body
+      type: Tapered collet
+    collet_cap:
+      code: T3
+      part_name: Draw cap and keyed stem
+      type: Tapered collet
+    collet_insert:
+      code: T2
+      part_name: Slotted insert
+      type: Tapered collet
+    jaws_a:
+      code: JA
+      part_name: Jaw A
+      type: Two-piece jaw clamp
+    jaws_b:
+      code: JB
+      part_name: Jaw B
+      type: Two-piece jaw clamp
+    output_lid:
+      code: CAP
+      part_name: Four-M3 attachment lid
+      type: Shared output lid
+    pinch:
+      code: C
+      part_name: One-piece split collar
+      type: Pinch clamp
+    plain:
+      code: P
+      part_name: Double-flat friction fit
+      type: Plain socket
+    stock_adapter:
+      code: STOCK 26
+      part_name: 26 mm mounting pattern
+      type: Commercial hub adapter
+  coupling_common_positions:
+    carrier:
+    - 0
+    - 155
+    - 0
+    output_lid:
+    - 42
+    - 155
+    - 0
+  coupling_styles:
+  - plain
+  - pinch
+  - jaws
+  - collet
+  - stock
+  coupling_test_positions:
+    collet:
+    - 0
+    - 65
+    - 0
+    jaws:
+    - 80
+    - 0
+    - 0
+    pinch:
+    - 38
+    - 0
+    - 0
+    plain:
+    - 0
+    - 0
+    - 0
+    stock:
+    - 105
+    - 65
+    - 0
+  depth: 11.028
+  fit_depths_mm:
+  - 6
+  - 7
+  - 8
+  fit_diameter_adjustments_mm:
+  - 0
+  - 0.2
+  - 0.4
+  fit_flats_adjustments_mm:
+  - 0
+  - 0.2
+  - 0.4
+  fit_pitch_mm:
+  - 28
+  - 32
+  grid_pitch_mm: 15
+  height: 4
+  jaw_gap_mm: 0.5
+  journal_diameter_clearance_mm: 0.15
+  key_across_flats_mm: 10
+  key_clearance_mm: 0.25
+  key_diameter_mm: 12
+  lead_exit_length_mm: 12
+  lead_exit_width_mm: 10
+  motor_inset_mm: 3
+  motor_mount_pitch_mm: 17.6
+  motor_mount_x_mm: -20.6
+  motor_nut_recess_mm: 3
+  motor_pocket_test_pos:
+  - 20
+  - 145
+  - 0
+  motor_screw_length_mm: 30
+  motor_style: tt
+  motor_type: gear
+  mounting_fit_sides_mm:
+  - 0.1
+  - 0.2
+  - 0.4
+  oobb_name: holder_motor_gear_tt_v2_shaft_parts
+  output_bottom_mm: 20.5
+  output_diameter_mm: 30
+  output_nut_depth_mm: 3.4
+  output_split_mm: 25
+  output_top_mm: 28
+  pieces:
+    bearing_retainer:
+      depth: 4
+      drawing: bearing_retainer
+      exploded_pos:
+      - 0
+      - 0
+      - 43
+      print_offset:
+      - 0
+      - 0
+      - -16
+      print_pos:
+      - 110
+      - 0
+      - 0
+      print_rot:
+      - 0
+      - 0
+      - 0
+      role: holder
+    bridge:
+      depth: 8
+      drawing: bridge
+      exploded_pos:
+      - 0
+      - 0
+      - 25
+      print_offset:
+      - 0
+      - 0
+      - 16
+      print_pos:
+      - 60
+      - 0
+      - 0
+      print_rot:
+      - 180
+      - 0
+      - 0
+      role: holder
+    carrier:
+      depth: 11
+      drawing: carrier
+      exploded_pos:
+      - 0
+      - 0
+      - 54
+      print_offset:
+      - 0
+      - 0
+      - 25
+      print_pos:
+      - 60
+      - 55
+      - 0
+      print_rot:
+      - 180
+      - 0
+      - 0
+      role: shaft
+    clamshell:
+      depth: 23.5
+      drawing: clamshell
+      exploded_pos:
+      - 0
+      - 0
+      - -38
+      print_offset:
+      - 0
+      - 0
+      - 23.5
+      print_pos:
+      - 0
+      - 55
+      - 0
+      print_rot:
+      - 0
+      - 0
+      - 0
+      role: holder
+    holder:
+      depth: 8
+      drawing: holder
+      exploded_pos:
+      - 0
+      - 0
+      - 0
+      print_offset:
+      - 0
+      - 0
+      - 8
+      print_pos:
+      - 0
+      - 0
+      - 0
+      print_rot:
+      - 180
+      - 0
+      - 0
+      role: holder
+    jaw_a:
+      depth: 11.3
+      drawing: cartridge
+      exploded_pos:
+      - 0
+      - 9
+      - 10
+      print_offset:
+      - 0
+      - 3.5
+      - -0.25
+      print_pos:
+      - 45
+      - 105
+      - 0
+      print_rot:
+      - 90
+      - 0
+      - 0
+      role: shaft
+      side: 1
+      style: jaws
+    jaw_b:
+      depth: 11.3
+      drawing: cartridge
+      exploded_pos:
+      - 0
+      - -9
+      - 10
+      print_offset:
+      - 0
+      - -3.5
+      - -0.25
+      print_pos:
+      - 15
+      - 105
+      - 0
+      print_rot:
+      - -90
+      - 0
+      - 0
+      role: shaft
+      side: -1
+      style: jaws
+    output_lid:
+      depth: 3
+      drawing: output_lid
+      exploded_pos:
+      - 0
+      - 0
+      - 68
+      print_offset:
+      - 0
+      - 0
+      - -25
+      print_pos:
+      - 100
+      - 55
+      - 0
+      print_rot:
+      - 0
+      - 0
+      - 0
+      role: shaft
+  print_role: shaft
+  rear_bridge_head_recess_mm: 0.6
+  rear_bridge_nut_roof_mm: 5.9
+  retainer_top_mm: 20
+  retention_nut_bottom_mm: 15
+  retention_nut_depth_mm: 3.3
+  retention_screw_length_mm: 10
+  shaft_across_flats_mm: 3.7
+  shaft_diameter_allowance_mm: 0.2
+  shaft_diameter_mm: 5.4
+  shaft_flats_allowance_mm: 0.2
+  stock_body_mm:
+  - 34
+  - 15
+  - 15
+  stock_hole_pitch_mm: 26
+  stock_pocket_allowance_mm: 0.4
+  variant: testing_shaft_parts
+  width: 5
+  wire_management: false
+oobb_name: holder_motor_gear_tt_v2_shaft_parts
+pieces:
+  bearing_retainer:
+    depth: 4
+    drawing: bearing_retainer
+    exploded_pos:
+    - 0
+    - 0
+    - 43
+    print_offset:
+    - 0
+    - 0
+    - -16
+    print_pos:
+    - 110
+    - 0
+    - 0
+    print_rot:
+    - 0
+    - 0
+    - 0
+    role: holder
+  bridge:
+    depth: 8
+    drawing: bridge
+    exploded_pos:
+    - 0
+    - 0
+    - 25
+    print_offset:
+    - 0
+    - 0
+    - 16
+    print_pos:
+    - 60
+    - 0
+    - 0
+    print_rot:
+    - 180
+    - 0
+    - 0
+    role: holder
+  carrier:
+    depth: 11
+    drawing: carrier
+    exploded_pos:
+    - 0
+    - 0
+    - 54
+    print_offset:
+    - 0
+    - 0
+    - 25
+    print_pos:
+    - 60
+    - 55
+    - 0
+    print_rot:
+    - 180
+    - 0
+    - 0
+    role: shaft
+  clamshell:
+    depth: 23.5
+    drawing: clamshell
+    exploded_pos:
+    - 0
+    - 0
+    - -38
+    print_offset:
+    - 0
+    - 0
+    - 23.5
+    print_pos:
+    - 0
+    - 55
+    - 0
+    print_rot:
+    - 0
+    - 0
+    - 0
+    role: holder
+  holder:
+    depth: 8
+    drawing: holder
+    exploded_pos:
+    - 0
+    - 0
+    - 0
+    print_offset:
+    - 0
+    - 0
+    - 8
+    print_pos:
+    - 0
+    - 0
+    - 0
+    print_rot:
+    - 180
+    - 0
+    - 0
+    role: holder
+  jaw_a:
+    depth: 11.3
+    drawing: cartridge
+    exploded_pos:
+    - 0
+    - 9
+    - 10
+    print_offset:
+    - 0
+    - 3.5
+    - -0.25
+    print_pos:
+    - 45
+    - 105
+    - 0
+    print_rot:
+    - 90
+    - 0
+    - 0
+    role: shaft
+    side: 1
+    style: jaws
+  jaw_b:
+    depth: 11.3
+    drawing: cartridge
+    exploded_pos:
+    - 0
+    - -9
+    - 10
+    print_offset:
+    - 0
+    - -3.5
+    - -0.25
+    print_pos:
+    - 15
+    - 105
+    - 0
+    print_rot:
+    - -90
+    - 0
+    - 0
+    role: shaft
+    side: -1
+    style: jaws
+  output_lid:
+    depth: 3
+    drawing: output_lid
+    exploded_pos:
+    - 0
+    - 0
+    - 68
+    print_offset:
+    - 0
+    - 0
+    - -25
+    print_pos:
+    - 100
+    - 55
+    - 0
+    print_rot:
+    - 0
+    - 0
+    - 0
+    role: shaft
+taxonomy_1: oobb
+taxonomy_10: testing_shaft_parts
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: holder
+taxonomy_4: motor
+taxonomy_5: gear
+taxonomy_6: tt
+taxonomy_7: 5_width
+taxonomy_8: 4_height
+taxonomy_9: 11d028_depth
+tt_parameters:
+  bearing_bottom_mm: 14
+  bearing_diameter_clearance_mm: 0.3
+  bearing_split_mm: 16
+  body_clearance_mm: 0.2
+  bridge_bottom_mm: 8
+  bridge_rear_screw_length_mm: 16
+  bridge_screw_length_mm: 20
+  can_thickness_mm: 22.4
+  can_width_mm: 20.39
+  carrier_bottom_mm: 14
+  carrier_lip_bottom_mm: 18.2
+  cartridge_bottom_mm: 3.5
+  cartridge_diameter_mm: 22.6
+  cartridge_shoulder_mm: 13.8
+  cartridge_top_mm: 20.3
+  case_front_mm: 11.2
+  case_rear_mm: -36.8
+  case_thickness_mm: 18.6
+  case_width_mm: 22.4
+  clamp_axis_x_mm: 5.5
+  clamp_axis_z_mm: 10.3
+  clamp_head_seat_y_mm: 5.5
+  clamp_screw_length_mm: 12
+  collet_draw_mm: 1.0
+  connector_test_labels:
+    carrier:
+      code: HUB
+      part_name: 6704 journal and keyed socket
+      type: Shared bearing carrier
+    collet_body:
+      code: T1
+      part_name: Outer body
+      type: Tapered collet
+    collet_cap:
+      code: T3
+      part_name: Draw cap and keyed stem
+      type: Tapered collet
+    collet_insert:
+      code: T2
+      part_name: Slotted insert
+      type: Tapered collet
+    jaws_a:
+      code: JA
+      part_name: Jaw A
+      type: Two-piece jaw clamp
+    jaws_b:
+      code: JB
+      part_name: Jaw B
+      type: Two-piece jaw clamp
+    output_lid:
+      code: CAP
+      part_name: Four-M3 attachment lid
+      type: Shared output lid
+    pinch:
+      code: C
+      part_name: One-piece split collar
+      type: Pinch clamp
+    plain:
+      code: P
+      part_name: Double-flat friction fit
+      type: Plain socket
+    stock_adapter:
+      code: STOCK 26
+      part_name: 26 mm mounting pattern
+      type: Commercial hub adapter
+  coupling_common_positions:
+    carrier:
+    - 0
+    - 155
+    - 0
+    output_lid:
+    - 42
+    - 155
+    - 0
+  coupling_styles:
+  - plain
+  - pinch
+  - jaws
+  - collet
+  - stock
+  coupling_test_positions:
+    collet:
+    - 0
+    - 65
+    - 0
+    jaws:
+    - 80
+    - 0
+    - 0
+    pinch:
+    - 38
+    - 0
+    - 0
+    plain:
+    - 0
+    - 0
+    - 0
+    stock:
+    - 105
+    - 65
+    - 0
+  fit_depths_mm:
+  - 6
+  - 7
+  - 8
+  fit_diameter_adjustments_mm:
+  - 0
+  - 0.2
+  - 0.4
+  fit_flats_adjustments_mm:
+  - 0
+  - 0.2
+  - 0.4
+  fit_pitch_mm:
+  - 28
+  - 32
+  jaw_gap_mm: 0.5
+  journal_diameter_clearance_mm: 0.15
+  key_across_flats_mm: 10
+  key_clearance_mm: 0.25
+  key_diameter_mm: 12
+  lead_exit_length_mm: 12
+  lead_exit_width_mm: 10
+  motor_inset_mm: 3
+  motor_mount_pitch_mm: 17.6
+  motor_mount_x_mm: -20.6
+  motor_nut_recess_mm: 3
+  motor_pocket_test_pos:
+  - 20
+  - 145
+  - 0
+  motor_screw_length_mm: 30
+  mounting_fit_sides_mm:
+  - 0.1
+  - 0.2
+  - 0.4
+  output_bottom_mm: 20.5
+  output_diameter_mm: 30
+  output_nut_depth_mm: 3.4
+  output_split_mm: 25
+  output_top_mm: 28
+  print_role: shaft
+  rear_bridge_head_recess_mm: 0.6
+  rear_bridge_nut_roof_mm: 5.9
+  retainer_top_mm: 20
+  retention_nut_bottom_mm: 15
+  retention_nut_depth_mm: 3.3
+  retention_screw_length_mm: 10
+  shaft_across_flats_mm: 3.7
+  shaft_diameter_allowance_mm: 0.2
+  shaft_diameter_mm: 5.4
+  shaft_flats_allowance_mm: 0.2
+  stock_body_mm:
+  - 34
+  - 15
+  - 15
+  stock_hole_pitch_mm: 26
+  stock_pocket_allowance_mm: 0.4
+  wire_management: false
+variant: testing_shaft_parts
+width: 5

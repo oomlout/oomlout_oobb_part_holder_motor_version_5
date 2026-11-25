@@ -1,0 +1,64 @@
+bearing_size: '6705'
+depth: 12
+depth_note: Tallest print-layout piece; see assembly views for installed dimensions.
+family: assembly
+fit_note: Reference SOYO 42.3 x 42.3 x 38 mm, 24 mm shaft. Boss height 2 mm is an
+  estimate. Physical fits untested.
+geometry_note: NEMA17, 5 mm bore metal flange coupler; complete M6/OOBB and M3/OOBE
+  grids except documented mechanical exclusions.
+geometry_reference: source_file/nema17_reference/
+grid_pitch_mm: 15
+height: 3
+motor_style: nema17
+motor_type: stepper
+oobb_details:
+  bearing_axial_clearance_mm: 0.2
+  bearing_diameter_clearance_mm: 0.3
+  bearing_size: '6705'
+  coupler_angle_deg: 45
+  coupler_flange_diameter_mm: 22
+  coupler_flange_thickness_mm: 2
+  coupler_hub_diameter_mm: 10
+  coupler_hub_length_mm: 10
+  coupler_nut_lid_diameter_clearance_mm: 0.25
+  coupler_pcd_mm: 16
+  depth: 12
+  grid_pitch_mm: 15
+  height: 3
+  journal_diameter_clearance_mm: 0.15
+  motor_body_mm: 42.3
+  motor_boss_diameter_mm: 22
+  motor_boss_height_mm: 2
+  motor_length_mm: 38
+  motor_pitch_mm: 31
+  motor_style: nema17
+  motor_type: stepper
+  oobb_name: holder_motor_stepper_nema17_assembly
+  orientation: straight
+  output_style: square_3x3
+  shaft_diameter_mm: 5
+  shaft_extension_mm: 24
+  support: '6705'
+  variant: clamshell_square_3x3
+  width: 5
+oobb_name: holder_motor_stepper_nema17_assembly
+orientation: straight
+output_style: square_3x3
+support: '6705'
+taxonomy_1: oobb
+taxonomy_10: bearing
+taxonomy_11: '6705'
+taxonomy_12: clamshell_square_3x3
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: holder
+taxonomy_4: motor
+taxonomy_5: stepper
+taxonomy_6: nema17
+taxonomy_7: 5_width
+taxonomy_8: 3_height
+taxonomy_9: 12_depth
+variant: clamshell_square_3x3
+width: 5

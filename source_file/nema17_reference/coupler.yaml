@@ -1,0 +1,36 @@
+bore: 5
+style: flange
+svg_details:
+  diameter_baseplate: 22.0
+  diameter_cylindrical: 10.0
+  dimension_d_mm: 7.5
+  filename: working_mechanical_drawing
+  flange_thickness_mm: 2.0
+  grub_d_mm: 3.0
+  height_cylindrical: 10.0
+  height_total: 12.0
+  hole_distance_mm: 16.0
+  id_mm: 5.0
+  mount_hole_count: 4
+  mount_hole_d_mm: 3.0
+  part_category: MECHANICAL / FLANGE
+  part_code: OOMP FLANGE COUPLER
+  part_name: mechanical_coupler_flange_name_5_mm_bore
+  part_series: SHAFT COUPLER FLANGE
+  part_title: Ø5
+  svg_name: oomp_mech_drawing_flange
+taxonomy_1: mechanical
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: coupler
+taxonomy_3: flange_name
+taxonomy_4: 5_mm_bore
+taxonomy_5: ''
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''

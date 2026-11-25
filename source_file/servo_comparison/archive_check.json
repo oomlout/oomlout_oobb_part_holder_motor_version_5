@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "checked": 15,
+  "files": [
+    {
+      "file": "fs90r.pdf",
+      "passed": true
+    },
+    {
+      "file": "hs55.pdf",
+      "passed": true
+    },
+    {
+      "file": "hs65hb.pdf",
+      "passed": true
+    },
+    {
+      "file": "hs65hb_legacy.pdf",
+      "passed": true
+    },
+    {
+      "file": "sg90.html",
+      "passed": true
+    },
+    {
+      "file": "mg90s.html",
+      "passed": true
+    },
+    {
+      "file": "hitec_screws.html",
+      "passed": true
+    },
+    {
+      "file": "futaba_screws.html",
+      "passed": true
+    },
+    {
+      "file": "hs55_legacy.pdf",
+      "passed": true
+    },
+    {
+      "file": "sg90_legacy.pdf",
+      "passed": true
+    },
+    {
+      "file": "mg90s_legacy.pdf",
+      "passed": true
+    },
+    {
+      "file": "hs55_screw.html",
+      "passed": true
+    },
+    {
+      "file": "fs90.pdf",
+      "passed": true
+    },
+    {
+      "file": "hitec_resin_screw.html",
+      "passed": true
+    },
+    {
+      "file": "hitec_metal_screw.html",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "revision": "TT shaft connector test A",
+  "print_file": "3dpr.stl",
+  "image": "3dpr_labeled.png",
+  "footprint_mm": [
+    142.0,
+    186.7704009264241
+  ],
+  "samples": [
+    {
+      "code": "P",
+      "name": "plain",
+      "part_name": "Double-flat friction fit",
+      "pos": [
+        0,
+        0,
+        0
+      ],
+      "side": 0,
+      "style": "plain",
+      "type": "Plain socket"
+    },
+    {
+      "code": "C",
+      "name": "pinch",
+      "part_name": "One-piece split collar",
+      "pos": [
+        38,
+        0,
+        0
+      ],
+      "side": 0,
+      "style": "pinch",
+      "type": "Pinch clamp"
+    },
+    {
+      "code": "JA",
+      "name": "jaws_a",
+      "part_name": "Jaw A",
+      "pos": [
+        80,
+        0,
+        0
+      ],
+      "side": 1,
+      "style": "jaws",
+      "type": "Two-piece jaw clamp"
+    },
+    {
+      "code": "JB",
+      "name": "jaws_b",
+      "part_name": "Jaw B",
+      "pos": [
+        108,
+        0,
+        0
+      ],
+      "side": -1,
+      "style": "jaws",
+      "type": "Two-piece jaw clamp"
+    },
+    {
+      "code": "T1",
+      "name": "collet_body",
+      "part_name": "Outer body",
+      "pos": [
+        0,
+        65,
+        0
+      ],
+      "style": "collet",
+      "type": "Tapered collet"
+    },
+    {
+      "code": "T2",
+      "name": "collet_insert",
+      "part_name": "Slotted insert",
+      "pos": [
+        30,
+        65,
+        0
+      ],
+      "style": "collet",
+      "type": "Tapered collet"
+    },
+    {
+      "code": "T3",
+      "name": "collet_cap",
+      "part_name": "Draw cap and keyed stem",
+      "pos": [
+        60,
+        65,
+        0
+      ],
+      "style": "collet",
+      "type": "Tapered collet"
+    },
+    {
+      "code": "STOCK 26",
+      "name": "stock_adapter",
+      "part_name": "26 mm mounting pattern",
+      "pos": [
+        105,
+        65,
+        0
+      ],
+      "style": "stock",
+      "type": "Commercial hub adapter"
+    },
+    {
+      "code": "HUB",
+      "name": "carrier",
+      "part_name": "6704 journal and keyed socket",
+      "pos": [
+        0,
+        155,
+        0
+      ],
+      "style": "common",
+      "type": "Shared bearing carrier"
+    },
+    {
+      "code": "CAP",
+      "name": "output_lid",
+      "part_name": "Four-M3 attachment lid",
+      "pos": [
+        42,
+        155,
+        0
+      ],
+      "style": "common",
+      "type": "Shared output lid"
+    }
+  ]
+}

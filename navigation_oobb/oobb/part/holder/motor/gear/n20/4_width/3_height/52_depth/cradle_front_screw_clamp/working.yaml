@@ -1,0 +1,435 @@
+bip_39_2_word_array:
+- song
+- assist
+bip_39_2_word_no_space: songassist
+bip_39_2_word_space: song assist
+bip_39_2_word_underscore: song_assist
+bip_39_3_word_array:
+- song
+- assist
+- tattoo
+bip_39_3_word_no_space: songassisttattoo
+bip_39_3_word_space: song assist tattoo
+bip_39_3_word_underscore: song_assist_tattoo
+bip_39_full_array:
+- song
+- assist
+- tattoo
+- parrot
+- cereal
+- crucial
+- share
+- violin
+- drastic
+- boil
+- asthma
+- castle
+bip_39_full_no_space: songassisttattooparrotcerealcrucialshareviolindrasticboilasthmacastle
+bip_39_full_space: song assist tattoo parrot cereal crucial share violin drastic boil
+  asthma castle
+bip_39_full_underscore: song_assist_tattoo_parrot_cereal_crucial_share_violin_drastic_boil_asthma_castle
+depth: 52
+depth_note: Maximum individual print-piece Z extent; installed motor/output bounds
+  are recorded with the rendered assembly.
+directory: parts/oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+face_width: 3
+family: n20_holder
+filter: holder_motor_gear_n20
+fit_note: Default 25-30 mm rear uses M3 x 35 for the measured 25.6 mm motor profile.
+  Use the range-wide screw lengths for the longest body in each band, or choose a
+  shorter screw for the measured body while fully engaging the nut. M1.6 x 4 face
+  screws retain 1 mm nominal engagement. Physical fit and clamp torque require testing.
+geometry_note: 'Holder only: plain OOBB grid, M1.6 motor face screws, two front M3
+  countersunk tension screws and top-loaded native OOBB rear nut pockets. Rear is
+  6 mm thick with off-grid structural screw axes; no rails or sleeves. Range-wide
+  screw lengths are M3 x 35 / 40 / 45; tips can project beyond the slim rear.'
+geometry_reference: source_file/n20_reference/dimensions.yaml
+grid_pitch_mm: 15
+height: 3
+holder_style: cradle
+id: oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+id_no_class: oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+id_no_size: oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+id_no_type: oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+id_oobb: oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+kwargs:
+  bearing_axial_clearance_mm: 0.2
+  bearing_bottom_mm: 10
+  bearing_clamp_access_radius_mm: 1.45
+  bearing_id_mm: 20
+  bearing_join_centers_mm:
+  - - -22.5
+    - -7.5
+  - - -22.5
+    - 7.5
+  - - 22.5
+    - -7.5
+  - - 22.5
+    - 7.5
+  bearing_join_screw_length_mm: 25
+  bearing_nut_block_bottom_mm: -9.5
+  bearing_nut_block_depth_mm: 6.5
+  bearing_od_mm: 27
+  bearing_seat_diameter_clearance_mm: 0.3
+  bearing_spacer_bottom_mm: 3
+  bearing_spacer_top_mm: 8.8
+  bearing_width_mm: 4
+  body_clearance_mm: 0.25
+  boss_diameter_mm: 4
+  boss_height_mm: 0.7
+  clamp_centers_x_mm:
+  - -10.75
+  - 10.75
+  clamp_driver_radius_mm: 1.4
+  collet_cap_travel_mm: 0.5
+  collet_radial_clearance_mm: 0.05
+  cradle_axis_height_mm: 30
+  depth: 52
+  face_bottom_mm: -3
+  face_top_mm: 3
+  face_width: 3
+  filter: holder_motor_gear_n20
+  gearbox_length_mm: 9
+  grid_pitch_mm: 15
+  grip_bottom_mm: 1.5
+  height: 3
+  holder_style: cradle
+  journal_diameter_clearance_mm: 0.2
+  metal_hub_depth_mm: 5
+  metal_hub_diameter_mm: 17.5
+  metal_hub_pcd_mm: 12.7
+  minimum_grid_web_mm: 0.7
+  modes:
+  - 3dpr
+  motor_body_length_mm: 25.6
+  motor_face_screw_length_mm: 4
+  motor_face_screw_pitch_mm: 9
+  motor_height_mm: 10
+  motor_length_max_mm: 35
+  motor_length_min_mm: 20
+  motor_pocket_fit_values_mm:
+  - 0.15
+  - 0.25
+  - 0.35
+  motor_style: n20
+  motor_thread_engagement_limit_mm: 1.3
+  motor_type: gear
+  motor_width_mm: 12
+  navigation: false
+  oobb_name: holder_motor_gear_n20_holder_only
+  oomp_description_extra: 52_depth
+  oomp_description_main: holder_motor_gear_n20_holder_only_4_width_3_height
+  oomp_mode: project
+  oomp_run: false
+  output_bottom_mm: 18
+  output_thickness_mm: 8
+  overwrite: true
+  press_fit_profile_offset_mm: 0
+  rear_clamp_depth_mm: 6
+  rear_clamp_height_mm: 12
+  rear_clamp_screw_length_mm: 35
+  rear_clamp_width_mm: 31
+  rear_nut_depth_mm: 3.2
+  rear_nut_recess_mm: 0.5
+  rear_range_mm:
+  - 25
+  - 30
+  rear_ranges_mm:
+  - - 20
+    - 25
+  - - 25
+    - 30
+  - - 30
+    - 35
+  shaft_diameter_mm: 3
+  shaft_extension_mm: 10
+  shaft_fit_values_mm:
+  - 0
+  - 0.05
+  - 0.1
+  - 0.15
+  shaft_flat_mm: 2.5
+  shaft_profile_offset_mm: 0.08
+  type: oomlout_oobb_part_holder_motor_version_5_holder_motor_gear_n20_holder_only
+  variant: cradle_front_screw_clamp
+  width: 4
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+md5: cf21bb7950325868f14fa24243203811
+md5_10: cf21bb7950
+md5_10_upper: CF21BB7950
+md5_5: cf21b
+md5_5_upper: CF21B
+md5_6: cf21bb
+md5_6_alpha: 82y7v
+md5_6_alpha_upper: 82Y7V
+md5_6_upper: CF21BB
+motor_style: n20
+motor_type: gear
+name: Oobb Part Holder Motor Gear N20 4 Width 3 Height 52 Depth Cradle Front Screw
+  Clamp
+name_no_class: Oobb Part Holder Motor Gear N20 4 Width 3 Height 52 Depth Cradle Front
+  Screw Clamp
+name_no_size: Oobb Part Holder Motor Gear N20 4 Width 3 Height 52 Depth Cradle Front
+  Screw Clamp
+name_no_type: Oobb Part Holder Motor Gear N20 4 Width 3 Height 52 Depth Cradle Front
+  Screw Clamp
+name_proper: Oobb Part Holder Motor Gear N20 4 Width 3 Height 52 Depth Cradle Front
+  Screw Clamp
+name_space: oobb part holder motor gear n20 4 width 3 height 52 depth cradle front
+  screw clamp
+name_upper: OOBB PART HOLDER MOTOR GEAR N20 4 WIDTH 3 HEIGHT 52 DEPTH CRADLE FRONT
+  SCREW CLAMP
+navigation: false
+oobb_details:
+  bearing_axial_clearance_mm: 0.2
+  bearing_bottom_mm: 10
+  bearing_clamp_access_radius_mm: 1.45
+  bearing_id_mm: 20
+  bearing_join_centers_mm:
+  - - -22.5
+    - -7.5
+  - - -22.5
+    - 7.5
+  - - 22.5
+    - -7.5
+  - - 22.5
+    - 7.5
+  bearing_join_screw_length_mm: 25
+  bearing_nut_block_bottom_mm: -9.5
+  bearing_nut_block_depth_mm: 6.5
+  bearing_od_mm: 27
+  bearing_seat_diameter_clearance_mm: 0.3
+  bearing_spacer_bottom_mm: 3
+  bearing_spacer_top_mm: 8.8
+  bearing_width_mm: 4
+  body_clearance_mm: 0.25
+  boss_diameter_mm: 4
+  boss_height_mm: 0.7
+  clamp_centers_x_mm:
+  - -10.75
+  - 10.75
+  clamp_driver_radius_mm: 1.4
+  collet_cap_travel_mm: 0.5
+  collet_radial_clearance_mm: 0.05
+  cradle_axis_height_mm: 30
+  depth: 52
+  face_bottom_mm: -3
+  face_top_mm: 3
+  face_width: 3
+  gearbox_length_mm: 9
+  grid_pitch_mm: 15
+  grip_bottom_mm: 1.5
+  height: 3
+  holder_style: cradle
+  journal_diameter_clearance_mm: 0.2
+  metal_hub_depth_mm: 5
+  metal_hub_diameter_mm: 17.5
+  metal_hub_pcd_mm: 12.7
+  minimum_grid_web_mm: 0.7
+  motor_body_length_mm: 25.6
+  motor_face_screw_length_mm: 4
+  motor_face_screw_pitch_mm: 9
+  motor_height_mm: 10
+  motor_length_max_mm: 35
+  motor_length_min_mm: 20
+  motor_pocket_fit_values_mm:
+  - 0.15
+  - 0.25
+  - 0.35
+  motor_style: n20
+  motor_thread_engagement_limit_mm: 1.3
+  motor_type: gear
+  motor_width_mm: 12
+  oobb_name: holder_motor_gear_n20_holder_only
+  output_bottom_mm: 18
+  output_thickness_mm: 8
+  press_fit_profile_offset_mm: 0
+  rear_clamp_depth_mm: 6
+  rear_clamp_height_mm: 12
+  rear_clamp_screw_length_mm: 35
+  rear_clamp_width_mm: 31
+  rear_nut_depth_mm: 3.2
+  rear_nut_recess_mm: 0.5
+  rear_range_mm:
+  - 25
+  - 30
+  rear_ranges_mm:
+  - - 20
+    - 25
+  - - 25
+    - 30
+  - - 30
+    - 35
+  shaft_diameter_mm: 3
+  shaft_extension_mm: 10
+  shaft_fit_values_mm:
+  - 0
+  - 0.05
+  - 0.1
+  - 0.15
+  shaft_flat_mm: 2.5
+  shaft_profile_offset_mm: 0.08
+  variant: cradle_front_screw_clamp
+  width: 4
+oobb_name: holder_motor_gear_n20_holder_only
+oomp_key: oomp_oobb_part_holder_motor_gear_n20_4_width_3_height_52_depth_cradle_front_screw_clamp
+project_name: C:\gh\oomlout_oobb_part_holder_motor_version_5
+taxonomy_1: oobb
+taxonomy_10: cradle_front_screw_clamp
+taxonomy_10_capital: Cradle Front Screw Clamp
+taxonomy_10_first_letter: c
+taxonomy_10_first_letter_upper: C
+taxonomy_10_length_1: c
+taxonomy_10_length_2: cr
+taxonomy_10_length_3: cra
+taxonomy_10_length_4: crad
+taxonomy_10_length_5: cradl
+taxonomy_10_upper: CRADLE_FRONT_SCREW_CLAMP
+taxonomy_10_upper_length_1: C
+taxonomy_10_upper_length_2: CR
+taxonomy_10_upper_length_3: CRA
+taxonomy_10_upper_length_4: CRAD
+taxonomy_10_upper_length_5: CRADL
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: holder
+taxonomy_3_capital: Holder
+taxonomy_3_first_letter: h
+taxonomy_3_first_letter_upper: H
+taxonomy_3_length_1: h
+taxonomy_3_length_2: ho
+taxonomy_3_length_3: hol
+taxonomy_3_length_4: hold
+taxonomy_3_length_5: holde
+taxonomy_3_upper: HOLDER
+taxonomy_3_upper_length_1: H
+taxonomy_3_upper_length_2: HO
+taxonomy_3_upper_length_3: HOL
+taxonomy_3_upper_length_4: HOLD
+taxonomy_3_upper_length_5: HOLDE
+taxonomy_4: motor
+taxonomy_4_capital: Motor
+taxonomy_4_first_letter: m
+taxonomy_4_first_letter_upper: M
+taxonomy_4_length_1: m
+taxonomy_4_length_2: mo
+taxonomy_4_length_3: mot
+taxonomy_4_length_4: moto
+taxonomy_4_length_5: motor
+taxonomy_4_upper: MOTOR
+taxonomy_4_upper_length_1: M
+taxonomy_4_upper_length_2: MO
+taxonomy_4_upper_length_3: MOT
+taxonomy_4_upper_length_4: MOTO
+taxonomy_4_upper_length_5: MOTOR
+taxonomy_5: gear
+taxonomy_5_capital: Gear
+taxonomy_5_first_letter: g
+taxonomy_5_first_letter_upper: G
+taxonomy_5_length_1: g
+taxonomy_5_length_2: ge
+taxonomy_5_length_3: gea
+taxonomy_5_length_4: gear
+taxonomy_5_length_5: gear
+taxonomy_5_upper: GEAR
+taxonomy_5_upper_length_1: G
+taxonomy_5_upper_length_2: GE
+taxonomy_5_upper_length_3: GEA
+taxonomy_5_upper_length_4: GEAR
+taxonomy_5_upper_length_5: GEAR
+taxonomy_6: n20
+taxonomy_6_capital: N20
+taxonomy_6_first_letter: n
+taxonomy_6_first_letter_upper: N
+taxonomy_6_length_1: n
+taxonomy_6_length_2: n2
+taxonomy_6_length_3: n20
+taxonomy_6_length_4: n20
+taxonomy_6_length_5: n20
+taxonomy_6_upper: N20
+taxonomy_6_upper_length_1: N
+taxonomy_6_upper_length_2: N2
+taxonomy_6_upper_length_3: N20
+taxonomy_6_upper_length_4: N20
+taxonomy_6_upper_length_5: N20
+taxonomy_7: 4_width
+taxonomy_7_capital: 4 Width
+taxonomy_7_first_letter: '4'
+taxonomy_7_first_letter_upper: '4'
+taxonomy_7_length_1: '4'
+taxonomy_7_length_2: '4_'
+taxonomy_7_length_3: 4_w
+taxonomy_7_length_4: 4_wi
+taxonomy_7_length_5: 4_wid
+taxonomy_7_upper: 4_WIDTH
+taxonomy_7_upper_length_1: '4'
+taxonomy_7_upper_length_2: '4_'
+taxonomy_7_upper_length_3: 4_W
+taxonomy_7_upper_length_4: 4_WI
+taxonomy_7_upper_length_5: 4_WID
+taxonomy_8: 3_height
+taxonomy_8_capital: 3 Height
+taxonomy_8_first_letter: '3'
+taxonomy_8_first_letter_upper: '3'
+taxonomy_8_length_1: '3'
+taxonomy_8_length_2: '3_'
+taxonomy_8_length_3: 3_h
+taxonomy_8_length_4: 3_he
+taxonomy_8_length_5: 3_hei
+taxonomy_8_upper: 3_HEIGHT
+taxonomy_8_upper_length_1: '3'
+taxonomy_8_upper_length_2: '3_'
+taxonomy_8_upper_length_3: 3_H
+taxonomy_8_upper_length_4: 3_HE
+taxonomy_8_upper_length_5: 3_HEI
+taxonomy_9: 52_depth
+taxonomy_9_capital: 52 Depth
+taxonomy_9_first_letter: '5'
+taxonomy_9_first_letter_upper: '5'
+taxonomy_9_length_1: '5'
+taxonomy_9_length_2: '52'
+taxonomy_9_length_3: '52_'
+taxonomy_9_length_4: 52_d
+taxonomy_9_length_5: 52_de
+taxonomy_9_upper: 52_DEPTH
+taxonomy_9_upper_length_1: '5'
+taxonomy_9_upper_length_2: '52'
+taxonomy_9_upper_length_3: '52_'
+taxonomy_9_upper_length_4: 52_D
+taxonomy_9_upper_length_5: 52_DE
+variant: cradle_front_screw_clamp
+width: 4
